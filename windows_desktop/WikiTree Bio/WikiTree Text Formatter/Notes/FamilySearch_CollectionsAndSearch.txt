@@ -1,0 +1,17 @@
+﻿https://www.wikitree.com/wiki/Stephens-5056
+https://familysearch.org/search/record/results?count=75&englishSubcountryName=Warwickshire&query=%2Bgivenname%3AJohn~%20%2Bsurname%3AStephens%20%2Bbirth_year%3A1852-1854~%20%2Brecord_country%3AEngland%20%2Brecord_subcountry%3A%22England%2CWarwickshire%22
+An example directly addressing the collection with a place (county)
+Base address + &query=%2Bgivenname%3AJohn~%20%2Bsurname%3AStephens%20%2Bbirth_place%3AWarwickshire%20%2Bbirth_year%3A1852-1854~&collection_id=1493747
+%2B is +, %3A is : so that line above becomes
+&query=+givenname:John~ +surname:Stephens +birth_place:Warwickshire +birth_year:1852-1854~&collection_id=1493747
+
+The tilde ~ after the given or suname is the wild card
+
+For England and Wales 1861 census add: &collection_id=1493747 after removing or not adding %22
+For England and Wales 1871 census add: &collection_id=1538354
+For England and Wales 1881 census add: &collection_id=2562194
+For England and Wales 1891 census add: &collection_id=1865747
+For England and Wales 1901 census add: &collection_id=1888129
+For England and Wales 1911 census add: &collection_id=1921547
+
+

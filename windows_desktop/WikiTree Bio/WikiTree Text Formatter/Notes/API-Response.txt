@@ -1,0 +1,174 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<title>MediaWiki API</title>
+</head>
+<body>
+<pre>
+<span style="color:blue;">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;</span>
+<span style="color:blue;">&lt;api&gt;</span>
+  <span style="color:blue;">&lt;error code=&quot;help&quot; info=&quot;&quot;&gt;</span>
+  
+  
+  <b>******************************************************************</b>
+  <b>**                                                              **</b>
+  <b>**  This is an auto-generated WikiTree API documentation page   **</b>
+  <b>**                                                              **</b>
+  <b>******************************************************************</b>
+  
+  Status:          All features shown on this page are in beta format and
+                   are still in active development. They may change at any time.
+  
+  
+  
+Parameters:
+  format         - The format of the output
+                   One value: json, xmlfm
+                   Default: json
+  action         - What action you would like to perform
+                   One value: help, login, getPerson, getPrivacyLevels, getWatchlist, getProfile, getBio, getAncestors, getRelatives, getPersonFSConnections, addPersonFSConnection, removePersonFSConnection
+                   Default: help
+  version        - When showing help, include version for each module
+
+
+<b>*** *** *** *** *** *** *** *** *** ***  Modules  *** *** *** *** *** *** *** *** *** ***</b> 
+
+<b>* action=help *</b>
+  Display this help screen.
+
+<b>* action=login *</b>
+  This module is used to login and get the authentication tokens. 
+  In the event of a successful log-in, a cookie will be attached
+  to your session. In the event of a failed log-in, you will not 
+  be able to attempt another log-in through this method for 60 seconds.
+Parameters:
+  email          - Email address
+  password       - Password
+  domain         - Domain (optional)
+  user_id        - User ID (for checking login)
+Example:
+  <a href="api.php?action=login&amp;amp;email=email&amp;amp;password=password">api.php?action=login&amp;amp;email=email&amp;amp;password=password</a>
+
+<b>* action=getPerson *</b>
+  This module is used to retrieve Person data. The input key is either a WikiTree ID or a numeric user_id.
+Parameters:
+  key            - WikiTree ID or user_id
+  fields         - Comma-delimited list of profile data Fields to retrieve.
+Examples:
+  <a href="api.php?action=getPerson&amp;amp;key=WikiTreeID">api.php?action=getPerson&amp;amp;key=WikiTreeID</a>
+  <a href="api.php?action=getPerson&amp;amp;key=user_id&amp;amp;fields=Name,FirstName,LastNameAtBirth,RealName,Father,Mother">api.php?action=getPerson&amp;amp;key=user_id&amp;amp;fields=Name,FirstName,LastNameAtBirth,RealName,Father,Mother</a>
+
+<b>* action=getPrivacyLevels *</b>
+  This module is used to retrieve the Privacy Level descriptions. 
+Parameters:
+Example:
+  <a href="api.php?action=getPrivacyLevles">api.php?action=getPrivacyLevles</a>
+
+<b>* action=getWatchlist *</b>
+  This module is used to retrieve a Watchlist.
+Parameters:
+  getPerson      - 1 = retrieve Person profiles, 0 = skip Person Profiles; default = 1
+                   Default: 1
+  getSpace       - 1 = retrieve Space profiles, 0 = skip Space Profiles; default = 1
+                   Default: 1
+  onlyLiving     - 1 = only retrieve Person profiles with IsLiving = true
+                   Default: 0
+  excludeLiving  - 1 = only retrieve Person profiles with IsLiving = false
+                   Default: 0
+  fields         - Comma-delimited list of profile data Fields to retrieve
+                   Default: 
+  order          - Sort order (user_id, user_name, user_last_name_current, user_birth_date, user_death_date, page_touched)
+                   Default: 
+  limit          - Limit to number of records returned. Default = 100
+                   Default: 0
+  offset         - Offset to first record returned in set. Default = 0.
+                   Default: 0
+Example:
+  <a href="api.php?action=getWatchlist">api.php?action=getWatchlist</a>
+
+<b>* action=getProfile *</b>
+  This module is used to retrieve Person or Space profile data. The input key is either a WikiTree ID, a Space:Profile name, or a numeric page_id for a Person/Space profile.
+Parameters:
+  key            - WikiTree ID, Space:Profile, or page_id of Person/Space profile
+Examples:
+  <a href="api.php?action=getProfile&amp;amp;key=Wikitree-1">api.php?action=getProfile&amp;amp;key=Wikitree-1</a>
+  <a href="api.php?action=getProfile&amp;amp;key=Space:Mars">api.php?action=getProfile&amp;amp;key=Space:Mars</a>
+  <a href="api.php?action=getProfile&amp;amp;key=16510">api.php?action=getProfile&amp;amp;key=16510</a>
+
+<b>* action=getBio *</b>
+  This module is used to retrieve the bio text for a Person profile. The input key is either a WikiTree ID or a numeric user_id for a Person profile.
+Parameters:
+  key            - WikiTree ID or user_id of Person profile
+Examples:
+  <a href="api.php?action=getBio&amp;amp;key=Wikitree-1">api.php?action=getBio&amp;amp;key=Wikitree-1</a>
+  <a href="api.php?action=getBio&amp;amp;key=16510">api.php?action=getBio&amp;amp;key=16510</a>
+
+<b>* action=getAncestors *</b>
+  This module is used to retrieve an Ancestor list.
+Parameters:
+  key            - WikiTree ID or user_id of Person profile
+  depth          - Depth to gather Ancestors (1-10, default 5)
+                   Default: 5
+Example:
+  <a href="api.php?action=getAncestors&amp;amp;key=Whitten-1">api.php?action=getAncestors&amp;amp;key=Whitten-1</a>
+
+<b>* action=getRelatives *</b>
+  This module is used to retrieve relatives (spouses, parents, children, and/or siblings) of WikiTree person profiles.
+Parameters:
+  keys           - WikiTree IDs or user_ids of person profiles to retrieve relatives for.
+  getParents     - If true, retrieve parents of each person.
+  getSpouses     - If true, retrieve spouses of each person.
+  getSiblings    - If true, retrieve siblings of each person.
+  getChildren    - If true, retrieve children of each person.
+Example:
+  <a href="api.php?action=getRelatives&amp;amp;keys=16510,16511&amp;amp;getParents=1">api.php?action=getRelatives&amp;amp;keys=16510,16511&amp;amp;getParents=1</a>
+
+<b>* action=getPersonFSConnections *</b>
+  This module is used to retrieve FamilySearch connections for a given WikiTree Profile. The input key is either a WikiTree ID or a numeric user_id.
+Parameters:
+  key            - WikiTree ID or user_id
+Example:
+  <a href="api.php?action=getPersonFSConnections&amp;amp;key=WikiTreeID">api.php?action=getPersonFSConnections&amp;amp;key=WikiTreeID</a>
+
+<b>* action=addPersonFSConnection *</b>
+  This module is used to add a FamilySearch connection to a given WikiTree Profile. The input key is either a WikiTree ID or a numeric user_id.
+Parameters:
+  key            - WikiTree ID or user_id
+  fs_id          - Family Search ID (XXXX-XXX)
+  fs_modified    - Family Search last-modified (2015-04-21 10:15:30)
+  certainty      - Certainty of connection, &amp;quot;certain&amp;quot; or &amp;quot;uncertain&amp;quot;
+Example:
+  <a href="api.php?action=addPersonFSConnection&amp;amp;key=WikiTreeID&amp;amp;fs_id=ABCD-123,fs_modified=2015-10-10+11:12:30,certainty=certain">api.php?action=addPersonFSConnection&amp;amp;key=WikiTreeID&amp;amp;fs_id=ABCD-123,fs_modified=2015-10-10+11:12:30,certainty=certain</a>
+
+<b>* action=removePersonFSConnection *</b>
+  This module is used to remove FamilySearch connections for a given WikiTree Profile.
+Parameters:
+  key            - WikiTree ID or user_id
+  fs_id          - Family Search ID (XXXX-XXX)
+Example:
+  <a href="api.php?action=removePersonFSConnection&amp;amp;key=WikiTreeID&amp;amp;fs_id=ABCD-123">api.php?action=removePersonFSConnection&amp;amp;key=WikiTreeID&amp;amp;fs_id=ABCD-123</a>
+
+
+<b>*** *** *** *** *** *** *** *** *** ***  Formats  *** *** *** *** *** *** *** *** *** ***</b> 
+
+<b>* format=json *</b>
+  Output data in JSON format
+Parameters:
+  callback       - If specified, wraps the output into a given function call
+Example:
+  <a href="api.php?action=query&amp;amp;meta=siteinfo&amp;amp;siprop=namespaces&amp;amp;format=json">api.php?action=query&amp;amp;meta=siteinfo&amp;amp;siprop=namespaces&amp;amp;format=json</a>
+
+<b>* format=xmlfm *</b>
+  Output data in XML format (pretty-print in HTML)
+Example:
+  <a href="api.php?action=query&amp;amp;meta=siteinfo&amp;amp;siprop=namespaces&amp;amp;format=xmlfm">api.php?action=query&amp;amp;meta=siteinfo&amp;amp;siprop=namespaces&amp;amp;format=xmlfm</a>
+
+
+<b>*** Credits: ***</b>
+   
+<span style="color:blue;">&lt;/error&gt;</span>
+<span style="color:blue;">&lt;/api&gt;</span>
+</pre>
+</body>
+</html>
+<!-- Served in 0.114 secs. -->

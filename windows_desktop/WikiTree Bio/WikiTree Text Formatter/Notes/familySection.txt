@@ -1,0 +1,55 @@
+﻿<span class="large"><b>Edit Family</b></span>
+<table width="100%" border="0">
+
+<tr><!-- section for father -->
+	<td align="left" valign="top" width="35%"><!-- red dot indicates that this is private information on a private profile --> Father:</td>
+    <td width="65%">
+<!-- there is no father, invite to add -->
+<span class="SMALL">[<a href="/index.php?title=Sparrow-783&action=editfamily&w=father" target="_blank">add father</a>]</span>
+<!-- end if father -->
+<br /><br />
+    </td>
+</tr>
+<tr>
+	<td align="left" valign="top"> Mother:</td>
+    <td>
+<span class="SMALL">[<a href="/index.php?title=Sparrow-783&action=editfamily&w=mother" target="_blank">add mother</a>]</span>
+<br /><br />
+    </td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"> Siblings:</td>
+    <td>        <span class="SMALL">[<a href="/index.php?title=Sparrow-783&amp;action=editfamily&amp;w=sibling" target="_blank">add/edit</a>]</span>
+         <br /><div class="SMALL" align="right"><label><input type=checkbox name="mNoSiblings" value="1" >No  siblings</label></div><br />
+    </td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"> Spouses:</td>
+    <td>
+	<a href="/wiki/Chappel-185" title="Wife b. 1712-12-17 North Nibley, Gloucestershire, England">Esther Chappel</a>
+		<img src="/images/icons/bullet60.gif" width="10" height="10" alt="Privacy Level" title="Privacy Level" />
+		<a href="/genealogy/Chappel-Family-Tree-185"><img src="/images/icons/pedigree.gif" border="0" width="8" height="11" alt="ancestors" title="Ancestor Pedigree Chart"></a>
+<a href="/treewidget/Chappel-185/300"><img src="/images/icons/family-group.gif" border="0" width="7" height="11" alt="family group sheet" title="Family Group Sheet"></a>
+<a href="/genealogy/Chappel-Descendants-185"><img src="/images/icons/descendant-link.gif" border="0" width="8" height="11" alt="descendants" title="Descendant List"></a>
+<br /><span class="SMALL">[<a href="/index.php?title=Sparrow-783&action=editfamily&w=editspouse&s=12591809" target="_blank">edit marriage to Esther</a>]</span>
+	<br />
+<span class="SMALL">[<a href="/index.php?title=Sparrow-783&action=editfamily&w=spouse" target="_blank">add/remove a spouse</a>]</span><br />
+<br /><br />
+    </td>
+</tr>
+<tr>
+	<td align="left" valign="top"> Children:</td>
+    <td>
+	<a href="/wiki/Sparrow-775" title="Son b. 1737-00-00 Wotton Under Edge, Gloucestershire, England">Samuel  Sparrow</a>
+		<img src="/images/icons/bullet60.gif" width="10" height="10" alt="Privacy Level" title="Privacy Level" />
+		<a href="/genealogy/Sparrow-Family-Tree-775"><img src="/images/icons/pedigree.gif" border="0" width="8" height="11" alt="ancestors" title="Ancestor Pedigree Chart"></a>
+<a href="/treewidget/Sparrow-775/300"><img src="/images/icons/family-group.gif" border="0" width="7" height="11" alt="family group sheet" title="Family Group Sheet"></a>
+<a href="/genealogy/Sparrow-Descendants-775"><img src="/images/icons/descendant-link.gif" border="0" width="8" height="11" alt="descendants" title="Descendant List"></a>
+	<br />
+ <span class="SMALL">[<a href="/index.php?title=Sparrow-783&action=editfamily&w=child" target="_blank">add/edit</a>]</span>
+         <br /><div class="SMALL" align="right"><label><input type=checkbox name="mNoChildren" value="1" > No more children</label></div><br /><br />
+    </td>
+</tr>
+</table>

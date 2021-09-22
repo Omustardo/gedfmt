@@ -1,0 +1,14 @@
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\bin\x86\Release\WikiTree Text Formatter.exe.config
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\bin\x86\Release\WikiTree Text Formatter.exe
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\bin\x86\Release\WikiTree Text Formatter.pdb
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\bin\x86\Release\WikiTree Text Formatter.xml
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\obj\x86\Release\WikiTree_Text_Formatter_Desktop.AboutDonations.resources
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\obj\x86\Release\WikiTree_Text_Formatter_Desktop.CopySelector.resources
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\obj\x86\Release\WikiTree_Text_Formatter_Desktop.FUnderConstruction.resources
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\obj\x86\Release\WikiTree_Text_Formatter_Desktop.PasteBox.resources
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\obj\x86\Release\WikiTree_Text_Formatter_Desktop.WTTFMain.resources
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\obj\x86\Release\WikiTree_Text_Formatter_Desktop.Resources.resources
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\obj\x86\Release\WikiTree Text Formatter.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\obj\x86\Release\WikiTree Text Formatter.exe
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\obj\x86\Release\WikiTree Text Formatter.xml
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Text Formatter\obj\x86\Release\WikiTree Text Formatter.pdb

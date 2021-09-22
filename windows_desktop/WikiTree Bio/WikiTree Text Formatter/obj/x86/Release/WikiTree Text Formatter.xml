@@ -1,0 +1,214 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WikiTreeTextFormatter
+</name>
+</assembly>
+<members>
+<member name="M:WikiTree_Text_Formatter_Desktop.ListsClasses.TI.ToString">
+	<summary>
+	</summary>
+	<returns></returns>
+	<remarks>Required. Returns the string for the display member</remarks>
+</member><member name="M:WikiTree_Text_Formatter_Desktop.ListsClasses.TD.ToString">
+	<summary>
+	</summary>
+	<returns></returns>
+	<remarks>Required. Returns the string for the display member</remarks>
+</member><member name="M:WikiTree_Text_Formatter_Desktop.ListsClasses.TI2.ToString">
+	<summary>
+ Returns the string for the display member
+ </summary>
+	<returns></returns>
+	<remarks>Required.</remarks>
+</member><member name="M:WikiTree_Text_Formatter_Desktop.ListsClasses.T2.ToString">
+	<summary>
+ Returns the string for the display member
+ </summary>
+	<returns></returns>
+	<remarks>Required.</remarks>
+</member><member name="M:WikiTree_Text_Formatter_Desktop.WTBData.ExtractLineData(System.String)">
+	<summary>
+ This is good for Family Search data only
+ </summary>
+	<param name="TextLine"></param>
+	<remarks></remarks>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.WTBData.CityOrBorough">
+	<summary>
+ Normally used for FMP census only
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.WTBData.Street">
+	<summary>
+ The street from a census form (mainly FMP)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.WTBData.Town">
+	<summary>
+ FMP census town
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WikiTree_Text_Formatter_Desktop.WTBData.ParseCharacters(System.String)">
+	<summary>
+ Replaces quote marks [ ' ] with [ ’ ] 
+ </summary>
+	<param name="incomingText"></param>
+	<returns>Parsed string</returns>
+</member><member name="M:WikiTree_Text_Formatter_Desktop.WTBData.UnParseCharacters(System.String)">
+	<summary>
+ Restores quote marks [ ’ ] with [ ' ]
+ </summary>
+	<param name="incomingText"></param>
+	<returns>Parsed string</returns>
+</member><member name="M:WikiTree_Text_Formatter_Desktop.WTBRoutines.FormatDateString(System.String,System.Int32,System.Int32)">
+	<summary>
+ Routine to format a date
+ </summary>
+	<param name="IncomingDate">An Asian formatted date</param>
+	<param name="FormatIndex">The index number of the combo box</param>
+	<param name="StyleIndex">The index number of the combo box</param>
+	<returns>Returns a formatted date string as a string value</returns>
+	<remarks>The incoming date is always in Asian format</remarks>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.admin_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.arrow_down_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.btn_donate_only">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.cancel_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.ChromeSavePage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.clear_left">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.clear_left1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.clip1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.clip1_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.close_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.confirm_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.confirm_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.Database_Active">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.disc_media_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.documents_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.FirefoxSavePage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.hard_disk_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.help_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.help_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.Household_double_indent">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.IESavePage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.MagBlueFade600x300">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.save_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.trash_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.My.Resources.Resources.underConstruction">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:WikiTree_Text_Formatter_Desktop.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.eventsItem.EventPlace">
+	<summary>
+ The place will probably also included the references
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WikiTree_Text_Formatter_Desktop.outSection.Children">
+	<summary>
+ Only filled for marriages
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:WikiTree_Text_Formatter_Desktop.outSection.SectionPlace">
+	<summary>
+ The place will probably also included the references
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

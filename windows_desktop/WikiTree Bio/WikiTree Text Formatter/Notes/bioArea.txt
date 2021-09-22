@@ -1,0 +1,40 @@
+﻿<a name="text"></a>
+<span class="large"><b>Edit Text</b></span><br />
+
+<!-- edit page has $recreate here to let users recreate deleted article -->
+<!-- edit page has summary, minor edit, watch page functions here -->
+<!-- edit page has summary preview here if this is a preview --> 
+<!-- Use the "text" of the "page" as the free-text bio for the Person --> 
+
+<a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> 
+This is the body of the profile. It's free space for William Sparrow's <a href="/wiki/Biographies" target="_Help">biography</a>, <a href="/wiki/Research_Notes" target="_Help">research notes</a>, <a href="/wiki/Sources" target="_Help">sources</a>, and <a href="/wiki/Categories">categories</a>. It's an ongoing collaboration so don't worry about making it perfect. Add or edit what you can and encourage others to add more.
+<a href="/wiki/Editing_Tips" target="_Help">Click here for editing tips.<img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Editing Help"></a><br />
+
+<div id='toolbar'>
+<script type='text/javascript'>
+/*<![CDATA[*/
+addButton('/skins/common/images/button_bold.png','Bold text','\'\'\'','\'\'\'','Bold text','mw-editbutton-bold');
+addButton('/skins/common/images/button_italic.png','Italic text','\'\'','\'\'','Italic text','mw-editbutton-italic');
+addButton('/skins/common/images/button_link.png','Internal link','[[',']]','Link title','mw-editbutton-link');
+addButton('/skins/common/images/button_extlink.png','External link (remember http:// prefix)','[',']','http://www.example.com link title','mw-editbutton-extlink');
+addButton('/skins/common/images/button_headline.png','Level 3 headline','\n=== ',' ===\n','Headline text','mw-editbutton-headline');
+addButton('/skins/common/images/button_nowiki.png','Ignore wiki formatting','<nowiki>','<\/nowiki>','Insert non-formatted text here','mw-editbutton-nowiki');
+addButton('/skins/common/images/button_hr.png','Horizontal line (use sparingly)','\n----\n','','','mw-editbutton-hr');
+/*]]>*/
+</script>
+</div>
+
+<textarea tabindex="18" accesskey="," name="wpTextbox1" id="wpTextbox1" rows="50" cols="70" >
+== Biography ==
+Recorded in Gloucestershire Baptisms as William with father William&lt;ref&gt;http://search.findmypast.co.uk/record?id=gbprs%2fb%2f20015279%2f1&lt;/ref&gt;
+
+
+== Sources ==
+&lt;references /&gt;
+* &quot;England Births and Christenings, 1538-1975,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:NGQM-N46 : accessed 19 March 2016), Will Sparrow, 13 Dec 1712; citing SLIMBRIDGE,GLOUCESTER,ENGLAND, reference ; FHL microfilm 427,773.
+
+* &quot;England Marriages, 1538–1973  ,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:NVK5-K92 : accessed 6 March 2016), William Sparrow and Esther Chappel, 02 Oct 1737; citing Wotton Under Edge,Gloucester,England, reference ; FHL microfilm 427,812.
+</textarea>
+<input class="small" type=button name="preview" value="Preview" onClick="showPreview(document.getElementById('wpTextbox1').value, 'previewbox');">
+<div id="previewbox" style="display:none; border:1px solid grey; margin: 10px; padding: 10px;"></div>
+

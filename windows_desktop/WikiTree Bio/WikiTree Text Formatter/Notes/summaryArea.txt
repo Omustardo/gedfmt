@@ -1,0 +1,6 @@
+﻿<p><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> Explain your changes: <input class="small" type="text" tabindex="16" value="" name="wpSummary" id="wpSummary" maxlength="150" size="70" /><br />
+Use this optional field to explain your current changes to other WikiTree users. Your comments will be recorded on the <a href="/index.php?title=Special:NetworkFeed&amp;who=Sparrow-783" target="_new">Changes page</a> and in other <a href="/wiki/Activity_Feed" target="_Help">Activity Feeds</a> alongside the basic summary. When done, click the "Save Changes" button here or at the bottom of the page. To discard your changes, simply <a href="/wiki/Sparrow-783">return to William Sparrow's profile</a> without saving.</p>
+<div align="center"><input id="wpSave" name="wpSave" type="submit" tabindex="17" value="Save Changes" accesskey="s" title="Save your changes" onClick="$(window).unbind('beforeunload');" /></div>
+
+	<div class="ten columns alpha">
+

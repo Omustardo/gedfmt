@@ -1,0 +1,854 @@
+﻿// Send our login(user_id) function and parameter
+type: "POST",
+dataType: 'json',
+data: { 'action': 'login', 'user_id': user_id },
+
+// This function executes a login request. It's called by the form in the "need_login" div below and posts the form content to the API with the login action.
+// The login action expects an email address and password. 
+// The result is 'Success' if the login worked, and the userid and username fields are returned. 
+function doLogin() { 
+	// Get the form values. We could do some parsing here...
+	var wpEmail = $('#wpEmail').val();
+	var wpPassword2 = $('#wpPassword2').val();
+
+	// Call the login(email,password) function of the API.
+	$.ajax({
+		url: API_URL,
+		crossDomain: true,
+		xhrFields: { withCredentials: true }, 
+		type: "POST",
+		dataType: 'json',
+		data: { 'action': 'login', 'email': wpEmail, 'password': wpPassword2 },
+
+		// On success, show/hide the divs, set our user labels, and set the cookies.
+		success: function(data) { 
+			$('#logged_in').show();
+			$('#need_login').hide();
+			$('.user_id_label').html(data.login.userid);
+			$('.user_name_label').html(data.login.username);
+			$.cookie('wikitree_wtb_UserID', data.login.userid);
+			$.cookie('wikitree_wtb_UserName', data.login.username);
+		},
+		error: function(xhr, status) { 
+			alert("Login failed. Please try again.");
+		}
+	});
+}
+
+============================================================================================================================
+
+getPerson(user_id_or_name, fields)
+Id, Name, FirstName, MiddleName, LastNameAtBirth, LastNameCurrent, Nicknames, LastNameOther, RealName, Prefix, Suffix, BirthLocation, DeathLocation, Gender, BirthDate,DeathDate, Photo, Father,Mother, Privacy, Parents,Siblings,Spouses, Children
+
+// This function retrieves person information. The "key" that is sent to the API "getPerson" action can be a numeric user_id or the
+// WikiTreeID (e.g. Adams-35). The output here is just dumped into a div for display. 
+function getPerson(user_id_or_name, fields) { 
+	// Add to our putput what we're looking for.
+	$('#output').html('The user id/name provided is:'+user_id_or_name);
+
+	// Go get the person data. 
+	$.ajax({
+		url: API_URL,
+		crossDomain: true,
+		xhrFields: { withCredentials: true }, 
+		type: "POST",
+		dataType: 'json',
+		data: { 'action': 'getPerson', 'key': user_id_or_name, 'fields': fields, 'format': 'json' },
+
+		// The returned data is in JSON format. Turn that into a formatted string and display it.
+		success: function(data) { 
+			$('#output').append("<br><br>The full results are:\n<pre>"+JSON.stringify(data, null, 4)+"</pre>");
+		},
+
+		// On error, report the "status" we got back.
+		error: function(xhr, status) { 
+			$('#output').append("<br>There was an error calling getPerson.");
+		}
+	});
+
+}
+
+Results of GetPerson call
+[
+	 {
+        "user_name": "Meredith-1400",
+        "person": {
+            "Id": 13130157,
+            "Name": "Meredith-1400",
+            "FirstName": "Thomas",
+            "LastNameCurrent": "Meredith",
+            "Mother": 0,
+            "Father": "13130386"
+        },
+        "status": 0
+    }
+
+	The key provided is:Meredith-1400
+]
+
+============================================================================================================================
+
+// Get the Privacy level description
+function getPrivacyLevels() { 
+	$.ajax({
+		url: API_URL,
+		type: "POST",
+		crossDomain: true,
+		xhrFields: { withCredentials: true }, 
+		dataType: 'json',
+		data: { 'action': 'getPrivacyLevels' },
+		success: function(data) { 
+			$('#output').html("The full results are:\n<pre>"+JSON.stringify(data, null, 4)+"</pre>");
+		},
+		error: function(xhr, status) { 
+			$('#output').append("<br>There was an error getting the person:"+data[0].status);
+		}
+	});
+}
+
+============================================================================================================================
+
+// Log the user out of apps.wikitree.com by deleting all the cookies
+function appsLogout() { 
+        $.removeCookie('wikitree_wtb_UserID');
+        $.removeCookie('wikitree_wtb_UserName');
+	document.location.href = 'http://apps.wikitree.com/apps/api_demo.php';
+}
+
+============================================================================================================================
+
+// This function retrieves a Watchlist.
+function getWatchlist() { 
+	// Go get the watchlist data. 
+	$.ajax({
+		url: API_URL,
+		type: "POST",
+		crossDomain: true,
+		xhrFields: { withCredentials: true }, 
+		dataType: 'json',
+		data: { 'action': 'getWatchlist', 'format': 'json' },
+		success: function(data) { 
+			$('#output').append("<br><br>The full results are:\n<pre>"+JSON.stringify(data, null, 4)+"</pre>");
+		},
+		error: function(xhr, status) { 
+			$('#output').append("<br>There was an error getting the person:"+data[0].status);
+		}
+	});
+
+}
+
+============================================================================================================================
+
+// This function retrieves person/space information. 
+function getProfile(key) { 
+	// Add to our putput what we're looking for.
+	$('#output').html('The key provided is:'+key);
+
+	// Go get the person data. 
+	$.ajax({
+		url: API_URL,
+		type: "POST",
+		crossDomain: true,
+		xhrFields: { withCredentials: true }, 
+		dataType: 'json',
+		data: { 'action': 'getProfile', 'key': key, 'format': 'json' },
+		success: function(data) { 
+			$('#output').append("<br><br>The full results are:\n<pre>"+JSON.stringify(data, null, 4)+"</pre>");
+		},
+		error: function(xhr, status) { 
+			$('#output').append("<br>There was an error getting the profile:"+data[0].status);
+		}
+	});
+
+}
+
+Results of GetProfile
+
+The full results are:
+[
+    {
+        "page_name": "Meredith-1400",
+        "profile": {
+            "Id": 13130157,
+            "Name": "Meredith-1400",
+            "FirstName": "Thomas",
+            "MiddleName": "Harper",
+            "LastNameAtBirth": "Meredith",
+            "LastNameCurrent": "Meredith",
+            "Nicknames": "",
+            "LastNameOther": "",
+            "RealName": "Thomas",
+            "Prefix": "",
+            "Suffix": "",
+            "BirthLocation": "St. George Hanover Square, London, England",
+            "DeathLocation": "Bradford, Yorkshire, England",
+            "Gender": "Male",
+            "BirthDate": "1850-00-00",
+            "DeathDate": "1890-00-00",
+            "BirthDateDecade": "1850's",
+            "DeathDateDecade": "1890's",
+            "Photo": null,
+            "IsLiving": "0",
+            "Father": "13130386",
+            "Mother": null,
+            "Privacy": "60",
+            "IsPerson": 1,
+            "Touched": "20160526193239",
+            "ShortName": "Thomas Meredith",
+            "BirthNamePrivate": "Thomas Meredith",
+            "LongNamePrivate": "Thomas H. Meredith",
+            "LongName": "Thomas Harper Meredith",
+            "BirthName": "Thomas Harper Meredith",
+            "Privacy_IsPrivate": false,
+            "Privacy_IsPublic": false,
+            "Privacy_IsOpen": true,
+            "Privacy_IsAtLeastPublic": true,
+            "Privacy_IsSemiPrivate": false,
+            "Privacy_IsSemiPrivateBio": false
+        },
+        "status": 0
+    }
+]
+	{
+        "items": [
+            {
+                "key": "11563753",
+                "user_id": 11563753,
+                "user_name": "Meredith-1182",
+                "person": {
+                    "Id": 11563753,
+                    "Name": "Meredith-1182",
+                    "FirstName": "David",
+                    "MiddleName": "Anthony",
+                    "LastNameAtBirth": "Meredith",
+                    "LastNameCurrent": "Loring",
+                    "Nicknames": "",
+                    "LastNameOther": "",
+                    "RealName": "David",
+                    "Prefix": "",
+                    "Suffix": "",
+                    "BirthLocation": "L & N.S Hospital, Lowestoft, Suffolk, England",
+                    "DeathLocation": "",
+                    "Gender": "Male",
+                    "BirthDate": "1948-04-21",
+                    "DeathDate": "0000-00-00",
+                    "BirthDateDecade": "1940's",
+                    "DeathDateDecade": "unknown",
+                    "Photo": "Meredith-1182.jpg",
+                    "IsLiving": "1",
+                    "Father": "11619414",
+                    "Mother": "11619344",
+                    "Privacy": "35",
+                    "IsPerson": 1,
+                    "Touched": "20160526133753",
+                    "ShortName": "David (Meredith) Loring",
+                    "BirthNamePrivate": "David Meredith",
+                    "LongNamePrivate": "David A. (Meredith) Loring",
+                    "LongName": "David Anthony (Meredith) Loring",
+                    "BirthName": "David Anthony Meredith",
+                    "Privacy_IsPrivate": false,
+                    "Privacy_IsPublic": false,
+                    "Privacy_IsOpen": false,
+                    "Privacy_IsAtLeastPublic": false,
+                    "Privacy_IsSemiPrivate": true,
+                    "Privacy_IsSemiPrivateBio": false,
+                    "PhotoData": null,
+                    "Parents": {
+                        "11619344": {
+                            "Id": 11619344,
+                            "Name": "Meredith-1187",
+                            "FirstName": "Margery",
+                            "MiddleName": "",
+                            "LastNameAtBirth": "Meredith",
+                            "LastNameCurrent": "Chenery",
+                            "Nicknames": "",
+                            "LastNameOther": "",
+                            "RealName": "Margery",
+                            "Prefix": "",
+                            "Suffix": "",
+                            "BirthLocation": "2 Eston Street, Chorlton, Manchester",
+                            "DeathLocation": "Cheltenham, Gloucestershire, England",
+                            "Gender": "Female",
+                            "BirthDate": "1920-10-15",
+                            "DeathDate": "2011-12-25",
+                            "BirthDateDecade": "1920's",
+                            "DeathDateDecade": "2010's",
+                            "Photo": "Meredith-1187.png",
+                            "IsLiving": "0",
+                            "Father": "11619347",
+                            "Mother": "11619348",
+                            "Privacy": "35",
+                            "IsPerson": 1,
+                            "Touched": "20160411133539",
+                            "ShortName": "Margery (Meredith) Chenery",
+                            "BirthNamePrivate": "Margery Meredith",
+                            "LongNamePrivate": "Margery (Meredith) Chenery",
+                            "LongName": "Margery  (Meredith) Chenery",
+                            "BirthName": "Margery Meredith",
+                            "Privacy_IsPrivate": false,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": true,
+                            "Privacy_IsSemiPrivateBio": false,
+                            "PhotoData": null
+                        },
+                        "11619414": {
+                            "Id": 11619414,
+                            "Name": "Knowles-3655",
+                            "FirstName": "Thomas",
+                            "MiddleName": "William",
+                            "LastNameAtBirth": "Knowles",
+                            "LastNameCurrent": "Knowles",
+                            "Nicknames": "",
+                            "LastNameOther": "",
+                            "RealName": "Thomas",
+                            "Prefix": "Sgt.",
+                            "Suffix": "",
+                            "BirthLocation": "2 Back 19 Allesley Street, Birmingham",
+                            "DeathLocation": "Sister Dora Nursing Home, 14 Anchorage Road, Sutton Coldfield, Warwickshire",
+                            "Gender": "Male",
+                            "BirthDate": "1915-10-06",
+                            "DeathDate": "1999-09-16",
+                            "BirthDateDecade": "1910's",
+                            "DeathDateDecade": "1990's",
+                            "Photo": "Knowles-3655-1.jpg",
+                            "IsLiving": "0",
+                            "Father": "11619452",
+                            "Mother": "11619453",
+                            "Privacy": "35",
+                            "IsPerson": 1,
+                            "Touched": "20160414135637",
+                            "ShortName": "Thomas Knowles",
+                            "BirthNamePrivate": "Thomas Knowles",
+                            "LongNamePrivate": "Thomas W. Knowles",
+                            "LongName": "Thomas William Knowles",
+                            "BirthName": "Thomas William Knowles",
+                            "Privacy_IsPrivate": false,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": true,
+                            "Privacy_IsSemiPrivateBio": false,
+                            "PhotoData": null
+                        }
+                    },
+                    "Spouses": {
+                        "11619083": {
+                            "Id": 11619083,
+                            "Name": "Birnie-87",
+                            "FirstName": "Irene",
+                            "MiddleName": "Margaret",
+                            "LastNameAtBirth": "Birnie",
+                            "LastNameCurrent": "Birnie",
+                            "Nicknames": "",
+                            "LastNameOther": "",
+                            "RealName": "Margaret",
+                            "Prefix": "",
+                            "Suffix": "",
+                            "BirthLocation": "Rugby, Warwickshire, Worcestershire",
+                            "DeathLocation": "",
+                            "Gender": "Female",
+                            "BirthDate": "1947-12-19",
+                            "DeathDate": "0000-00-00",
+                            "BirthDateDecade": "1940's",
+                            "DeathDateDecade": "unknown",
+                            "Photo": "",
+                            "IsLiving": "1",
+                            "Father": "0",
+                            "Mother": "0",
+                            "Privacy": "20",
+                            "IsPerson": 1,
+                            "Touched": "20151228122229",
+                            "ShortName": "Margaret Birnie",
+                            "BirthNamePrivate": "Margaret Birnie",
+                            "LongNamePrivate": "Margaret Birnie",
+                            "LongName": "Irene Margaret Birnie",
+                            "BirthName": "Irene Margaret Birnie",
+                            "Privacy_IsPrivate": true,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": false,
+                            "Privacy_IsSemiPrivateBio": false
+                        }
+                    },
+                    "Children": {
+                        "11619084": {
+                            "Id": "11619084",
+                            "Name": "Loring-908",
+                            "FirstName": "Alexander",
+                            "MiddleName": "John",
+                            "LastNameAtBirth": "Loring",
+                            "LastNameCurrent": "Loring",
+                            "Nicknames": "",
+                            "LastNameOther": "",
+                            "RealName": "Alex",
+                            "Prefix": "",
+                            "Suffix": "",
+                            "BirthLocation": "Halton, Aylesbury, Buckinghamshire",
+                            "DeathLocation": "",
+                            "Gender": "Male",
+                            "BirthDate": "1975-01-19",
+                            "DeathDate": "0000-00-00",
+                            "BirthDateDecade": "1970's",
+                            "DeathDateDecade": "unknown",
+                            "Photo": "",
+                            "IsLiving": "1",
+                            "Father": "11563753",
+                            "Mother": "11619083",
+                            "Privacy": "20",
+                            "IsPerson": 1,
+                            "Touched": "20160421133639",
+                            "ShortName": "Alex Loring",
+                            "BirthNamePrivate": "Alex Loring",
+                            "LongNamePrivate": "Alex J. Loring",
+                            "LongName": "Alexander John Loring",
+                            "BirthName": "Alexander John Loring",
+                            "Privacy_IsPrivate": true,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": false,
+                            "Privacy_IsSemiPrivateBio": false
+                        },
+                        "11619085": {
+                            "Id": "11619085",
+                            "Name": "Loring-909",
+                            "FirstName": "Anna",
+                            "MiddleName": "Katharine",
+                            "LastNameAtBirth": "Loring",
+                            "LastNameCurrent": "Loring",
+                            "Nicknames": "",
+                            "LastNameOther": "",
+                            "RealName": "Anna",
+                            "Prefix": "",
+                            "Suffix": "",
+                            "BirthLocation": "Halton, Aylesbury, Buckinghamshire",
+                            "DeathLocation": "",
+                            "Gender": "Female",
+                            "BirthDate": "1976-06-20",
+                            "DeathDate": "0000-00-00",
+                            "BirthDateDecade": "1970's",
+                            "DeathDateDecade": "unknown",
+                            "Photo": "",
+                            "IsLiving": "1",
+                            "Father": "11563753",
+                            "Mother": "11619083",
+                            "Privacy": "20",
+                            "IsPerson": 1,
+                            "Touched": "20160420145922",
+                            "ShortName": "Anna Loring",
+                            "BirthNamePrivate": "Anna Loring",
+                            "LongNamePrivate": "Anna K. Loring",
+                            "LongName": "Anna Katharine Loring",
+                            "BirthName": "Anna Katharine Loring",
+                            "Privacy_IsPrivate": true,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": false,
+                            "Privacy_IsSemiPrivateBio": false
+                        }
+                    },
+                    "Siblings": {
+                        "11619160": {
+                            "Id": "11619160",
+                            "Name": "Knowles-3650",
+                            "FirstName": "Infant",
+                            "MiddleName": "",
+                            "LastNameAtBirth": "Knowles",
+                            "LastNameCurrent": "Knowles",
+                            "Nicknames": "",
+                            "LastNameOther": "",
+                            "RealName": "Infant",
+                            "Prefix": "",
+                            "Suffix": "",
+                            "BirthLocation": "Cairo, Egypt",
+                            "DeathLocation": "On board troop ship",
+                            "Gender": "Female",
+                            "BirthDate": "1942-00-00",
+                            "DeathDate": "1943-00-00",
+                            "BirthDateDecade": "1940's",
+                            "DeathDateDecade": "1940's",
+                            "Photo": "",
+                            "IsLiving": "0",
+                            "Father": "11619414",
+                            "Mother": "11619486",
+                            "Privacy": "30",
+                            "IsPerson": 1,
+                            "Touched": "20151104163242",
+                            "ShortName": "Infant Knowles",
+                            "BirthNamePrivate": "Infant Knowles",
+                            "LongNamePrivate": "Infant Knowles",
+                            "LongName": "Infant  Knowles",
+                            "BirthName": "Infant Knowles",
+                            "Privacy_IsPrivate": false,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": true,
+                            "Privacy_IsSemiPrivateBio": true
+                        },
+                        "11619172": {
+                            "Id": "11619172",
+                            "Name": "Knowles-3651",
+                            "FirstName": "John Alexander",
+                            "MiddleName": "",
+                            "LastNameAtBirth": "Knowles",
+                            "LastNameCurrent": "Knowles",
+                            "Nicknames": "",
+                            "LastNameOther": "",
+                            "RealName": "John Alexander",
+                            "Prefix": "",
+                            "Suffix": "",
+                            "BirthLocation": "Birmingham, Warwickshire, Worcestershire",
+                            "DeathLocation": null,
+                            "Gender": "Male",
+                            "BirthDate": "1950-03-03",
+                            "DeathDate": "0000-00-00",
+                            "BirthDateDecade": "1950's",
+                            "DeathDateDecade": "unknown",
+                            "Photo": "",
+                            "IsLiving": "1",
+                            "Father": "11619414",
+                            "Mother": "11619308",
+                            "Privacy": "20",
+                            "IsPerson": 1,
+                            "Touched": "20151104163245",
+                            "ShortName": "John Alexander Knowles",
+                            "BirthNamePrivate": "John Alexander Knowles",
+                            "LongNamePrivate": "John Alexander Knowles",
+                            "LongName": "John Alexander  Knowles",
+                            "BirthName": "John Alexander Knowles",
+                            "Privacy_IsPrivate": true,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": false,
+                            "Privacy_IsSemiPrivateBio": false
+                        },
+                        "11619307": {
+                            "Id": "11619307",
+                            "Name": "Knowles-3654",
+                            "FirstName": "Katharine Mary",
+                            "MiddleName": "",
+                            "LastNameAtBirth": "Knowles",
+                            "LastNameCurrent": "Knowles",
+                            "Nicknames": "",
+                            "LastNameOther": "",
+                            "RealName": "Katharine Mary",
+                            "Prefix": "",
+                            "Suffix": "",
+                            "BirthLocation": "RAF Coltishall, Norfolk",
+                            "DeathLocation": null,
+                            "Gender": "Female",
+                            "BirthDate": "1948-05-19",
+                            "DeathDate": "0000-00-00",
+                            "BirthDateDecade": "1940's",
+                            "DeathDateDecade": "unknown",
+                            "Photo": "",
+                            "IsLiving": "1",
+                            "Father": "11619414",
+                            "Mother": "11619308",
+                            "Privacy": "20",
+                            "IsPerson": 1,
+                            "Touched": "20151104163312",
+                            "ShortName": "Katharine Mary Knowles",
+                            "BirthNamePrivate": "Katharine Mary Knowles",
+                            "LongNamePrivate": "Katharine Mary Knowles",
+                            "LongName": "Katharine Mary  Knowles",
+                            "BirthName": "Katharine Mary Knowles",
+                            "Privacy_IsPrivate": true,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": false,
+                            "Privacy_IsSemiPrivateBio": false
+                        },
+                        "11619356": {
+                            "Id": "11619356",
+                            "Name": "Chenery-99",
+                            "FirstName": "John",
+                            "MiddleName": "Meredith",
+                            "LastNameAtBirth": "Chenery",
+                            "LastNameCurrent": "Chenery",
+                            "Nicknames": "",
+                            "LastNameOther": "",
+                            "RealName": "John",
+                            "Prefix": "",
+                            "Suffix": "",
+                            "BirthLocation": "Cheadle Hulme",
+                            "DeathLocation": "",
+                            "Gender": "Male",
+                            "BirthDate": "1954-05-26",
+                            "DeathDate": "0000-00-00",
+                            "BirthDateDecade": "1950's",
+                            "DeathDateDecade": "unknown",
+                            "Photo": "",
+                            "IsLiving": "1",
+                            "Father": "11619346",
+                            "Mother": "11619344",
+                            "Privacy": "20",
+                            "IsPerson": 1,
+                            "Touched": "20160407125311",
+                            "ShortName": "John Chenery",
+                            "BirthNamePrivate": "John Chenery",
+                            "LongNamePrivate": "John M. Chenery",
+                            "LongName": "John Meredith Chenery",
+                            "BirthName": "John Meredith Chenery",
+                            "Privacy_IsPrivate": true,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": false,
+                            "Privacy_IsSemiPrivateBio": false
+                        },
+                        "11619488": {
+                            "Id": "11619488",
+                            "Name": "Knowles-3657",
+                            "FirstName": "Richard Hilary",
+                            "MiddleName": "",
+                            "LastNameAtBirth": "Knowles",
+                            "LastNameCurrent": "Knowles",
+                            "Nicknames": "",
+                            "LastNameOther": "",
+                            "RealName": "Richard Hilary",
+                            "Prefix": "",
+                            "Suffix": "",
+                            "BirthLocation": "Birmingham",
+                            "DeathLocation": null,
+                            "Gender": "Male",
+                            "BirthDate": "1955-00-00",
+                            "DeathDate": "0000-00-00",
+                            "BirthDateDecade": "1950's",
+                            "DeathDateDecade": "unknown",
+                            "Photo": "",
+                            "IsLiving": "1",
+                            "Father": "11619414",
+                            "Mother": "11619487",
+                            "Privacy": "20",
+                            "IsPerson": 1,
+                            "Touched": "20151104163348",
+                            "ShortName": "Richard Hilary Knowles",
+                            "BirthNamePrivate": "Richard Hilary Knowles",
+                            "LongNamePrivate": "Richard Hilary Knowles",
+                            "LongName": "Richard Hilary  Knowles",
+                            "BirthName": "Richard Hilary Knowles",
+                            "Privacy_IsPrivate": true,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": false,
+                            "Privacy_IsSemiPrivateBio": false
+                        },
+                        "11619489": {
+                            "Id": "11619489",
+                            "Name": "Knowles-3658",
+                            "FirstName": "Peter Jonathan",
+                            "MiddleName": "",
+                            "LastNameAtBirth": "Knowles",
+                            "LastNameCurrent": "Knowles",
+                            "Nicknames": "",
+                            "LastNameOther": "",
+                            "RealName": "Peter Jonathan",
+                            "Prefix": "",
+                            "Suffix": "",
+                            "BirthLocation": "Birmingham",
+                            "DeathLocation": "Birmingham",
+                            "Gender": "Male",
+                            "BirthDate": "1956-09-23",
+                            "DeathDate": "2003-01-00",
+                            "BirthDateDecade": "1950's",
+                            "DeathDateDecade": "2000's",
+                            "Photo": "",
+                            "IsLiving": "0",
+                            "Father": "11619414",
+                            "Mother": "11619487",
+                            "Privacy": "30",
+                            "IsPerson": 1,
+                            "Touched": "20151104163348",
+                            "ShortName": "Peter Jonathan Knowles",
+                            "BirthNamePrivate": "Peter Jonathan Knowles",
+                            "LongNamePrivate": "Peter Jonathan Knowles",
+                            "LongName": "Peter Jonathan  Knowles",
+                            "BirthName": "Peter Jonathan Knowles",
+                            "Privacy_IsPrivate": false,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": true,
+                            "Privacy_IsSemiPrivateBio": true
+                        },
+                        "11619490": {
+                            "Id": "11619490",
+                            "Name": "Knowles-3659",
+                            "FirstName": "Howard Fraser",
+                            "MiddleName": "",
+                            "LastNameAtBirth": "Knowles",
+                            "LastNameCurrent": "Knowles",
+                            "Nicknames": "",
+                            "LastNameOther": "",
+                            "RealName": "Howard Fraser",
+                            "Prefix": "",
+                            "Suffix": "",
+                            "BirthLocation": "Handsworth, Birmingham",
+                            "DeathLocation": null,
+                            "Gender": "Male",
+                            "BirthDate": "1959-03-27",
+                            "DeathDate": "0000-00-00",
+                            "BirthDateDecade": "1950's",
+                            "DeathDateDecade": "unknown",
+                            "Photo": "",
+                            "IsLiving": "1",
+                            "Father": "11619414",
+                            "Mother": "11619487",
+                            "Privacy": "20",
+                            "IsPerson": 1,
+                            "Touched": "20151104163349",
+                            "ShortName": "Howard Fraser Knowles",
+                            "BirthNamePrivate": "Howard Fraser Knowles",
+                            "LongNamePrivate": "Howard Fraser Knowles",
+                            "LongName": "Howard Fraser  Knowles",
+                            "BirthName": "Howard Fraser Knowles",
+                            "Privacy_IsPrivate": true,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": false,
+                            "Privacy_IsSemiPrivateBio": false
+                        },
+                        "11923183": {
+                            "Id": "11923183",
+                            "Name": "Knowles-3759",
+                            "FirstName": "Julia",
+                            "MiddleName": "M",
+                            "LastNameAtBirth": "Knowles",
+                            "LastNameCurrent": "Knowles",
+                            "Nicknames": null,
+                            "LastNameOther": null,
+                            "RealName": "Julia",
+                            "Prefix": null,
+                            "Suffix": null,
+                            "BirthLocation": "Birmingham, Warwickshire, England",
+                            "DeathLocation": null,
+                            "Gender": "Female",
+                            "BirthDate": "1960-00-00",
+                            "DeathDate": "0000-00-00",
+                            "BirthDateDecade": "1960's",
+                            "DeathDateDecade": "unknown",
+                            "Photo": null,
+                            "IsLiving": "1",
+                            "Father": "11619414",
+                            "Mother": "11619487",
+                            "Privacy": "20",
+                            "IsPerson": 1,
+                            "Touched": "20151220152325",
+                            "ShortName": "Julia Knowles",
+                            "BirthNamePrivate": "Julia Knowles",
+                            "LongNamePrivate": "Julia M. Knowles",
+                            "LongName": "Julia M Knowles",
+                            "BirthName": "Julia M Knowles",
+                            "Privacy_IsPrivate": true,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": false,
+                            "Privacy_IsSemiPrivateBio": false
+                        },
+                        "11923222": {
+                            "Id": "11923222",
+                            "Name": "Knowles-3760",
+                            "FirstName": "Vanessa",
+                            "MiddleName": "Mary",
+                            "LastNameAtBirth": "Knowles",
+                            "LastNameCurrent": "Knowles",
+                            "Nicknames": null,
+                            "LastNameOther": null,
+                            "RealName": "Vanessa",
+                            "Prefix": null,
+                            "Suffix": null,
+                            "BirthLocation": "Birmingham, Warwickshire, England",
+                            "DeathLocation": null,
+                            "Gender": "Female",
+                            "BirthDate": "1967-00-00",
+                            "DeathDate": "0000-00-00",
+                            "BirthDateDecade": "1960's",
+                            "DeathDateDecade": "unknown",
+                            "Photo": null,
+                            "IsLiving": "1",
+                            "Father": "11619414",
+                            "Mother": "11619487",
+                            "Privacy": "20",
+                            "IsPerson": 1,
+                            "Touched": "20151220154036",
+                            "ShortName": "Vanessa Knowles",
+                            "BirthNamePrivate": "Vanessa Knowles",
+                            "LongNamePrivate": "Vanessa M. Knowles",
+                            "LongName": "Vanessa Mary Knowles",
+                            "BirthName": "Vanessa Mary Knowles",
+                            "Privacy_IsPrivate": true,
+                            "Privacy_IsPublic": false,
+                            "Privacy_IsOpen": false,
+                            "Privacy_IsAtLeastPublic": false,
+                            "Privacy_IsSemiPrivate": false,
+                            "Privacy_IsSemiPrivateBio": false
+                        }
+                    }
+                }
+            }
+        ],
+        "status": 0
+    }
+
+// This function retrieves ancestors for a profile
+function getAncestors(key,depth) { 
+	// Add to our putput what we're looking for.
+	$('#output').html('The key provided is:'+key+'<br>');
+	$('#output').append('The depth provided is:'+depth+'<br>');
+
+	// Go get the person data. 
+	$.ajax({
+		url: API_URL,
+		type: "POST",
+		crossDomain: true,
+		xhrFields: { withCredentials: true }, 
+		dataType: 'json',
+		data: { 'action': 'getAncestors', 'key': key, 'format': 'json' },
+		success: function(data) { 
+			$('#output').append("<br><br>The full results are:\n<pre>"+JSON.stringify(data, null, 4)+"</pre>");
+		},
+		error: function(xhr, status) { 
+			$('#output').append("<br>There was an error getting the profile:"+data[0].status);
+		}
+	});
+
+}
+
+// Retrieve relatives of one or more id.
+function getRelatives(keys,getParents,getSpouses,getChildren,getSiblings) {
+
+	// Add to our putput what we're looking for.
+	$('#output').html('The keys provided are:'+keys+'<br>');
+	$('#output').append('Get Parents:'+getParents+'<br>');
+	$('#output').append('Get Spouses:'+getSpouses+'<br>');
+	$('#output').append('Get Children:'+getChildren+'<br>');
+	$('#output').append('Get Siblings:'+getSiblings+'<br>');
+
+	$.ajax({
+		url: API_URL,
+		type: "POST",
+		crossDomain: true,
+		xhrFields: { withCredentials: true },
+		dataType: 'json',
+		data: { 'action': 'getRelatives', 'keys':keys, 'getParents':getParents, 'getSpouses':getSpouses, 'getChildren':getChildren, 'getSiblings':getSiblings, 'format': 'json' },
+		success: function(data) {
+			$('#output').append("<br><br>The full results are:\n<pre>"+JSON.stringify(data, null, 4)+"</pre>");
+		},
+		error: function(xhr, status) {
+			$('#output').append("<br>There was an error getting the person:"+data[0].status);
+		}
+	});
+
+}
+

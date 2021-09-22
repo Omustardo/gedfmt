@@ -1,0 +1,1816 @@
+﻿EXAMPLE 1 MALE
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="http://schema.org/Person" itemtype="http://historical-data.org/Person.html" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="canonical" itemprop="url" href="http://www.wikitree.com/wiki/Pratt-430" />
+<title>Laban  Pratt Sr | WikiTree: The FREE Family Tree</title>
+<meta name="description" content="Genealogy collaboration for Laban Pratt Sr born 1762 Weymouth, Norfolk, Massachusetts, USA died 1836 Weymouth, Norfolk, Massachusetts, USA including ancestry + more in the free family tree community." />
+<meta name="keywords" content="Laban Pratt genealogy" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/css/base.css">
+<link rel="stylesheet" href="/css/skeleton.css">
+<link rel="stylesheet" href="/css/skeleton-wide.css">
+<link rel="stylesheet" href="/css/layout.css">
+<!--[if IE]>
+<link rel="stylesheet" href="/css/ie.css">
+<![endif]-->
+
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+
+<!-- jQuery used in many places - load from CDN -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+
+<!-- clear placeholders in search -->
+<script type="text/javascript" src="/skins/wikitree/jquery.placeholder.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('input, textarea').placeholder();
+});
+</script>
+
+<script type= "text/javascript">/*<![CDATA[*/
+var skin = "wikitree";
+var stylepath = "/skins";
+var wgArticlePath = "/wiki/$1";
+var wgScriptPath = "";
+var wgScript = "/index.php";
+var wgServer = "http://www.wikitree.com";
+var wgCanonicalNamespace = "";
+var wgCanonicalSpecialPageName = false;
+var wgNamespaceNumber = 0;
+var wgPageName = "Pratt-430";
+var wgTitle = "Pratt-430";
+var wgAction = "view";
+var wgRestrictionEdit = [];
+var wgRestrictionMove = [];
+var wgArticleId = "1324492";
+var wgIsArticle = true;
+var wgUserName = null;
+var wgUserGroups = null;
+var wgUserLanguage = "en";
+var wgContentLanguage = "en";
+var wgBreakFrames = false;
+var wgCurRevisionId = "35027789";
+/*]]>*/</script>
+
+
+<script type="text/javascript" src="/skins/common/wikibits.js?99"><!-- wikibits js --></script>
+
+<!-- Head Scripts -->
+		<script type="text/javascript" src="/skins/common/ajax.js?99"></script>
+
+<!-- Person-page Scripts -->
+<script type="text/javascript" src="/skins/wikitree/person.js"></script>
+<script type="text/javascript" src="/skins/wikitree/JS/google-analytics-person.js"></script>
+<base target="_top" />
+</head>
+<body class="profile mediawiki ns-0 ltr page-Pratt-430">
+<div class="wrapper">
+<div id="header">
+	<div class="sixteen columns full-width header">
+
+<div class="logo"><a class="nohover" href="/"><img src="/images/wikitree-small.gif" border="0" width="197" height="42" alt="WikiTree" title="WikiTree: The Free Family Tree" /></a></div>
+
+<div class="search"><form action="/wiki/Special:SearchPerson" method="POST"><input type=text name="wpFirst" size="8"  placeholder="First Name">&nbsp;<input type=text name="wpLast" size="8" value="Pratt"> <input type=submit name="wpSearch" value="Search" ></form></div>
+
+<div style="float:left; margin:10px 20px 20px 20px;"><a href="/wiki/The_Free_Family_Tree" title="WikiTree: The Free Family Tree" class="reduce" style="text-decoration:none;"><b><span style="color:#8fc641!important;">The Free Family Tree</span></b></a></div>
+<div class="login"><a href="https://www.wikitree.com/index.php?title=Special:Userlogin">login</a> | <a href="https://www.wikitree.com/index.php?title=Special:Userlogin&type=signup">join the family</a></div>
+	</div>
+</div>
+<div id="content" class="container">
+
+<div class="sixteen columns">
+</div>
+
+<div class="sixteen columns row">
+<div class="two columns alpha">
+	<img src="http://www.wikitree.com/images/icons/male.gif" width="75" height="100" border="0" alt="no image">
+	</div>
+
+<div class="twelve columns">
+<h1><span itemprop="name">Laban  Pratt Sr</span> (1762 - 1836) </h1>
+<div id="fb-root"></div>
+<div class="fb-share-button" data-layout="button_count"></div>
+<a class="twitter-share-button" href="javascript:window.location.href=window.location.href" data-size="medium"></a>
+<div class="g-plus" data-action="share" data-annotation="bubble"></div></div>
+
+<div class="two columns omega">
+<a class="nohover" href="/wiki/Privacy#Open"><img src="/images/icons/privacy60.png" title="Privacy Level: Open" alt="Privacy Level: Open (White)" width="60" height="60" border="0"></a>
+</div>
+</div>
+
+
+ <!-- start Level 50-60 block -->
+
+
+<div class="sixteen columns">
+<!-- TABS -->
+<ul class="profile-tabs">
+
+<li class="current">Laban Pratt Sr's Profile</li>
+
+
+
+<a href="/genealogy/Pratt-Family-Tree-430" title="View Family Tree"><li>Family Tree &amp; Genealogy Tools</li></a>
+
+
+
+</ul>
+<!-- end TABS -->
+</div> <!-- end 16 -->
+
+
+<div class="ten columns">
+
+<div class="VITALS"><span class="large">
+<strong><span itemprop="givenName">Laban</span></strong>
+ 	 <meta itemprop="familyName" content="Pratt" />
+<strong><a href="/genealogy/PRATT">Pratt</a></strong> <strong><span itemprop="honorificSuffix">Sr</span></strong>
+ 	</span></div>
+
+<div class="VITALS">Born <strong><time itemprop="birthDate" datetime="1762-Oct-01">October 1, 1762</time></strong>  in <strong><span itemprop="birth" itemscope itemtype="http://schema.org/Event"><span itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="name">Weymouth, Norfolk, Massachusetts, USA</span></span></span></strong><a href="http://maps.google.com/maps?q=Weymouth, Norfolk, Massachusetts, USA" target="_map"><img src="/images/icons/map.gif" border="0" width="12" height="11" alt="map"></a></div>
+
+<div class="VITALS">Son<meta itemprop="gender" content="male" /> of
+	<span itemprop="parent" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-407" itemprop="url" title="father b. 1736 Weymouth, Norfolk, Massachusetts, USA"><span itemprop="name">Abner  Pratt Sr</span></a></span>
+		 and
+	<span itemprop="parent" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Humphrey-228" itemprop="url" title="mother b. 1739 Weymouth, Norfolk, Massachusetts, USA"><span itemprop="name">Margaret  Humphrey</span></a></span>
+		</div>
+
+	<div class="VITALS">Brother of
+	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-436" itemprop="url" title="sister b. 1760 Scituate, Plymouth, Massachusetts, USA"><span itemprop="name">Mary  Pratt</span></a></span>, 	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-432" itemprop="url" title="sister b. 1764 Weymouth, Norfolk, Massachusetts, USA"><span itemprop="name">Lucy  Pratt</span></a></span>, 	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-417" itemprop="url" title="sister b. 1768 Weymouth, Norfolk, Massachusetts, USA"><span itemprop="name">Esther  Pratt</span></a></span>, 	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-448" itemprop="url" title="sister b. 1770 Weymouth, Norfolk, Massachusetts, USA"><span itemprop="name">Sarah  Pratt</span></a></span>, 	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-422" itemprop="url" title="sister b. 1773 Scituate, Plymouth, Massachusetts, USA"><span itemprop="name">Hannah  Pratt</span></a></span> and	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-406" itemprop="url" title="brother b. 1775 Weymouth, Norfolk, Massachusetts"><span itemprop="name">Abner  Pratt Jr</span></a></span>	</div>
+
+	<div class="VITALS">Husband of
+	<span itemprop="spouse" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-433" itemprop="url" title="wife b. 1765-09-02 Weymouth, Norfolk, Massachusetts, USA"><span itemprop="name"><strong>Lucy  Pratt</strong></span></a></span>
+&mdash; married <span itemprop="marriage" itemscope itemtype="http://schema.org/Event">
+ <time itemprop="startDate" datetime="1785-Apr-14">April 14, 1785</time> in <span itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="name">Scituate, Plymouth, Massachusetts, USA</span></span><a href="http://maps.google.com/maps?q=Scituate, Plymouth, Massachusetts, USA" target="_map"><img src="/images/icons/map.gif" border="0" width="12" height="11" alt="map"></a> </span>
+	</div>
+
+	<div class="VITALS">Father of
+	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-440" itemprop="url" title="daughter b. 1785 Scituate, Plymouth, Massachusetts, USA"><span itemprop="name">Mary L  Pratt</span></a></span>, 	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-434" itemprop="url" title="daughter b. 1786 Scituate, Plymouth, Massachusetts, USA"><span itemprop="name">Lucy  (Pratt) Loring</span></a></span>, 	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-429" itemprop="url" title="son b. 1788 Scituate, Plymouth, Massachusetts, USA"><span itemprop="name">Laban  Pratt Jr</span></a></span>, 	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-408" itemprop="url" title="son b. 1790 Scituate, Plymouth, Massachusetts, USA"><span itemprop="name">Ansel  Pratt</span></a></span>, 	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-451" itemprop="url" title="daughter b. 1791 Scituate, Plymouth, Massachusetts, USA"><span itemprop="name">Sophia  Pratt</span></a></span>, 	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-431" itemprop="url" title="son b. 1796 Scituate, Plymouth, Massachusetts, USA"><span itemprop="name">Lewis  Pratt</span></a></span>, 	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-428" itemprop="url" title="son b. 1798 Scituate, Plymouth, Massachusetts, USA"><span itemprop="name">Jonathan Derby  Pratt</span></a></span> and	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Pratt-444" itemprop="url" title="son b. 1800 Scituate, Plymouth, Massachusetts, USA"><span itemprop="name">Norton  Pratt</span></a></span>	</div>
+
+<div class="VITALS">Died <meta itemprop="startDate" content="1836-07-28" /><strong><time itemprop="deathDate" datetime="1836-Jul-28">July 28, 1836</time></strong> in <strong><span itemprop="death" itemscope itemtype="http://schema.org/Event"><span itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="name">Weymouth, Norfolk, Massachusetts, USA</span></span></span></strong><a href="http://maps.google.com/maps?q=Weymouth, Norfolk, Massachusetts, USA" target="_map"><img src="/images/icons/map.gif" border="0" width="12" height="11" alt="map"></a> </div>
+
+<div class="SMALL" style="background-color:#ffe183;">
+Profile manager: <a href="/wiki/Paulding-23">Janis Swanson</a> <a href="/index.php?title=Special:PrivateMessage&who=8228400&ref=1324492" rel="nofollow"><img src="/images/icons/mail.gif" border="0" width="15" height="11" alt="private message" title="Send Message to Janis" /></a> [<a href="/index.php?title=Special:PrivateMessage&who=8228400&ref=1324492" rel="nofollow">send private message</a>]
+</div>
+
+<div class="SMALL" style="background-color:#e1efbb;"><time itemprop="modifiedDate" datetime="2016-05-18">Last modified 18 May 2016.</time> <span class='HISTORY-DATE'>17 May 2016</span>
+<div><span class='HISTORY-ITEM'>21:42: <a href="http://www.wikitree.com/wiki/Meredith-1182" title="Meredith-1182">David (Meredith) Loring</a> <a href="http://www.wikitree.com/index.php?title=Pratt-430&amp;diff=35027789&amp;oldid=1689441" title="Pratt-430" rel="nofollow"> edited  the Biography </a>  for <a href="http://www.wikitree.com/wiki/Pratt-430" title="Pratt-430">Laban Pratt</a>. <span class='USERCOMMENT'>(Updating bio)</span> <span class='THANKYOU'>[<a href="http://www.wikitree.com/index.php?title=Special:Thanks&amp;action=thank&amp;rc_id=39442085" title="Special:Thanks">Thank  David for this</a>]</span></span>
+</div></div>
+<div class="SMALL" style="background-color:#eee;">This page has been accessed 213 times.</div>
+<div class=
+
+
+"g-plusone" 
+
+
+data-annotation="inline" data-width="300" data-href="http://www.wikitree.com/wiki/Pratt-430"></div>
+
+	<p>This person was created through the import of fitzmaster032511.ged on 27 March 2011.  The following data was included in the gedcom. You may wish to edit it for readability.
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Name"><span class="tocnumber">1</span> <span class="toctext">Name</span></a></li>
+<li class="toclevel-1"><a href="#Birth"><span class="tocnumber">2</span> <span class="toctext">Birth</span></a></li>
+<li class="toclevel-1"><a href="#Death"><span class="tocnumber">3</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-1"><a href="#Marriage"><span class="tocnumber">4</span> <span class="toctext">Marriage</span></a></li>
+<li class="toclevel-1"><a href="#Sources"><span class="tocnumber">5</span> <span class="toctext">Sources</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Name"></a><h3> <span class="mw-headline"> Name </span></h3>
+<dl><dd> Name:  Laban /Pratt/ Sr
+<dl><dd> Source: <a href="#S65" title="">#S65</a>
+<dl><dd> Page:  Database online.
+</dd><dd> Data:  
+<dl><dd> Text:  Record for Abner Pratt
+</dd></dl>
+</dd></dl>
+</dd><dd> Source: <a href="#S65" title="">#S65</a>
+<dl><dd> Page:  Database online.
+</dd><dd> Data:  
+<dl><dd> Text:  Record for Laban PRATT
+</dd></dl>
+</dd></dl>
+</dd><dd> Source: <a href="#S74" title="">#S74</a>
+<dl><dd> Page:  Database online.
+</dd><dd> Data:  
+<dl><dd> Text:  Record for Laban Pratt
+</dd></dl>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+<p><br />
+</p>
+<a name="Birth"></a><h3> <span class="mw-headline"> Birth </span></h3>
+<dl><dd> Birth:  
+<dl><dd> Date:  01 OCT 1762
+</dd><dd> Place:  Weymouth, Norfolk, Massachusetts, USA
+</dd><dd> Source: <a href="#S65" title="">#S65</a>
+<dl><dd> Page:  Database online.
+</dd><dd> Data:  
+<dl><dd> Text:  Record for Abner Pratt
+</dd></dl>
+</dd></dl>
+</dd><dd> Source: <a href="#S65" title="">#S65</a>
+<dl><dd> Page:  Database online.
+</dd><dd> Data:  
+<dl><dd> Text:  Record for Laban PRATT
+</dd></dl>
+</dd></dl>
+</dd><dd> Source: <a href="#S74" title="">#S74</a>
+<dl><dd> Page:  Database online.
+</dd><dd> Data:  
+<dl><dd> Text:  Record for Laban Pratt
+</dd></dl>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+<p><br />
+</p>
+<a name="Death"></a><h3> <span class="mw-headline"> Death </span></h3>
+<dl><dd> Death:  
+<dl><dd> Date:  28 JUL 1836
+</dd><dd> Place:  Weymouth, Norfolk, Massachusetts, USA
+</dd><dd> Source: <a href="#S65" title="">#S65</a>
+<dl><dd> Page:  Database online.
+</dd><dd> Data:  
+<dl><dd> Text:  Record for Abner Pratt
+</dd></dl>
+</dd></dl>
+</dd><dd> Source: <a href="#S65" title="">#S65</a>
+<dl><dd> Page:  Database online.
+</dd><dd> Data:  
+<dl><dd> Text:  Record for Laban PRATT
+</dd></dl>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+<a name="Marriage"></a>
+<h3> <span class="mw-headline"> Marriage </span></h3>
+<dl>
+	<dd> Husband:  <strong class="selflink">Laban Pratt</strong></dd>
+	<dd> Wife:  <a href="/wiki/Pratt-433" title="Pratt-433">Lucy Pratt</a></dd>
+	<dd> Child:  <a href="/wiki/Pratt-429" title="Pratt-429">Laban Pratt</a>
+	<dl>
+		<dd> Relationship to Father:  Natural</dd>
+		<dd> Relationship to Mother:  Natural</dd>
+	</dl>
+</dd>
+<dd> Child:  <a href="/wiki/Pratt-434" title="Pratt-434">Lucy Pratt</a>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Child:  <a href="/wiki/Pratt-408" title="Pratt-408">Ansel Pratt</a>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Child:  <a href="/wiki/Pratt-451" title="Pratt-451">Sophia Pratt</a>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Child:  <a href="/wiki/Pratt-431" title="Pratt-431">Lewis Pratt</a>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Child:  <a href="/wiki/Pratt-428" title="Pratt-428">Jonathan Derby Pratt</a>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Child:  <a href="/wiki/Pratt-444" title="Pratt-444">Norton Pratt</a>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Child:  <a href="/wiki/Pratt-440" title="Pratt-440">Mary L Pratt</a>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Marriage:  
+<dl><dd> Date:  14 APR 1785
+</dd><dd> Place:  Scituate, Plymouth, Massachusetts, USA
+</dd><dd> Source: <a href="#S65" title="">#S65</a>
+<dl><dd> Page:  Database online.
+</dd><dd> Data:  
+<dl><dd> Text:  Record for Laban PRATT
+</dd></dl>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+<p><br />
+</p>
+<dl><dd> Husband:  <a href="/wiki/Pratt-407" title="Pratt-407">Abner Pratt</a>
+</dd><dd> Wife:  <a href="/wiki/Humphrey-228" title="Humphrey-228">Margaret Humphrey</a>
+</dd><dd> Child:  <strong class="selflink">Laban Pratt</strong>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Child:  <a href="/wiki/Pratt-436" title="Pratt-436">Mary Pratt</a>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Child:  <a href="/wiki/Pratt-432" title="Pratt-432">Lucy Pratt</a>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Child:  <a href="/wiki/Pratt-417" title="Pratt-417">Esther Pratt</a>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Child:  <a href="/wiki/Pratt-422" title="Pratt-422">Hannah Pratt</a>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Child:  <a href="/wiki/Pratt-406" title="Pratt-406">Abner Pratt</a>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Child:  <a href="/wiki/Pratt-448" title="Pratt-448">Sarah Pratt</a>
+<dl><dd> Relationship to Father:  Natural
+</dd><dd> Relationship to Mother:  Natural
+</dd></dl>
+</dd><dd> Marriage:  
+<dl><dd> Date:  19 DEC 1758
+</dd><dd> Place:  Weymouth, Norfolk, Massachusetts, USA
+</dd><dd> Source: <a href="#S65" title="">#S65</a>
+<dl><dd> Page:  Database online.
+</dd><dd> Data:  
+<dl><dd> Text:  Record for Abner Pratt
+</dd></dl>
+</dd></dl>
+</dd></dl>
+</dd></dl>
+<p><br />
+</p><p><br />
+</p>
+<a name="Sources"></a><h3> <span class="mw-headline"> Sources </span></h3>
+<ul><li> "Find A Grave Index," database, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:QVGQ-7MPS" class="external free" title="https://familysearch.org/ark:/61903/1:1:QVGQ-7MPS" rel="nofollow">https://familysearch.org/ark:/61903/1:1:QVGQ-7MPS</a>&nbsp;: accessed 17 May 2016), Laban Pratt, 1836; Burial, Weymouth, Norfolk, Massachusetts, United States of America, North Weymouth Cemetery; citing record ID 109982836, Find a Grave, <a href="http://www.findagrave.com" class="external free" title="http://www.findagrave.com" rel="nofollow">http://www.findagrave.com</a>.
+</li></ul>
+<dl><dd> Source <span id="S65">S65</span>
+</dd><dd> Author:  Ancestry.com
+</dd><dd> Title:  Public Member Trees
+</dd><dd> Publication:  Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2006;
+</dd><dd> Repository: <a href="#R5" title="">#R5</a>
+</dd></dl>
+<p><br />
+</p>
+<dl><dd> Repository <span id="R5">R5</span>
+</dd><dd> Name:  www.ancestry.com
+</dd><dd> Address:  
+</dd><dd> E-Mail Address:  
+</dd><dd> Phone Number:  
+</dd></dl>
+<p><br />
+</p>
+<dl><dd> Source <span id="S74">S74</span>
+</dd><dd> Author:  Godfrey Memorial Library, comp.
+</dd><dd> Title:  American Genealogical-Biographical Index (AGBI)
+</dd><dd> Publication:  Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 1999;
+</dd><dd> Repository: <a href="#R5" title="">#R5</a>
+</dd><dd> NOTEGodfrey Memorial Library, American Genealogical-Biographical Index, Middletown, CT, USA: Godfrey Memorial Library
+</dd></dl>
+
+	<br /><br />
+
+	
+<p><a class="button small" href="/genealogy/Pratt-Family-Tree-430" title="View Family Tree">More: Family Tree &amp; Genealogy Tools</a></p>
+
+<br /><br />
+<div style="width:590px; margin-left: auto; margin-right: auto; border: 2px solid #a5d167;">
+	<div style="float:right; margin-right:5px;" class="small">Sponsored by <a href="http://www.myheritage.com?utm_source=partner_wikitree&utm_medium=partner&utm_campaign=wikitree_textlinks_dec15&utm_content=familytree_textlink&tr_device=c" target="_blank" rel="nofollow">MyHeritage</a></div>
+<iframe src="https://www.myheritage.com/FP/partner-widget.php?firstName=Laban&lastName=PRATT&clientId=2322&partnerName=wikitree&widget=records&tr_device=c" frameborder="0" scrolling="no" width="590" height="340"></iframe>
+</div>
+
+<br /><br /><br /><br />
+
+	
+</div><!-- end 9 -->
+<div class="six columns">
+
+<span class="large"><strong>Search</strong></span><br />
+Searching for someone else? 
+<br /><form action="/wiki/Special:SearchPerson" method="POST">First: <input class="small" type=text name="wpFirst" size="10" value="Laban"> Last: <input class="small" type=text name="wpLast" size="10" value="Pratt"> <input class="small" type=submit name="wpSearch" value="Go"></form>
+
+<p>Do you have a GEDCOM? Login to have every name in your tree searched. It's free (like everything on WikiTree).</p><br />
+
+
+
+<div style="width:320px; margin-left: auto; margin-right: auto;">
+	<div style="float:right; margin-right:5px;" class="small">Sponsored by <a href="http://www.myheritage.com?utm_source=partner_wikitree&utm_medium=partner&utm_campaign=wikitree_textlinks_dec15&utm_content=familytree_textlink&tr_device=c" target="_blank" rel="nofollow">MyHeritage</a></div>
+<iframe src="https://www.myheritage.com/FP/partner-widget.php?firstName=Laban&lastName=PRATT&clientId=2322&partnerName=wikitree&widget=minimal&tr_device=c" frameborder="0" scrolling="no" width="320" height="50"></iframe>
+</div>
+<br /><br />
+<span class="large"><strong>DNA</strong></span><br />
+					No known carriers of <a href="/treewidget/Pratt-430/890">Laban's Y-chromosome</a> or <a href="/treewidget/Pratt-430/89">his mother's mitochondrial DNA</a> have taken yDNA or mtDNA tests.				<p>Have you taken a DNA test for genealogy? If so, login to add it. If not, <a href="https://affiliate.familytreedna.com/idevaffiliate.php?id=600" target="_blank">see our friends at Family Tree DNA</a>.</p>
+	<br /><br />
+
+<span class="large"><strong>Collaboration</strong></span>
+<ul class="STYLED">
+
+<li class="GREEN-ARROW">
+			<a href="https://www.wikitree.com/index.php?title=Special:Userlogin" rel="nofollow">Login</a> to edit this profile.
+			</li>
+
+<li class="GREEN-ARROW">Private Messages:
+			<a href="/index.php?title=Special:PrivateMessage&who=8228400&ref=1324492" rel="nofollow">Send a private message to the Profile Manager</a>. (Best when privacy is an issue.)
+			</li>
+<li class="GREEN-ARROW">Public Comments:
+	Login to post.
+		(Best for messages specifically directed to those editing this profile. Limit 20 per day.)
+	</li>
+
+<li class="GREEN-ARROW">Public Q&amp;A: These will appear above and in the <a href="/g2g/">Genealogist-to-Genealogist (G2G) Forum</a>. (Best for anything directed to the wider genealogy community.) <form action="/g2g/ask?cat=2" method="POST"><input type=hidden name="extra" value="Pratt-430"><input type=hidden name="tags" value="Pratt"><input type=submit class="small" value="Ask Question"></form></li>
+
+</ul>
+
+<a name="WT-comments"></a>
+
+<p>There are no public comments yet.</p>
+<br /></br />
+
+</div><!-- end 7 -->
+
+ <!-- end main PL conditional -->
+
+<div class="sixteen columns">
+<p>	Laban is 16 degrees from Kevin Bacon, 20 degrees from AJ Jacobs, 32 degrees from Gene Kelly, 18 degrees from Maureen O'Hara and  <a href="/index.php?title=Special:Connection&action=connect&person1Name=Windsor-1&person2Name=Pratt-430">18 degrees from Queen Elizabeth II of the Commonwealth Realms</a> on our single family tree. Login to find your connection.
+	</p></div>
+<!-- end if no person -->
+
+</div><!-- end content -->
+<div class="container">
+	<div class="sixteen columns">
+<p align="center"><a href="/indexes/person/P/">P</a> &nbsp;&gt;&nbsp; <a href="/genealogy/PRATT">Pratt</a>  &nbsp;&gt;&nbsp; Laban  Pratt Sr</p>
+	</div>
+</div><!-- end container -->
+<div id="footer">
+<div class="container">
+	<div class="ten columns">
+<p><a href="/" title="Go to the WikiTree Home Page">WIKITREE HOME</a> &nbsp; | &nbsp; <a href="/wiki/About_WikiTree" title="About WikiTree, the Community, and our Mission">ABOUT</a> &nbsp; | &nbsp; <a href="/blog/" title="WikiTree Blog">BLOG</a> &nbsp; | &nbsp; <a href="/g2g/" title="Genealogist-to-Genealogist Forum">FORUM</a> &nbsp; | &nbsp; <a href="/wiki/How_to_use_WikiTree" title="Help pages: How to use WikiTree">HELP</a> &nbsp; | &nbsp; <a href="/wiki/Special:SearchPerson" title="Search for a Person">SEARCH</a></p>
+<p>IMPORTANT PRIVACY NOTICE & DISCLAIMER: YOU HAVE A RESPONSIBILITY TO USE CAUTION WHEN DISTRIBUTING PRIVATE INFORMATION. WIKITREE PROTECTS MOST SENSITIVE INFORMATION BUT ONLY TO THE EXTENT STATED IN THE <a href="/about/terms.html"><u>TERMS OF SERVICE</u></a> AND <a href="/about/privacy.html"><u>PRIVACY POLICY</u></a>.</p>
+<p>&copy; 2008 - 2016 INTERESTING.COM, INC. CONTENT MAY BE COPYRIGHTED BY WIKITREE COMMUNITY MEMBERS.</p>
+	</div>
+	<div class="six columns social">
+<p align="center"><div id="fb-root"></div><div class="fb-share-button" data-href="http://www.wikitree.com" data-layout="button_count"></div>
+<a class="twitter-share-button" href="https://wikitree.com" data-size="medium"></a>
+<div class="g-plus" data-href="http://www.wikitree.com" data-action="share" data-annotation="bubble"></div></p>
+	</div>
+</div><!-- end container -->
+</div><!-- end footer -->
+</div><!-- end wrapper opened in header -->
+<!-- JS call to runBodyOnloadHook -->
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<script type="text/javascript" src="/skins/wikitree/JS/sharing.js"></script>
+<!-- script /skins/wikitree/jquery-scrollToTop.js -->
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+</body></html>
+============================================================================================================================
+EXAMPLE 2 FEMALE
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="http://schema.org/Person" itemtype="http://historical-data.org/Person.html" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<title>Sophia Cragg  Outhwaite - WikiTree Profile</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/css/base.css?1">
+<link rel="stylesheet" href="/css/skeleton.css">
+<link rel="stylesheet" href="/css/skeleton-wide.css">
+<link rel="stylesheet" href="/css/layout.css">
+<!--[if IE]>
+<link rel="stylesheet" href="/css/ie.css">
+<![endif]-->
+
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+
+<!-- jQuery used in many places - load from CDN -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+
+<!-- clear placeholders in search -->
+<script type="text/javascript" src="/skins/wikitree/jquery.placeholder.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('input, textarea').placeholder();
+});
+</script>
+
+
+<script type= "text/javascript">/*<![CDATA[*/
+var skin = "wikitree";
+var stylepath = "/skins";
+var wgArticlePath = "/wiki/$1";
+var wgScriptPath = "";
+var wgScript = "/index.php";
+var wgServer = "http://www.wikitree.com";
+var wgCanonicalNamespace = "";
+var wgCanonicalSpecialPageName = false;
+var wgNamespaceNumber = 0;
+var wgPageName = "Outhwaite-24";
+var wgTitle = "Outhwaite-24";
+var wgAction = "view";
+var wgRestrictionEdit = [];
+var wgRestrictionMove = [];
+var wgArticleId = "12348624";
+var wgIsArticle = true;
+var wgUserName = "Meredith-1182";
+var wgUserGroups = ["*", "user", "autoconfirmed", "emailconfirmed"];
+var wgUserLanguage = "en";
+var wgContentLanguage = "en";
+var wgBreakFrames = false;
+var wgCurRevisionId = "35505369";
+var wgAjaxWatch = {"watchMsg": "Watch", "unwatchMsg": "Unwatch", "watchingMsg": "Watching...", "unwatchingMsg": "Unwatching..."};
+/*]]>*/</script>
+
+
+<script type="text/javascript" src="/skins/common/wikibits.js?99"><!-- wikibits js --></script>
+
+<!-- Head Scripts -->
+		<script type="text/javascript" src="/skins/common/ajax.js?99"></script>
+		<script type="text/javascript" src="/skins/common/ajaxwatch.js?99"></script>
+
+<!-- Person-page Scripts -->
+<script type="text/javascript" src="/skins/wikitree/person.js"></script>
+<script type="text/javascript" src="/skins/wikitree/JS/google-analytics-person.js"></script>
+<base target="_top">
+</head>
+<body class="profile mediawiki ns-0 ltr page-Outhwaite-24">    
+<div class="wrapper">
+<div id="header">
+	<div class="sixteen columns full-width header">
+
+<div class="logo"><a class="nohover" href="/"><img src="/images/wikitree-small.gif" border="0" width="197" height="42" alt="WikiTree" title="WikiTree: The Free Family Tree" /></a></div>
+
+<div class="search"><form action="/wiki/Special:SearchPerson" method="POST"><input type=text name="wpFirst" size="8"  placeholder="First Name">&nbsp;<input type=text name="wpLast" size="8" value="Outhwaite"> <input type=submit name="wpSearch" value="Search" ></form></div>
+
+
+<ul class="pureCssMenu pureCssMenum">
+	<li><a class="pureCssMenui0" href="/wiki/Special:Home"><span class="home">My WikiTree</span></a>
+		<ul class="pureCssMenum">
+<li><a class="pureCssMenui" href="/wiki/Special:Anniversaries" title="This month's birth, death, and wedding anniversaries in your family">Anniversaries</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:Badges&u=11563753" title="Your WikiTree member badges">Badges: 19</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:Contributions&who=Meredith-1182" title="Log of your edits and additions to WikiTree">Contributions: 4179</a></li>
+<li><a class="pureCssMenui" href="/treewidget/Meredith-1182/899" title="Use DNA testing to confirm your family tree">DNA Confirmation</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:NetworkFeed&who=Meredith-1182&watchlist=1" title="Log of changes to profiles in your Watchlist">Family Activity Feed</a></li>
+<li><a class="pureCssMenui" href="/genealogy/Meredith-Family-Tree-1182" title="Your family tree and a personalized guide to genealogy tools on WikiTree">Family Tree &amp; Tools</a></li>
+<li><a class="pureCssMenui" href="/g2g/following" title="Log of Genealogist-to-Genealogist Forum activity in surnames and tags you are following">G2G Feed</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:BrowsePhotos&l=12286368&w=1" title="All the photos and source images for profiles in your Watchlist">Images</a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:Home" title="Your personalized WikiTree home page"><b>Nav Home Page</b></a></li>
+<li><a class="pureCssMenui" href="/wiki/Meredith-1182" title="Your WikiTree profile">Profile</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:InvitationPage&review=1" title="Invitations and Trusted List requests by you and for you">Requests</a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:Settings" title="Account settings and e-mail preferences">Settings</a></li>
+<li><a class="pureCssMenui" href="/treewidget/Meredith-1182/11" title="View and volunteer in WikiTree activities related to your surnames">Surnames</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:Thanks&action=feed&who=11563753" title="Log of thank-yous received from other WikiTreers">Thank-Yous: 147</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:WatchedList&p=11563753" title="The list of profiles you are watching">Watchlist</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:NetworkFeed&followed_by=11563753" title="Log of WikiTree activity in surnames you are following">Wiki Genealogy Feed</a></li>
+<li><a class="pureCssMenui" href="javascript:logout('Outhwaite-24')" rel="noprefetch" title="Sign out of your WikiTree account">Logout</a></li>
+		</ul>
+	</li>
+	<li><a class="pureCssMenui0" href="/wiki/Outhwaite-24"><span class="person">Outhwaite-24</span></a>
+		<ul class="pureCssMenum">
+<li><a class="pureCssMenui" href="/treewidget/Outhwaite-24/5" title="Eight generations of Sophia Cragg's ancestors in a condensed format">Compact Tree</a></li>
+<li><a class="pureCssMenui" href="/treewidget/Outhwaite-24/99" title="Lure genealogist cousins to share and collaborate on Outhwaite profiles">Cousin Bait</a></li>
+<li><a class="pureCssMenui" href="/genealogy/Outhwaite-Descendants-24" title="Up to five generations of Sophia Cragg's descendants">Descendants</a></li>
+<li><a class="pureCssMenui" href="/treewidget/Outhwaite-24/89" title="Sophia Cragg's DNA ancestors and links to other DNA tools">DNA</a></li>
+<li><a class="pureCssMenui" href="/treewidget/Outhwaite-24/7" title="Explore unlimited generations in any direction">Dynamic Tree</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Outhwaite-24&amp;action=edit" title="Edit Sophia Cragg's profile">Edit</a></li>
+<li><a class="pureCssMenui" href="http://www.sdms.si:92/function/WTWeb/errors.htm?WikiTreeID=Outhwaite-24" title="An independently-produced guide to potential data problems">Error Report</a></li>
+<li><a class="pureCssMenui" href="/treewidget/Outhwaite-24/300" title="Grouped spouses and children">Family Group Sheet</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:FamilyList&p=11619361" title="Up to 29 generations in a list format">Family List</a></li>
+<li><a class="pureCssMenui" href="/genealogy/Outhwaite-Family-Tree-24" title="Sophia Cragg's family tree and a guide to genealogy tools on WikiTree">Family Tree &amp; Tools</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:Connection&action=connect&person1Name=Jacobs-2987&person2Name=Outhwaite-24" title="Sophia Cragg's connections to the global family tree">Global Connections</a></li>
+<li><a class="pureCssMenui" href="/treewidget/Outhwaite-24/101" title="Compare and merge any duplicate family members">Merging Tools</a></li>
+<li><a class="pureCssMenui" href="/treewidget/Outhwaite-24/1001" title="Ways that Sophia Cragg's name is displayed on WikiTree">Name Displays</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:Adoptions&p=11619361" title="Family members without profile managers">Orphaned Family</a></li>
+<li><a class="pureCssMenui" href="/treewidget/Outhwaite-24/100" title="Sophia Cragg's family tree in an easy-to-print format">Printable Tree</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:TrustedList&u=11619361" title="Trusted List and privacy setting for Sophia Cragg">Privacy</a></li>
+<li><a class="pureCssMenui" href="/wiki/Outhwaite-24" title="Sophia Cragg's WikiTree profile"><b>Profile</b></a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:Relationship&action=calculate&person1_name=Outhwaite-24&person2_name=Meredith-1182" title="Display Sophia Cragg's relationship to you">Relationship to Me</a></li><li><a class="pureCssMenui" href="/index.php?title=Special:FindMatches&action=find&u=11619361" title="Search for duplicate profiles">Search for Matches</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:Surname&s=OUTHWAITE&order=dobup" title="All profiles on WikiTree with Sophia Cragg's surname">Outhwaite Index</a></li>
+		</ul>
+	</li>
+	<li><a class="pureCssMenui0" href="/wiki/Adding_to_WikiTree"><span class="add">Add</span></a>
+		<ul class="pureCssMenum">
+<li><a class="pureCssMenui" href="/wiki/Special:DNATests" title="Indicate if you have taken a DNA test for genealogy">DNA Test Information</a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:Following" title="Add or edit surnames and topic tags that interest you">Followed Tags</a></li>
+<li><a class="pureCssMenui" href="/wiki/Gedcom" title="Upload or download a GEDCOM file for matching, back-up, etc.">GEDCOMs</a></li>
+<li><a class="pureCssMenui" href="/wiki/Adding_Family" title="How to add family members and grow your tree here">How to Add Family</a></li>
+<li><a class="pureCssMenui" href="/wiki/Invitations" title="How to invite family members and fellow genealogists to collaborate with you">Invitations</a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:MergePerson" title="Propose a merge of duplicate profiles">Matches &amp; Merges</a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:NewPerson" title="Add a new person to WikiTree"><b>New Person</b></a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:Showpage&f=project" title="Start a new member group on any topic">New Project</a></li>
+<li><a class="pureCssMenui" href="/index.php?action=newspace" title="Create a page for anything">New Thing</a></li>
+		</ul>
+	</li>
+	<li><a class="pureCssMenui0" href="/wiki/Special:SearchPerson"><span class="find">Find</span></a>
+		<ul class="pureCssMenum">
+<li><a class="pureCssMenui" href="/wiki/Categories" title="Profiles organized by topic and location">Categories</a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:Connection" title="Find your connection to the global family tree">Connections</a></li>
+<li><a class="pureCssMenui" href="/wiki/Category:E-Cards" title="Vintage postcards and photos to send via e-mail">E-Cards</a></li>
+<li><a class="pureCssMenui" href="https://apps.wikitree.com/apps/york1423/fs-match/" title="Find matches for your Watchlist on FamilySearch">FamilySearch Matches</a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:Adoptions" title="Profiles that need a manager">Orphaned Profiles</a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:BrowseMatches" title="Proposed merges and matches">Pending Merges</a></li>
+<li><a class="pureCssMenui" href="/wiki/Projects" title="Groups of members who collaborate on topics">Projects</a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:Relationship" title="Find common ancestors shared by two or more people and name their relationship">Relationships</a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:SearchPerson" title="Main search engine: how to find profiles and pages on WikiTree"><b>Search</b></a></li>
+<li><a class="pureCssMenui" href="/wiki/Social_Media" title="WikiTree social media groups">Social Media</a></li>
+<li><a class="pureCssMenui" href="/indexes/person.html" title="Index of last names">Surnames</a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:Unconnected" title="People in your Watchlist who are not connected to the global family tree">Unconnected People</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Category:Unsourced%20Profiles&u=11563753" title="Profiles in your Watchlist that have no source citations">Unsourced Profiles</a></li>
+<li><a class="pureCssMenui" href="/index.php?title=Special:Badges&b=volunteer" title="Welcome new volunteers or recruit them for your projects">Volunteers</a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:WatchedList" title="Your Watchlist: Profiles you manage or are trusted to edit">Watched Profiles</a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:FindMatches" title="Find matches for your Watchlist on WikiTree">WikiTree Matches</a></li>
+		</ul>
+	</li>
+	<li><a class="pureCssMenui0" href="/wiki/Category:WikiTree_Help"><span class="help">Help</span></a>
+		<ul class="pureCssMenum">
+<li><a class="pureCssMenui" href="/contact/adoption/" title="Help for people who are adopted and seeking family">Adoption Angels</a></li>
+<li><a class="pureCssMenui" href="/blog/" title="The WikiTree newsletter and blog">Blog</a></li>
+<li><a class="pureCssMenui" href="/wiki/Using_Categories" title="How to categorize WikiTree profiles">Category Usage</a></li>
+<li><a class="pureCssMenui" href="/g2g/" title="The genealogist-to-genealogist (G2G) member forum: Ask any question here">Forum ("G2G")</a></li>
+<li><a class="pureCssMenui" href="/wiki/Category:WikiTree_Help" title="Main directory of help pages">Help Category</a></li>
+<li><a class="pureCssMenui" href="/wiki/Help_Index" title="Alphabetical index of help pages"><b>Help Index</b></a></li>
+<li><a class="pureCssMenui" href="/wiki/Special:Honor_Code" title="The pledge that community members make to each other">Honor Code</a></li>
+<li><a class="pureCssMenui" href="/wiki/How_to_use_WikiTree" title="Basic topics for new members">Intro to WikiTree</a></li>
+<li><a class="pureCssMenui" href="/wiki/Problems_with_Members" title="What to do when you have a problem with what another member is doing">Problems w/ Members</a></li>
+<li><a class="pureCssMenui" href="/wiki/Contact_a_Mentor" title="Contact another member privately for personal help using WikiTree">Mentors</a></li>
+<li><a class="pureCssMenui" href="/wiki/Category:Styles_and_Standards" title="Agreed-upon standards and recommended styles for WikiTree profiles">Style Guide</a></li>
+<li><a class="pureCssMenui" href="/wiki/Category:WikiTree_Love" title="Do you love WikiTree? Help spread the word">WikiTree Love</a></li>
+<li><a class="pureCssMenui" href="/wiki/WikiTree_Team" title="Contact the team for private account issues">WikiTree Team</a></li>
+		</ul>
+	</li></ul>
+
+	</div>
+</div>
+
+<div id="content" class="container">
+
+<div class="sixteen columns">
+
+
+
+</div><!-- end 16 -->
+
+
+<div class="sixteen columns row">
+	<div class="two columns alpha">
+	<a href="/index.php?title=Special:UploadPhoto&amp;person_id=11619361"><img src="http://www.wikitree.com/images/icons/female.gif" width="75" height="100" border="0" alt="upload photo of Sophia Cragg Outhwaite"></a>
+	</div>
+
+	<div class="twelve columns">
+<h1><span itemprop="name">Sophia Cragg  Outhwaite</span> (1864 - 1951) </h1>
+<div id="fb-root"></div>
+<div class="fb-share-button" data-layout="button_count"></div>
+<a class="twitter-share-button" href="javascript:window.location.href=window.location.href" data-size="medium"></a>
+<div class="g-plus" data-action="share" data-annotation="bubble"></div>	</div>
+
+	<div class="two columns omega">
+<!-- privacy indicator begin-->
+<a class="nohover" href="/wiki/Privacy#Open"><img src="/images/icons/privacy60.png" title="Privacy Level: Open" alt="Privacy Level: Open (White)" width="60" height="60" border="0"></a>
+<!-- privacy indicator end-->
+	</div>
+</div> <!-- end 16 -->
+		
+<div class="sixteen columns">	
+<!-- TABS -->
+<ul class="profile-tabs">
+<a href="/index.php?title=Outhwaite-24&public=1" title="View Public Version of Profile"><li>Profile <span class="small">(public view)</span></li></a>
+<a href="/index.php?title=Outhwaite-24&amp;action=edit" title="Edit Profile and Family Relationships"><li>Edit</li></a>
+<a href="/genealogy/Outhwaite-Photos-24" title="View Photos and Source Images"><li>Images</li></a>
+<a href="/genealogy/Outhwaite-Family-Tree-24" title="View Family Tree and Genealogy Tools"><li>Family Tree &amp; Tools</li></a>
+<a href="/index.php?title=Special:NetworkFeed&amp;who=Outhwaite-24" title="View Activity Feed for Profile"><li>Changes</li></a>
+<a href="/index.php?title=Special:TrustedList&u=11619361" title="View Privacy Settings and Trusted List"><li>Privacy</li></a>
+<li class="current">Profile <span class="small">(private view)</span></li>
+</ul>
+<!-- end TABS -->
+</div> <!-- end 16 -->
+
+
+
+<div class="ten columns">
+
+<div class="VITALS"><span class="large">
+<strong><span itemprop="givenName">Sophia Cragg</span></strong>
+ 	<a href="/index.php?title=Outhwaite-24&amp;action=edit#middle-name" class="BLANK">[middle name?]</a>
+   
+<meta itemprop="familyName" content="Outhwaite" />
+<strong><a href="/genealogy/OUTHWAITE" title="Current Last Name">Outhwaite</a></strong></span></div>
+
+<div class="VITALS">Born
+	<strong><time itemprop="birthDate" datetime="1864--">1864</time></strong>
+
+in <strong><span itemprop="birth" itemscope itemtype="http://schema.org/Event"><span itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="name">Manchester, Lancashire, England</span></span></span></strong><a href="http://maps.google.com/maps?q=Manchester, Lancashire, England" target="_map"><img src="/images/icons/map.gif" border="0" width="12" height="11" alt="map"></a>  </div>
+
+<div class="VITALS">Daughter<meta itemprop="gender" content="female" /> of
+<span itemprop="parent" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Outhwaite-23" itemprop="url" title="Father b. 1824-00-00 Carnforth"><span itemprop="name">James  Outhwaite</span></a></span>
+	and
+<span itemprop="parent" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Cragg-297" itemprop="url" title="Mother b. 1824-00-00 Manchester, Lancashire, England"><span itemprop="name">Harriet  Cragg</span></a></span>
+	</div>
+
+	<div class="VITALS">Sister of
+	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Outhwaite-27" itemprop="url" title="Brother b. 1849-06-15 Manchester"><span itemprop="name">Thomas Cragg  Outhwaite</span></a></span>, 	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Outhwaite-32" itemprop="url" title="Brother b. 1850-00-00 Manchester, Lancashire, England"><span itemprop="name">Thomas  Outhwaite</span></a></span>, 	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Outhwaite-22" itemprop="url" title="Sister b. 1851-03-09 Hulme, Manchester, Lancashire, Enghland"><span itemprop="name">Ellen  (Outhwaite) Meredith</span></a></span>, 	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Outhwaite-26" itemprop="url" title="Sister b. 1853-03-00 Manchester, Lancashire, England"><span itemprop="name">Elizabeth  (Outhwaite) Howard</span></a></span>, 	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Outhwaite-33" itemprop="url" title="Brother b. 1855-00-00 Hulme"><span itemprop="name">John  Outhwaite</span></a></span> and 	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Outhwaite-25" itemprop="url" title="Brother b. 1857-00-00 Manchester, Lancashire, England"><span itemprop="name">William  Outhwaite</span></a></span>			<a href="/index.php?title=Outhwaite-24&amp;action=editfamily&amp;w=sibling" class="BLANK">[add sibling]</a>
+	</div>
+
+	<div class="VITALS">Wife of
+<span itemprop="spouse" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Howard-11179" itemprop="url" title="Husband b. 1858-00-00 "><span itemprop="name"><strong>Peter Thompson Howard</strong></span></a></span>
+&mdash; married <span itemprop="marriage" itemscope itemtype="http://schema.org/Event">
+ <time itemprop="startDate" datetime="1909-Jul-17">July 17, 1909</time>  in <span itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="name">St Clement, Longsight, Lancashire, England.</span></span><a href="http://maps.google.com/maps?q=St Clement, Longsight, Lancashire, England." target="_map"><img src="/images/icons/map.gif" border="0" width="12" height="11" alt="map"></a> </span>
+</div>
+
+		<div class="VITALS"><a href="/index.php?title=Outhwaite-24&amp;action=editfamily&amp;w=child" class="BLANK">[children?]</a></div>
+	
+<div class="VITALS">Died
+	 <strong><time itemprop="deathDate" datetime="1951--">1951</time></strong>  in <strong><span itemprop="death" itemscope itemtype="http://schema.org/Event"><span itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="name">Stockport Hospital</span></span></span></strong><a href="http://maps.google.com/maps?q=Stockport Hospital" target="_map"><img src="/images/icons/map.gif" border="0" width="12" height="11" alt="map"></a> </div>
+
+<div class="SMALL" style="background-color:#ffe183;">
+Outhwaite-24 &mdash; Profile managers:
+<a href="/wiki/Meredith-1182">David Loring</a> <a href="/index.php?title=Special:PrivateMessage&who=11563753&ref=12348624" rel="nofollow"><img src="/images/icons/mail.gif" border="0" width="15" height="11" alt="private message" title="Send Message" /></a> [<a href="/index.php?title=Special:PrivateMessage&who=11563753&ref=12348624" rel="nofollow">send private message</a>] and <a href="/wiki/Chenery-97">Karen Chenery</a> <a href="/index.php?title=Special:PrivateMessage&who=11619342&ref=12348624" rel="nofollow"><img src="/images/icons/mail.gif" border="0" width="15" height="11" alt="private message" title="Send Message" /></a> [<a href="/index.php?title=Special:PrivateMessage&who=11619342&ref=12348624" rel="nofollow">send private message</a>]</div>
+
+<div class="SMALL" style="background-color:#e1efbb;"><time itemprop="modifiedDate" datetime="2016-06-01">Last modified  1 June 2016.</time> <span class='HISTORY-DATE'>1 June 2016</span>
+<div><span class='HISTORY-ITEM'>11:02: <a href="http://www.wikitree.com/wiki/Meredith-1182" title="Meredith-1182">You</a> <a href="http://www.wikitree.com/index.php?title=Outhwaite-24&amp;diff=35505369&amp;oldid=35504629" title="Outhwaite-24" rel="nofollow"> edited  the Biography </a>  for <a href="http://www.wikitree.com/wiki/Outhwaite-24" title="Outhwaite-24">Sophia Cragg Outhwaite</a>.</span>
+</div></div>
+<div class="SMALL" style="background-color:#eee;">This page has been accessed 25 times.</div>
+
+<div class="g-plusone" data-annotation="inline" data-width="300" data-href="http://www.wikitree.com/wiki/Outhwaite-24"></div>
+<div class="SMALL"><a href="/treewidget/Outhwaite-24/99">Help cousins find this profile.</a></div>
+
+
+	<p><a href="/wiki/Category:Categories">Categories</a>: <span dir='ltr'><a href="/wiki/Category:Manchester%2C_Lancashire" title="Category:Manchester, Lancashire">Manchester, Lancashire</a></span>.</p><p><br />
+</p>
+<div style="margin:1px" align="center">
+<table class="noborder" style="border-collapse:collapse; margin-bottom:0">
+<tr>
+<td><a href="/wiki/Image:Michelle_s_template_images.png" class="image" title="England"><img alt="England" src="/photo.php/thumb/d/dc/Michelle_s_template_images.png/48px-Michelle_s_template_images.png" width="48" height="50" border="0" /></a></td>
+<td>Sophia Cragg  Outhwaite  came from <a href="/wiki/Category:Manchester%2C_Lancashire" title="Category:Manchester, Lancashire">Manchester, Lancashire, England </a></td>
+</tr>
+<tr>
+<td colspan="2" align="center">If you are interested in this profile,<br />please check out the <a href="/wiki/Project:United_Kingdom" title="Project:United Kingdom">United Kingdom Project</a>!</td>
+</tr>
+</table>
+</div>
+<div style="clear:both;"></div>
+<p><br />
+</p><p><br />
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1"><a href="#Time-line"><span class="tocnumber">2</span> <span class="toctext">Time-line</span></a>
+<ul>
+<li class="toclevel-2"><a href="#1864_Birth"><span class="tocnumber">2.1</span> <span class="toctext">1864 Birth</span></a></li>
+<li class="toclevel-2"><a href="#1871_Residence"><span class="tocnumber">2.2</span> <span class="toctext">1871 Residence</span></a></li>
+<li class="toclevel-2"><a href="#1881_Residence"><span class="tocnumber">2.3</span> <span class="toctext">1881 Residence</span></a></li>
+<li class="toclevel-2"><a href="#1909_Marriage"><span class="tocnumber">2.4</span> <span class="toctext">1909 Marriage</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sources"><span class="tocnumber">3</span> <span class="toctext">Sources</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Biography"></a><h2> <span class="mw-headline">Biography</span></h2>
+<dl><dd>From notes by <a href="/wiki/Meredith-1187" title="Meredith-1187">Margery Meredith</a>, grandniece of Sophia Cragg, in the possession of <a href="/wiki/Meredith-1182" title="Meredith-1182">David Loring</a>
+</dd></dl>
+<dl><dd>Sophia lived with her mother (Harriet) and looked after until she died. Sophia then married Peter Howard, widower of her sister Elizabeth, know as 'Tib'
+</dd></dl>
+<dl><dd>They went to live in Holmpton on the Yorkshire coast where Peter had a pony and trap. Nora (Watson nee Meredith) went to stay with them when she was recovering from a mastoid operation. Mother (Dora Cunliffe Wood), Reg and Margery joined Nora at Holmpton for a holiday. Margery was only about 2 years old and was fed on Peter's special curd pie which no one else would touch.
+</dd></dl>
+<dl><dd>Peter died at Holmpton and is buried in St Nicholas churchyard.
+</dd></dl>
+<dl><dd>Sophia lived in various places afterwards - Blackpool, Eastbourne,Brighton, St Annes and finally went to live with Harriet Alice and Gertrude, her nieces, in Maidstone Road, Heaton Mersey, Manchester. She died tragically of burns in Stockport Hospital after getting out of bed (against instructions) while Gertrude was out shopping.
+</dd></dl>
+<a name="Time-line"></a><h2> <span class="mw-headline">Time-line</span></h2>
+<a name="1864_Birth"></a><h3> <span class="mw-headline">1864 Birth</span></h3>
+<dl><dd>Sophia Cragg Outwaite was born in 1864 in Manchester, Lancashire, England<sup id="_ref-0" class="reference"><a href="#_note-0" title="">[1]</a></sup>
+</dd></dl>
+<a name="1871_Residence"></a><h3> <span class="mw-headline">1871 Residence</span></h3>
+<dl><dd> Residence:  Relation to Head of House: Daughter
+<dl><dd> Date:  1871
+</dd><dd> Place:  Manchester, Lancashire, England
+</dd></dl>
+</dd></dl>
+<a name="1881_Residence"></a><h3> <span class="mw-headline">1881 Residence</span></h3>
+<dl><dd>On the night of the 1881 England and Wales Census<sup id="_ref-1" class="reference"><a href="#_note-1" title="">[2]</a></sup> Sophia was at home with her mother, one of her brothers and two Meredith relatives at Hyde Rd, Gorton, Lancashire, England in the Chorlton registration district.
+</dd></dl>
+<dl><dd><table style="width: 100%">
+<tr>
+<td> <b>Household</b> </td><td> <b>Role</b> </td><td> <b>Gender</b> </td><td> <b>Age</b> </td><td> <b>Birthplace</b>
+</td></tr>
+<tr>
+<td> Harriet Outhwaite </td><td> Head </td><td> F </td><td> 56 </td><td> Manchester, Lancashire, England
+</td></tr>
+<tr>
+<td> William Outhwaite </td><td> Son </td><td> M </td><td> 23 </td><td> Manchester, Lancashire, England
+</td></tr>
+<tr>
+<td> <b>Sophia Cragg Outhwaite</b> </td><td> Daughter </td><td> F </td><td> 17 </td><td> Manchester, Lancashire, England
+</td></tr>
+<tr>
+<td> Thomas H Meredith </td><td> Lodger </td><td> M </td><td> 28 </td><td> Withington, Lancashire, England
+</td></tr>
+<tr>
+<td> Ellen Meredith </td><td> Lodger </td><td> F </td><td> 30 </td><td> Manchester, Lancashire, England
+</td></tr></table></dd></dl>
+<dl><dd>Occupation: Pupil Teacher
+</dd></dl>
+<a name="1909_Marriage"></a><h3> <span class="mw-headline">1909 Marriage</span></h3>
+<dl><dd>On 17th July, 1909,<sup id="_ref-2" class="reference"><a href="#_note-2" title="">[3]</a></sup><sup id="_ref-3" class="reference"><a href="#_note-3" title="">[4]</a></sup> aged 45, Sophia, daughter of James Outhwaite (deceased) married Peter Thompson Howard, son of William Howard (deceased) and widower of Elizabeth (Howard) Outhwaite her sister, at St Clement, Longsight, Lancashire, England.
+</dd></dl>
+<a name="Sources"></a><h2> <span class="mw-headline"> Sources </span></h2>
+<ol class="references"><li id="_note-0"><a href="#_ref-0" title="">↑</a> "England and Wales Birth Registration Index, 1837-2008," database, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:261C-K9K" class="external free" title="https://familysearch.org/ark:/61903/1:1:261C-K9K" rel="nofollow">https://familysearch.org/ark:/61903/1:1:261C-K9K</a>&nbsp;: accessed 1 June 2016), Sophia Cragg Outhwaite, 1864; from "England &amp; Wales Births, 1837-2006," database, findmypast (<a href="http://www.findmypast.com" class="external free" title="http://www.findmypast.com" rel="nofollow">http://www.findmypast.com</a>&nbsp;: 2012); citing Birth Registration, Manchester, Lancashire, England, citing General Register Office, Southport, England.</li>
+<li id="_note-1"><a href="#_ref-1" title="">↑</a> "England and Wales Census, 1881," database with images, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:QKXN-6XNR" class="external free" title="https://familysearch.org/ark:/61903/1:1:QKXN-6XNR" rel="nofollow">https://familysearch.org/ark:/61903/1:1:QKXN-6XNR</a>&nbsp;: accessed 1 June 2016), Sophia Cragg Outhwaite in household of Harriet Outhwaite, Gorton, Lancashire, England; from "1881 England, Scotland and Wales census," database and images, findmypast (<a href="http://www.findmypast.com" class="external free" title="http://www.findmypast.com" rel="nofollow">http://www.findmypast.com</a>&nbsp;: n.d.); citing p. 2, Piece/Folio 3902/33, The National Archives, Kew, Surrey; FHL microfilm 101,775,113.</li>
+<li id="_note-2"><a href="#_ref-2" title="">↑</a> "England, Manchester, Parish Registers, 1603-1910," database with images, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:F99Q-FXY" class="external free" title="https://familysearch.org/ark:/61903/1:1:F99Q-FXY" rel="nofollow">https://familysearch.org/ark:/61903/1:1:F99Q-FXY</a>&nbsp;: accessed 1 June 2016), Peter Thompson Howard and Sophia Cragg Outhwaite, 17 Jul 1909, Marriage; citing St Clement, Longsight, Lancashire, England, Archives Central Library, Manchester; FHL microfilm 2,357,975.</li>
+<li id="_note-3"><a href="#_ref-3" title="">↑</a> "England and Wales Marriage Registration Index, 1837-2005," database, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:2DN7-XZ8" class="external free" title="https://familysearch.org/ark:/61903/1:1:2DN7-XZ8" rel="nofollow">https://familysearch.org/ark:/61903/1:1:2DN7-XZ8</a>&nbsp;: accessed 1 June 2016), Sophia Cragg Outhwaite, 1909; from “England &amp; Wales Marriages, 1837-2005,” database, findmypast (<a href="http://www.findmypast.com" class="external free" title="http://www.findmypast.com" rel="nofollow">http://www.findmypast.com</a>&nbsp;: 2012); citing 1909, quarter 3, vol. 8C, p. 1557, Chorlton, Lancashire, England, General Register Office, Southport, England.</li></ol>
+<!-- 
+Pre-expand include size: 6149 bytes
+Post-expand include size: 1603 bytes
+Template argument size: 636 bytes
+Maximum: 2097152 bytes
+-->
+
+
+<div class="EDIT">[<a href="/index.php?title=Outhwaite-24&amp;action=edit#bio">edit</a>]</div>
+	<br /><br />
+
+
+<p><a class="button small" href="/index.php?title=Special:TrustedList&u=11619361#additions">Invite</a><a class="button small" href="/treewidget/Outhwaite-24/99" title="Outhwaite Cousin Bait">Cousin Bait</a><a class="button small" href="/genealogy/Outhwaite-Family-Tree-24" title="View Family Tree">Tree &amp; Tools</a></p>
+
+<span class="large"><strong>Memories</strong></span>
+	<br />Nobody has recorded any memories here yet. Do you have personal reminiscences or stories you were told about Sophia Cragg?</a> <span class="small">[<a href="http://www.wikitree.com/wiki/Memories">more info</a>]</span>
+	<a name="Memories"></a>
+	<br />
+	Enter a memory or story here.
+							<br />
+<form action="/index.php" method="POST">
+<input type=hidden name="title" value="Outhwaite-24">
+<input type=hidden name="action" value="addmemory">
+<textarea name="wpText" rows="6" cols="40"></textarea><br />
+<input class="small" type=submit value="Post Memory">
+</form>
+	<br /><br />
+
+
+</div><!-- end 9 -->
+<div class="six columns">
+
+
+
+
+
+<span class="large"><strong>DNA</strong></span><br />
+					No known carriers of <a href="/treewidget/Outhwaite-24/89">Sophia Cragg's ancestors' mitochondrial DNA</a> have taken an <a href="/wiki/Mitochondrial_DNA_Tests">mtDNA test</a> and no		close relatives have taken a <a href="http://www.kqzyfj.com/click-3382244-12374685-1445621191000" target="_blank">23andMe</a>, <a href="http://www.anrdoezrs.net/click-3382244-11420136" target="_blank">AncestryDNA</a>, or <a href="https://affiliate.familytreedna.com/idevaffiliate.php?id=600" target="_blank">Family Tree DNA "Family Finder"</a> test.		<p>Have you taken a DNA test for genealogy? If so, <a href="/wiki/Special:DNATests">enter it here.</a> If not, <a href="https://affiliate.familytreedna.com/idevaffiliate.php?id=600" target="_blank">see our friends at Family Tree DNA</a>.</p>
+	<br /><br />
+
+
+
+<span class="large"><strong>Collaboration</strong></span>
+<ul class="STYLED">
+
+<li class="GREEN-ARROW"><a href="/index.php?title=Outhwaite-24&amp;action=edit">Edit</a>: As a member of <a href="/index.php?title=Special:TrustedList&u=11619361">the Trusted List</a> you're invited to <a href="/index.php?title=Outhwaite-24&amp;action=edit">improve this profile</a> and <a href="/index.php?title=Special:UploadPhoto&amp;person_id=11619361">upload images</a>.</li>
+
+<li class="GREEN-ARROW">Private Messages:
+			Contact the Profile Managers privately:
+<a href="/index.php?title=Special:PrivateMessage&who=11563753&ref=12348624" rel="nofollow">David Loring</a> and <a href="/index.php?title=Special:PrivateMessage&who=11619342&ref=12348624" rel="nofollow">Karen Chenery</a>. (Best when privacy is an issue.)
+			</li>
+<li class="GREEN-ARROW">Public Comments:
+	These will appear below and on <a href="/wiki/Activity_Feeds">Activity Feeds</a>.
+		(Best for messages specifically directed to those editing this profile. Limit 20 per day.)
+	</li>
+
+<li class="GREEN-ARROW">Public Q&amp;A: These will appear above and in the <a href="/g2g/">Genealogist-to-Genealogist (G2G) Forum</a>. (Best for anything directed to the wider genealogy community.) <form action="/g2g/ask?cat=2" method="POST"><input type=hidden name="extra" value="Outhwaite-24"><input type=hidden name="tags" value="Outhwaite"><input type=submit class="small" value="Ask Question"></form></li>
+
+</ul>
+
+<a name="WT-comments"></a>
+Enter your public comment here.<br />
+<form name="messageform" action="/index.php" method="POST" >
+<input type=hidden name="title" value="Outhwaite-24">
+<input type=hidden name="action" value="addmessage">
+<textarea 
+   onKeyDown = "limitText(this.form.wpText,this.form.remLen,800);"
+   onKeyUp   = "limitText(this.form.wpText,this.form.remLen,800);"
+   name="wpText" rows="6" cols="40"></textarea>
+<div><span class="small">Character limit is 800. Max. Left:</span><input class="small" readonly type=text name="remLen" size=3 maxlength=3 value="800"> <input class="small" type="submit" value="Post Comment"></div>
+</form>
+
+<p>There are no public comments yet.</p>
+<br /></br />
+<span class="large"><strong>Research</strong></span><br />
+For convenience here's a Google search form. If you find more info please add it to WikiTree so that this is a more complete, better organized resource for future genealogists.
+<style type="text/css">
+@import url(http://www.google.com/cse/api/branding.css);
+</style>
+<div class="cse-branding-bottom" style="background-color:#FFFFFF;color:#000000">
+  <div class="cse-branding-form">
+    <form action="http://www.google.com/cse" id="cse-search-box" target="_blank">
+      <div>
+        <input type="hidden" name="cx" value="partner-pub-5983849578006601:xm680g-ilc9" />
+        <input type="hidden" name="ie" value="ISO-8859-1" />
+        <input class="small" type="text" name="q" size="30" value="'Outhwaite, Sophia Cragg'|Sophia Cragg  Outhwaite ~genealogy" />
+        <input class="small" type="submit" name="sa" value="Go" />
+      </div>
+    </form>
+  </div>
+  <div class="cse-branding-logo">
+    <img src="http://www.google.com/images/poweredby_transparent/poweredby_FFFFFF.gif" alt="Google" />
+  </div>
+  <div class="cse-branding-text">
+    Custom Search
+  </div>
+</div>
+<br /></br />
+
+</div> <!-- end 7 -->
+
+
+<div class="sixteen columns">
+<a name="matches"></a>
+<span class="large"><strong>Matches and Merges</strong></span><br />
+Individuals should have one WikiTree profile that is <a href="/wiki/Collaboration">shared by all family members</a>. If you <a href="/index.php?title=Special:FindMatches&action=find&u=11619361" title="Search for Matches">find matches for Sophia Cragg Outhwaite <img src="/images/icons/find-matches.gif" border="0" width="11" height="11" alt="Find Matches" title="Search for Matches"></a> (Outhwaite-24) merge them. <span class="SMALL">[<a href="/wiki/Merging" target="_Help" title="Merge Help">more info</a>] [<a href="/treewidget/Outhwaite-24/101" title="Merging and matching tools">more merging tools <img src="/images/icons/merging.gif" border="0" width="8" height="11" alt="Merges"> for Sophia Cragg Outhwaite</a>]</span>
+<br />
+</div>
+
+
+<div class="offset-by-one five columns alpha">
+<span class="large">Pending Merges <a href="/wiki/Merging#Pending_Merges" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Merge Help"></a></span>
+
+<p style="margin-left:30px;">None.</p>
+<p class="SMALL" style="margin-left:30px;">[<a href="/index.php?title=Special:MergePerson&user1_name=Outhwaite-24" rel="nofollow">initiate a merge</a>]</p>
+</div>
+
+
+<div class="five columns">
+<span class="large">Unmerged Matches <a href="/wiki/Merging#Unmerged_Matches" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Explanation of Unmerged Matches"></a></span>
+<p style="margin-left:30px;">None.</p>
+<p class="SMALL" style="margin-left:30px;">[<a href="/index.php?title=Special:MergePerson&user1_name=Outhwaite-24" rel="nofollow">add a match</a>]</p>
+</div>
+
+<div class="five columns omega">
+<span class="large">Rejected Matches <a href="/wiki/Merging#Rejected_Matches" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Explanation of Rejected Matches"></a></span>
+<p style="margin-left:30px;">None.</p>
+<p class="SMALL" style="margin-left:30px;">[<a href="/index.php?title=Special:MergePerson&user1_name=Outhwaite-24" rel="nofollow">reject a match</a>]</p>
+</div>
+
+
+
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+</div><!-- end content -->
+<div class="container">
+	<div class="sixteen columns">
+<p align="center"><a href="/indexes/person/O/">O</a> &nbsp;&gt;&nbsp; <a href="/genealogy/OUTHWAITE">Outhwaite</a>  &nbsp;&gt;&nbsp; Sophia Cragg  Outhwaite</p>
+	</div>
+</div><!-- end container -->
+<div id="footer">
+<div class="container">
+	<div class="ten columns">
+<p><a href="/" title="Go to the WikiTree Home Page">WIKITREE HOME</a> &nbsp; | &nbsp; <a href="/wiki/About_WikiTree" title="About WikiTree, the Community, and our Mission">ABOUT</a> &nbsp; | &nbsp; <a href="/blog/" title="WikiTree Blog">BLOG</a> &nbsp; | &nbsp; <a href="/g2g/" title="Genealogist-to-Genealogist Forum">FORUM</a> &nbsp; | &nbsp; <a href="/wiki/How_to_use_WikiTree" title="Help pages: How to use WikiTree">HELP</a> &nbsp; | &nbsp; <a href="/wiki/Special:SearchPerson" title="Search for a Person">SEARCH</a> &nbsp; | &nbsp; <a href="/wiki/Special:Home" title="Go to your Navigation Home Page">MY HOME</a></p>
+<p>IMPORTANT PRIVACY NOTICE & DISCLAIMER: YOU HAVE A RESPONSIBILITY TO USE CAUTION WHEN DISTRIBUTING PRIVATE INFORMATION. WIKITREE PROTECTS MOST SENSITIVE INFORMATION BUT ONLY TO THE EXTENT STATED IN THE <a href="/about/terms.html"><u>TERMS OF SERVICE</u></a> AND <a href="/about/privacy.html"><u>PRIVACY POLICY</u></a>.</p>
+<p>&copy; 2008 - 2016 INTERESTING.COM, INC. CONTENT MAY BE COPYRIGHTED BY WIKITREE COMMUNITY MEMBERS.</p>
+	</div>
+	<div class="six columns social">
+<p align="center"><div id="fb-root"></div><div class="fb-share-button" data-href="http://www.wikitree.com" data-layout="button_count"></div>
+<a class="twitter-share-button" href="https://wikitree.com" data-size="medium"></a>
+<div class="g-plus" data-href="http://www.wikitree.com" data-action="share" data-annotation="bubble"></div></p>
+	</div>
+</div><!-- end container -->
+</div><!-- end footer -->
+</div><!-- end wrapper opened in header -->
+<!-- JS call to runBodyOnloadHook -->
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<script type="text/javascript" src="/skins/wikitree/JS/sharing.js"></script>
+<!-- script /skins/wikitree/jquery-scrollToTop.js -->
+</body></html>
+
+=========================================================================================================
+
+Unparented, no siblings example
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="http://schema.org/Person" itemtype="http://historical-data.org/Person.html" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="canonical" itemprop="url" href="http://www.wikitree.com/wiki/Howard-11179" />
+<title>Peter Thompson Howard | Family Tree Unknown</title>
+<meta name="description" content="Genealogy collaboration for Peter Howard born 1858  died 1923 Holmpton, Yorkshire, England including ancestry + more in the free family tree community." />
+<meta name="keywords" content="Peter Howard genealogy" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/css/base.css?1">
+<link rel="stylesheet" href="/css/skeleton.css">
+<link rel="stylesheet" href="/css/skeleton-wide.css">
+<link rel="stylesheet" href="/css/layout.css">
+<!--[if IE]>
+<link rel="stylesheet" href="/css/ie.css">
+<![endif]-->
+
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+
+<!-- jQuery used in many places - load from CDN -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+
+<!-- clear placeholders in search -->
+<script type="text/javascript" src="/skins/wikitree/jquery.placeholder.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('input, textarea').placeholder();
+});
+</script>
+
+<script type= "text/javascript">/*<![CDATA[*/
+var skin = "wikitree";
+var stylepath = "/skins";
+var wgArticlePath = "/wiki/$1";
+var wgScriptPath = "";
+var wgScript = "/index.php";
+var wgServer = "http://www.wikitree.com";
+var wgCanonicalNamespace = "";
+var wgCanonicalSpecialPageName = false;
+var wgNamespaceNumber = 0;
+var wgPageName = "Howard-11179";
+var wgTitle = "Howard-11179";
+var wgAction = "view";
+var wgRestrictionEdit = [];
+var wgRestrictionMove = [];
+var wgArticleId = "14096454";
+var wgIsArticle = true;
+var wgUserName = null;
+var wgUserGroups = null;
+var wgUserLanguage = "en";
+var wgContentLanguage = "en";
+var wgBreakFrames = false;
+var wgCurRevisionId = "35505365";
+/*]]>*/</script>
+
+
+<script type="text/javascript" src="/skins/common/wikibits.js?99"><!-- wikibits js --></script>
+
+<!-- Head Scripts -->
+		<script type="text/javascript" src="/skins/common/ajax.js?99"></script>
+
+<!-- Person-page Scripts -->
+<script type="text/javascript" src="/skins/wikitree/person.js"></script>
+<script type="text/javascript" src="/skins/wikitree/JS/google-analytics-person.js"></script>
+<base target="_top" />
+</head>
+<body class="profile mediawiki ns-0 ltr page-Howard-11179">
+<div class="wrapper">
+<div id="header">
+	<div class="sixteen columns full-width header">
+
+<div class="logo"><a class="nohover" href="/"><img src="/images/wikitree-small.gif" border="0" width="197" height="42" alt="WikiTree" title="WikiTree: The Free Family Tree" /></a></div>
+
+<div class="search"><form action="/wiki/Special:SearchPerson" method="POST"><input type=text name="wpFirst" size="8"  placeholder="First Name">&nbsp;<input type=text name="wpLast" size="8" value="Howard"> <input type=submit name="wpSearch" value="Search" ></form></div>
+
+<div style="float:left; margin:10px 20px 20px 20px;"><a href="/wiki/The_Free_Family_Tree" title="WikiTree: The Free Family Tree" class="reduce" style="text-decoration:none;"><b><span style="color:#8fc641!important;">The Free Family Tree</span></b></a></div>
+<div class="login"><a href="https://www.wikitree.com/index.php?title=Special:Userlogin">login</a> | <a href="https://www.wikitree.com/index.php?title=Special:Userlogin&type=signup">join the family</a></div>
+	</div>
+</div>
+<div id="content" class="container">
+
+<div class="sixteen columns">
+</div>
+
+<div class="sixteen columns row">
+<div class="two columns alpha">
+	<img src="http://www.wikitree.com/images/icons/male.gif" width="75" height="100" border="0" alt="no image">
+	</div>
+
+<div class="twelve columns">
+<h1><span itemprop="name">Peter Thompson Howard</span> (1858 - 1923) </h1>
+<div id="fb-root"></div>
+<div class="fb-share-button" data-layout="button_count"></div>
+<a class="twitter-share-button" href="javascript:window.location.href=window.location.href" data-size="medium"></a>
+<div class="g-plus" data-action="share" data-annotation="bubble"></div></div>
+
+<div class="two columns omega">
+<a class="nohover" href="/wiki/Privacy#Open"><img src="/images/icons/privacy60.png" title="Privacy Level: Open" alt="Privacy Level: Open (White)" width="60" height="60" border="0"></a>
+</div>
+</div>
+
+
+ <!-- start Level 50-60 block -->
+
+
+<div class="sixteen columns">
+<!-- TABS -->
+<ul class="profile-tabs">
+
+<li class="current">Peter Howard's Profile</li>
+
+
+
+<a href="/genealogy/Howard-Family-Tree-11179" title="View Family Tree"><li>Family Tree &amp; Genealogy Tools</li></a>
+
+
+
+</ul>
+<!-- end TABS -->
+</div> <!-- end 16 -->
+
+
+<div class="ten columns">
+
+<div class="VITALS"><span class="large">
+<strong><span itemprop="givenName">Peter</span></strong>
+ 	<strong><span itemprop="additionalName">Thompson</span></strong>
+ 	 <meta itemprop="familyName" content="Howard" />
+<strong><a href="/genealogy/HOWARD">Howard</a></strong></span></div>
+
+<div class="VITALS">Born <strong><time itemprop="birthDate" datetime="1858--">1858</time></strong>  [location unknown]</div>
+
+<div class="VITALS">Son<meta itemprop="gender" content="male" /> of
+[father unknown] and
+[mother unknown]</div>
+
+		<div class="VITALS">[sibling(s) unknown]</div>
+	
+	<div class="VITALS">Husband of
+	<span itemprop="spouse" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Outhwaite-26" itemprop="url" title="wife b. 1853-03-00 Manchester, Lancashire, England"><span itemprop="name"><strong>Elizabeth  (Outhwaite) Howard</strong></span></a></span>
+&mdash; married <span itemprop="marriage" itemscope itemtype="http://schema.org/Event">
+ <time itemprop="startDate" datetime="1882-Dec-07">December 7, 1882</time> in <span itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="name">St Mark, West Gorton, Lancashire, England</span></span><a href="http://maps.google.com/maps?q=St Mark, West Gorton, Lancashire, England" target="_map"><img src="/images/icons/map.gif" border="0" width="12" height="11" alt="map"></a> </span>
+	</div>
+	<div class="VITALS">Husband of
+	<span itemprop="spouse" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Outhwaite-24" itemprop="url" title="wife b. 1864-00-00 Manchester, Lancashire, England"><span itemprop="name"><strong>Sophia Cragg  Outhwaite</strong></span></a></span>
+&mdash; married <span itemprop="marriage" itemscope itemtype="http://schema.org/Event">
+ <time itemprop="startDate" datetime="1909-Jul-17">July 17, 1909</time> in <span itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="name">St Clement, Longsight, Lancashire, England.</span></span><a href="http://maps.google.com/maps?q=St Clement, Longsight, Lancashire, England." target="_map"><img src="/images/icons/map.gif" border="0" width="12" height="11" alt="map"></a> </span>
+	</div>
+
+		<div class="VITALS">[children unknown]</div>
+	
+<div class="VITALS">Died <meta itemprop="startDate" content="1923-00-00" /><strong><time itemprop="deathDate" datetime="1923--">1923</time></strong> in <strong><span itemprop="death" itemscope itemtype="http://schema.org/Event"><span itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="name">Holmpton, Yorkshire, England</span></span></span></strong><a href="http://maps.google.com/maps?q=Holmpton, Yorkshire, England" target="_map"><img src="/images/icons/map.gif" border="0" width="12" height="11" alt="map"></a> </div>
+
+<div class="SMALL" style="background-color:#ffe183;">
+Profile manager: <a href="/wiki/Meredith-1182">David Loring</a> <a href="/index.php?title=Special:PrivateMessage&who=11563753&ref=14096454" rel="nofollow"><img src="/images/icons/mail.gif" border="0" width="15" height="11" alt="private message" title="Send Message to David" /></a> [<a href="/index.php?title=Special:PrivateMessage&who=11563753&ref=14096454" rel="nofollow">send private message</a>]
+</div>
+
+<div class="SMALL" style="background-color:#e1efbb;"><time itemprop="modifiedDate" datetime="2016-06-01">Last modified  1 June 2016.</time> <span class='HISTORY-DATE'>1 June 2016</span>
+<div><span class='HISTORY-ITEM'>07:01: <a href="http://www.wikitree.com/wiki/Meredith-1182" title="Meredith-1182">David (Meredith) Loring</a> <a href="http://www.wikitree.com/index.php?title=Howard-11179&amp;diff=35505365&amp;oldid=35505241" title="Howard-11179" rel="nofollow"> edited  the Biography, Death Date, Death Place and Status Indicators </a>  for <a href="http://www.wikitree.com/wiki/Howard-11179" title="Howard-11179">Peter Howard</a>. <span class='THANKYOU'>[<a href="http://www.wikitree.com/index.php?title=Special:Thanks&amp;action=thank&amp;rc_id=39984486" title="Special:Thanks">Thank  David for this</a>]</span></span>
+</div></div>
+<div class="SMALL" style="background-color:#eee;">This page has been accessed 6 times.</div>
+<div class="g-plusone" data-annotation="inline" data-width="300" data-href="http://www.wikitree.com/wiki/Howard-11179"></div>
+
+	<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Time-line"><span class="tocnumber">1</span> <span class="toctext">Time-line</span></a>
+<ul>
+<li class="toclevel-2"><a href="#1858_Birth"><span class="tocnumber">1.1</span> <span class="toctext">1858 Birth</span></a></li>
+<li class="toclevel-2"><a href="#1882_Marriage"><span class="tocnumber">1.2</span> <span class="toctext">1882 Marriage</span></a></li>
+<li class="toclevel-2"><a href="#1909_Marriage"><span class="tocnumber">1.3</span> <span class="toctext">1909 Marriage</span></a></li>
+<li class="toclevel-2"><a href="#1923_Death"><span class="tocnumber">1.4</span> <span class="toctext">1923 Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sources"><span class="tocnumber">2</span> <span class="toctext">Sources</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Time-line"></a><h2> <span class="mw-headline">Time-line</span></h2>
+<a name="1858_Birth"></a><h3> <span class="mw-headline">1858 Birth</span></h3>
+<dl><dd>Peter Thompson Howard, son of William Howard and Margaret nÃ©e Preston, was born in 1858<sup id="_ref-0" class="reference"><a href="#_note-0" title="">[1]</a></sup> in Yorkshire and baptised on the 7th November, 1858<sup id="_ref-1" class="reference"><a href="#_note-1" title="">[2]</a></sup> at Hull, Yorkshire, England.
+</dd></dl>
+<a name="1882_Marriage"></a><h3> <span class="mw-headline">1882 Marriage</span></h3>
+<dl><dd>On the 7th December, 1882<sup id="_ref-2" class="reference"><a href="#_note-2" title="">[3]</a></sup> Peter Thompson Howard (Clerk), son of William Howard (Clerk), married Elizabeth Outhwaite, daughter of James Outhwaite (Joiner), at St Mark, West Gorton, Lancashire, England. The marriage was witnessed by William Outhwaite and Sophia Cragg Outhwaite
+</dd></dl>
+<a name="1909_Marriage"></a><h3> <span class="mw-headline">1909 Marriage</span></h3>
+<dl><dd>On the 17th July, 1909<sup id="_ref-3" class="reference"><a href="#_note-3" title="">[4]</a></sup> Peter Thompson Howard, son of William Howard (deceased) and widower of Elizabeth (Howard) Outhwaite, married Sophia Cragg Outhwaite, daughter of James Outhwaite (deceased) and sister of his first wife, at St Clement, Longsight, Lancashire, England.
+</dd></dl>
+<a name="1923_Death"></a><h3> <span class="mw-headline">1923 Death</span></h3>
+<dl><dd>Peter passed away in 1923<sup id="_ref-4" class="reference"><a href="#_note-4" title="">[5]</a></sup> at Holmpton, Yorkshire, England and is buried in St Nicholas churchyard.<sup id="_ref-5" class="reference"><a href="#_note-5" title="">[6]</a></sup>
+</dd></dl>
+<a name="Sources"></a><h2> <span class="mw-headline"> Sources </span></h2>
+<ol class="references"><li id="_note-0"><a href="#_ref-0" title="">â†‘</a> "England and Wales Birth Registration Index, 1837-2008," database, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:26BJ-YJV" class="external free" title="https://familysearch.org/ark:/61903/1:1:26BJ-YJV" rel="nofollow">https://familysearch.org/ark:/61903/1:1:26BJ-YJV</a>&nbsp;: accessed 1 June 2016), Peter Thompson Howard, 1858; from "England &amp; Wales Births, 1837-2006," database, findmypast (<a href="http://www.findmypast.com" class="external free" title="http://www.findmypast.com" rel="nofollow">http://www.findmypast.com</a>&nbsp;: 2012); citing Birth Registration, Hull, Yorkshire, England, citing General Register Office, Southport, England.</li>
+<li id="_note-1"><a href="#_ref-1" title="">â†‘</a> "England Births and Christenings, 1538-1975," database, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:J7LW-NJY" class="external free" title="https://familysearch.org/ark:/61903/1:1:J7LW-NJY" rel="nofollow">https://familysearch.org/ark:/61903/1:1:J7LW-NJY</a>&nbsp;: accessed 1 June 2016), Peter Thompson Howard, 07 Nov 1858; citing Hull, York, England, reference item 5 p 218; FHL microfilm 1,657,087.</li>
+<li id="_note-2"><a href="#_ref-2" title="">â†‘</a> "England, Manchester, Parish Registers, 1603-1910," database with images, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:233L-8DG" class="external free" title="https://familysearch.org/ark:/61903/1:1:233L-8DG" rel="nofollow">https://familysearch.org/ark:/61903/1:1:233L-8DG</a>&nbsp;: accessed 1 June 2016), Peter Thompson Howard and Elizabeth Outhwaite, 07 Dec 1882, Marriage; citing St Mark, West Gorton, Lancashire, England, Archives Central Library, Manchester; FHL microfilm .</li>
+<li id="_note-3"><a href="#_ref-3" title="">â†‘</a> "England, Manchester, Parish Registers, 1603-1910," database with images, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:F99Q-FXR" class="external free" title="https://familysearch.org/ark:/61903/1:1:F99Q-FXR" rel="nofollow">https://familysearch.org/ark:/61903/1:1:F99Q-FXR</a>&nbsp;: accessed 1 June 2016), Peter Thompson Howard and Sophia Cragg Outhwaite, 17 Jul 1909, Marriage; citing St Clement, Longsight, Lancashire, England, Archives Central Library, Manchester; FHL microfilm 2,357,975.</li>
+<li id="_note-4"><a href="#_ref-4" title="">â†‘</a> "England and Wales Death Registration Index 1837-2007," database, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:QVH3-KHMQ" class="external free" title="https://familysearch.org/ark:/61903/1:1:QVH3-KHMQ" rel="nofollow">https://familysearch.org/ark:/61903/1:1:QVH3-KHMQ</a>&nbsp;: accessed 1 June 2016), Peter T Howard, 1923; from "England &amp; Wales Deaths, 1837-2006," database, findmypast (<a href="http://www.findmypast.com" class="external free" title="http://www.findmypast.com" rel="nofollow">http://www.findmypast.com</a>&nbsp;: 2012); citing Death, Hull, Yorkshire, England, General Register Office, Southport, England.</li>
+<li id="_note-5"><a href="#_ref-5" title="">â†‘</a> Notes by <a href="/wiki/Meredith-1187" title="Meredith-1187">Margery Meredith</a>, grandniece of Sophia Cragg, in the possession of <a href="/wiki/Meredith-1182" title="Meredith-1182">David Loring</a></li></ol>
+
+	<br /><br />
+
+	
+<p><a class="button small" href="/genealogy/Howard-Family-Tree-11179" title="View Family Tree">More: Family Tree &amp; Genealogy Tools</a></p>
+
+<br /><br />
+<div style="width:590px; margin-left: auto; margin-right: auto; border: 2px solid #a5d167;">
+	<div style="float:right; margin-right:5px;" class="small">Sponsored by <a href="http://www.myheritage.com?utm_source=partner_wikitree&utm_medium=partner&utm_campaign=wikitree_textlinks_dec15&utm_content=familytree_textlink&tr_device=c" target="_blank" rel="nofollow">MyHeritage</a></div>
+<iframe src="https://www.myheritage.com/FP/partner-widget.php?firstName=Peter&lastName=HOWARD&clientId=2322&partnerName=wikitree&widget=records&tr_device=c" frameborder="0" scrolling="no" width="590" height="340"></iframe>
+</div>
+
+<br /><br /><br /><br />
+
+	
+</div><!-- end 9 -->
+<div class="six columns">
+
+<span class="large"><strong>Search</strong></span><br />
+Searching for someone else? 
+<br /><form action="/wiki/Special:SearchPerson" method="POST">First: <input class="small" type=text name="wpFirst" size="10" value="Peter"> Last: <input class="small" type=text name="wpLast" size="10" value="Howard"> <input class="small" type=submit name="wpSearch" value="Go"></form>
+
+<p>Do you have a GEDCOM? Login to have every name in your tree searched. It's free (like everything on WikiTree).</p><br />
+
+
+
+<div style="width:320px; margin-left: auto; margin-right: auto;">
+	<div style="float:right; margin-right:5px;" class="small">Sponsored by <a href="http://www.myheritage.com?utm_source=partner_wikitree&utm_medium=partner&utm_campaign=wikitree_textlinks_dec15&utm_content=familytree_textlink&tr_device=c" target="_blank" rel="nofollow">MyHeritage</a></div>
+<iframe src="https://www.myheritage.com/FP/partner-widget.php?firstName=Peter&lastName=HOWARD&clientId=2322&partnerName=wikitree&widget=minimal&tr_device=c" frameborder="0" scrolling="no" width="320" height="50"></iframe>
+</div>
+<br /><br />
+<span class="large"><strong>DNA</strong></span><br />
+					No known carriers of <a href="/treewidget/Howard-11179/89">Peter's ancestors' Y-chromosome or mitochondrial DNA</a> have taken yDNA or mtDNA tests and no		close relatives have taken a <a href="http://www.kqzyfj.com/click-3382244-12374685-1445621191000" target="_blank">23andMe</a>, <a href="http://www.anrdoezrs.net/click-3382244-11420136" target="_blank">AncestryDNA</a>, or <a href="https://affiliate.familytreedna.com/idevaffiliate.php?id=600" target="_blank">Family Tree DNA "Family Finder"</a> test.		<p>Have you taken a DNA test for genealogy? If so, login to add it. If not, <a href="https://affiliate.familytreedna.com/idevaffiliate.php?id=600" target="_blank">see our friends at Family Tree DNA</a>.</p>
+	<br /><br />
+
+<span class="large"><strong>Collaboration</strong></span>
+<ul class="STYLED">
+
+<li class="GREEN-ARROW">
+			<a href="https://www.wikitree.com/index.php?title=Special:Userlogin" rel="nofollow">Login</a> to edit this profile.
+			</li>
+
+<li class="GREEN-ARROW">Private Messages:
+			<a href="/index.php?title=Special:PrivateMessage&who=11563753&ref=14096454" rel="nofollow">Send a private message to the Profile Manager</a>. (Best when privacy is an issue.)
+			</li>
+<li class="GREEN-ARROW">Public Comments:
+	Login to post.
+		(Best for messages specifically directed to those editing this profile. Limit 20 per day.)
+	</li>
+
+<li class="GREEN-ARROW">Public Q&amp;A: These will appear above and in the <a href="/g2g/">Genealogist-to-Genealogist (G2G) Forum</a>. (Best for anything directed to the wider genealogy community.) <form action="/g2g/ask?cat=2" method="POST"><input type=hidden name="extra" value="Howard-11179"><input type=hidden name="tags" value="Howard"><input type=submit class="small" value="Ask Question"></form></li>
+
+</ul>
+
+<a name="WT-comments"></a>
+
+<p>There are no public comments yet.</p>
+<br /></br />
+
+</div><!-- end 7 -->
+
+ <!-- end main PL conditional -->
+
+
+<!-- end if no person -->
+
+</div><!-- end content -->
+<div class="container">
+	<div class="sixteen columns">
+<p align="center"><a href="/indexes/person/H/">H</a> &nbsp;&gt;&nbsp; <a href="/genealogy/HOWARD">Howard</a>  &nbsp;&gt;&nbsp; Peter Thompson Howard</p>
+	</div>
+</div><!-- end container -->
+<div id="footer">
+<div class="container">
+	<div class="ten columns">
+<p><a href="/" title="Go to the WikiTree Home Page">WIKITREE HOME</a> &nbsp; | &nbsp; <a href="/wiki/About_WikiTree" title="About WikiTree, the Community, and our Mission">ABOUT</a> &nbsp; | &nbsp; <a href="/blog/" title="WikiTree Blog">BLOG</a> &nbsp; | &nbsp; <a href="/g2g/" title="Genealogist-to-Genealogist Forum">FORUM</a> &nbsp; | &nbsp; <a href="/wiki/How_to_use_WikiTree" title="Help pages: How to use WikiTree">HELP</a> &nbsp; | &nbsp; <a href="/wiki/Special:SearchPerson" title="Search for a Person">SEARCH</a></p>
+<p>IMPORTANT PRIVACY NOTICE & DISCLAIMER: YOU HAVE A RESPONSIBILITY TO USE CAUTION WHEN DISTRIBUTING PRIVATE INFORMATION. WIKITREE PROTECTS MOST SENSITIVE INFORMATION BUT ONLY TO THE EXTENT STATED IN THE <a href="/about/terms.html"><u>TERMS OF SERVICE</u></a> AND <a href="/about/privacy.html"><u>PRIVACY POLICY</u></a>.</p>
+<p>&copy; 2008 - 2016 INTERESTING.COM, INC. CONTENT MAY BE COPYRIGHTED BY WIKITREE COMMUNITY MEMBERS.</p>
+	</div>
+	<div class="six columns social">
+<p align="center"><div id="fb-root"></div><div class="fb-share-button" data-href="http://www.wikitree.com" data-layout="button_count"></div>
+<a class="twitter-share-button" href="https://wikitree.com" data-size="medium"></a>
+<div class="g-plus" data-href="http://www.wikitree.com" data-action="share" data-annotation="bubble"></div></p>
+	</div>
+</div><!-- end container -->
+</div><!-- end footer -->
+</div><!-- end wrapper opened in header -->
+<!-- JS call to runBodyOnloadHook -->
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<script type="text/javascript" src="/skins/wikitree/JS/sharing.js"></script>
+<!-- script /skins/wikitree/jquery-scrollToTop.js -->
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+</body></html>
+==========================================================================================================================
+
+Example with no more siblings
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" itemscope itemtype="http://schema.org/Person" itemtype="http://historical-data.org/Person.html" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="canonical" itemprop="url" href="http://www.wikitree.com/wiki/Cragg-289" />
+<title>Charles  Cragg | WikiTree: The FREE Family Tree</title>
+<meta name="description" content="Genealogy collaboration for Charles Cragg born 1829 Knutsford died 1910 Ingersoll, Ontario, Canada including ancestry + 1 photos + more in the free family tree community." />
+<meta name="keywords" content="Charles Cragg genealogy" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="/css/base.css?1">
+<link rel="stylesheet" href="/css/skeleton.css">
+<link rel="stylesheet" href="/css/skeleton-wide.css">
+<link rel="stylesheet" href="/css/layout.css">
+<!--[if IE]>
+<link rel="stylesheet" href="/css/ie.css">
+<![endif]-->
+
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+
+<!-- jQuery used in many places - load from CDN -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+
+<!-- clear placeholders in search -->
+<script type="text/javascript" src="/skins/wikitree/jquery.placeholder.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('input, textarea').placeholder();
+});
+</script>
+
+<script type= "text/javascript">/*<![CDATA[*/
+var skin = "wikitree";
+var stylepath = "/skins";
+var wgArticlePath = "/wiki/$1";
+var wgScriptPath = "";
+var wgScript = "/index.php";
+var wgServer = "http://www.wikitree.com";
+var wgCanonicalNamespace = "";
+var wgCanonicalSpecialPageName = false;
+var wgNamespaceNumber = 0;
+var wgPageName = "Cragg-289";
+var wgTitle = "Cragg-289";
+var wgAction = "view";
+var wgRestrictionEdit = [];
+var wgRestrictionMove = [];
+var wgArticleId = "12348484";
+var wgIsArticle = true;
+var wgUserName = null;
+var wgUserGroups = null;
+var wgUserLanguage = "en";
+var wgContentLanguage = "en";
+var wgBreakFrames = false;
+var wgCurRevisionId = "35487058";
+/*]]>*/</script>
+
+
+<script type="text/javascript" src="/skins/common/wikibits.js?99"><!-- wikibits js --></script>
+
+<!-- Head Scripts -->
+		<script type="text/javascript" src="/skins/common/ajax.js?99"></script>
+
+<!-- Person-page Scripts -->
+<script type="text/javascript" src="/skins/wikitree/person.js"></script>
+<script type="text/javascript" src="/skins/wikitree/JS/google-analytics-person.js"></script>
+<base target="_top" />
+</head>
+<body class="profile mediawiki ns-0 ltr page-Cragg-289">
+<div class="wrapper">
+<div id="header">
+	<div class="sixteen columns full-width header">
+
+<div class="logo"><a class="nohover" href="/"><img src="/images/wikitree-small.gif" border="0" width="197" height="42" alt="WikiTree" title="WikiTree: The Free Family Tree" /></a></div>
+
+<div class="search"><form action="/wiki/Special:SearchPerson" method="POST"><input type=text name="wpFirst" size="8"  placeholder="First Name">&nbsp;<input type=text name="wpLast" size="8" value="Cragg"> <input type=submit name="wpSearch" value="Search" ></form></div>
+
+<div style="float:left; margin:10px 20px 20px 20px;"><a href="/wiki/The_Free_Family_Tree" title="WikiTree: The Free Family Tree" class="reduce" style="text-decoration:none;"><b><span style="color:#8fc641!important;">The Free Family Tree</span></b></a></div>
+<div class="login"><a href="https://www.wikitree.com/index.php?title=Special:Userlogin">login</a> | <a href="https://www.wikitree.com/index.php?title=Special:Userlogin&type=signup">join the family</a></div>
+	</div>
+</div>
+<div id="content" class="container">
+
+<div class="sixteen columns">
+</div>
+
+<div class="sixteen columns row">
+<div class="two columns alpha">
+	<img src="http://www.wikitree.com/images/icons/male.gif" width="75" height="100" border="0" alt="no image">
+	</div>
+
+<div class="twelve columns">
+<h1><span itemprop="name">Charles  Cragg</span> (1829 - 1910) </h1>
+<div id="fb-root"></div>
+<div class="fb-share-button" data-layout="button_count"></div>
+<a class="twitter-share-button" href="javascript:window.location.href=window.location.href" data-size="medium"></a>
+<div class="g-plus" data-action="share" data-annotation="bubble"></div></div>
+
+<div class="two columns omega">
+<a class="nohover" href="/wiki/Privacy#Open"><img src="/images/icons/privacy60.png" title="Privacy Level: Open" alt="Privacy Level: Open (White)" width="60" height="60" border="0"></a>
+</div>
+</div>
+
+
+ <!-- start Level 50-60 block -->
+
+
+<div class="sixteen columns">
+<!-- TABS -->
+<ul class="profile-tabs">
+
+<li class="current">Charles Cragg's Profile</li>
+
+
+<a href="/genealogy/Cragg-Photos-289" rel="nofollow" title="View Photos and Source Images"><li>Images</li></a>
+<a href="/genealogy/Cragg-Family-Tree-289" title="View Family Tree"><li>Family Tree &amp; Genealogy Tools</li></a>
+
+
+
+</ul>
+<!-- end TABS -->
+</div> <!-- end 16 -->
+
+
+<div class="ten columns">
+
+<div class="VITALS"><span class="large">
+<strong><span itemprop="givenName">Charles</span></strong>
+ 	 <meta itemprop="familyName" content="Cragg" />
+<strong><a href="/genealogy/CRAGG">Cragg</a></strong></span></div>
+
+<div class="VITALS">Born <strong><time itemprop="birthDate" datetime="1829-May-07">May 7, 1829</time></strong>  in <strong><span itemprop="birth" itemscope itemtype="http://schema.org/Event"><span itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="name">Knutsford</span></span></span></strong><a href="http://maps.google.com/maps?q=Knutsford" target="_map"><img src="/images/icons/map.gif" border="0" width="12" height="11" alt="map"></a></div>
+
+<div class="VITALS">Son<meta itemprop="gender" content="male" /> of
+	<span itemprop="parent" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Cragg-299" itemprop="url" title="father b. 1803 Nether Knutsford"><span itemprop="name">Peter  Cragg</span></a></span>
+		 and
+	<span itemprop="parent" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Mares-84" itemprop="url" title="mother b. 1800 Knutsford"><span itemprop="name">Mary  (Mares) Cragg</span></a></span>
+		</div>
+
+	<div class="VITALS">Brother of
+	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Cragg-290" itemprop="url" title="brother b. 1825 Knutsford"><span itemprop="name">Henry  Cragg</span></a></span>, 	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Cragg-287" itemprop="url" title="brother b. 1826 Knutsford"><span itemprop="name">Thomas  Cragg</span></a></span> and	<span itemprop="sibling" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Cragg-295" itemprop="url" title="sister b. 1831 Knutsford"><span itemprop="name">Mary Ann  Cragg</span></a></span>	</div>
+
+	<div class="VITALS">Husband of
+	<span itemprop="spouse" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Moran-2097" itemprop="url" title="wife b. 1841-00-00 Ireland"><span itemprop="name"><strong>Eliza Jane (Moran) Cragg</strong></span></a></span>
+&mdash; married <span itemprop="marriage" itemscope itemtype="http://schema.org/Event">
+ <time itemprop="startDate" datetime="1859-May-17">May 17, 1859</time> in <span itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="name">Ingersoll, Canada, British North America</span></span><a href="http://maps.google.com/maps?q=Ingersoll, Canada, British North America" target="_map"><img src="/images/icons/map.gif" border="0" width="12" height="11" alt="map"></a> </span>
+	</div>
+	<div class="VITALS">Husband of
+	<span itemprop="spouse" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Moran-2105" itemprop="url" title="wife b. 1838-11-01 Enniskellen, Fermanagh, Ireland"><span itemprop="name"><strong>Jane  (Moran) Cragg</strong></span></a></span>
+&mdash; married <span itemprop="marriage" itemscope itemtype="http://schema.org/Event">
+ <time itemprop="startDate" datetime="1873-Jul-31">July 31, 1873</time> in <span itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="name">Dereham, Oxford, Ontario, Canada</span></span><a href="http://maps.google.com/maps?q=Dereham, Oxford, Ontario, Canada" target="_map"><img src="/images/icons/map.gif" border="0" width="12" height="11" alt="map"></a> </span>
+	</div>
+
+	<div class="VITALS">Father of
+	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Cragg-337" itemprop="url" title="daughter b. [date unknown] "><span itemprop="name">Mary Eliza Cragg</span></a></span>, 	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Cragg-322" itemprop="url" title="daughter b. 1864 Ontario, Canada"><span itemprop="name">Lucy Irene (Cragg) McDonald</span></a></span>, 	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Cragg-323" itemprop="url" title="son b. 1866 Ontario, Canada"><span itemprop="name">Henry Herbert Cragg</span></a></span>, 	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Cragg-324" itemprop="url" title="son b. 1868 Ontario, Canada"><span itemprop="name">Charles James Cragg</span></a></span>, 	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Cragg-325" itemprop="url" title="son b. 1870 Ontario, Canada"><span itemprop="name">William  Cragg</span></a></span>, 	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Cragg-326" itemprop="url" title="daughter b. 1871 Ingersoll, Oxford, Ontario, Canada"><span itemprop="name">Harriet  Cragg</span></a></span>, 	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Cragg-327" itemprop="url" title="son b. 1879 Ingersoll, Oxford, Ontario, Canada"><span itemprop="name">William Edward Cragg</span></a></span> and	<span itemprop="children" itemscope itemtype="http://schema.org/Person"><a href="/wiki/Cragg-328" itemprop="url" title="son b. 1881 Ingersoll, Oxford, Ontario, Canada"><span itemprop="name">Arthur Cecil Cragg</span></a></span>	</div>
+
+<div class="VITALS">Died <meta itemprop="startDate" content="1910-06-01" /><strong><time itemprop="deathDate" datetime="1910-Jun-01">June 1, 1910</time></strong> in <strong><span itemprop="death" itemscope itemtype="http://schema.org/Event"><span itemprop="location" itemscope itemtype="http://schema.org/Place"><span itemprop="name">Ingersoll, Ontario, Canada</span></span></span></strong><a href="http://maps.google.com/maps?q=Ingersoll, Ontario, Canada" target="_map"><img src="/images/icons/map.gif" border="0" width="12" height="11" alt="map"></a> </div>
+
+<div class="SMALL" style="background-color:#ffe183;">
+Profile managers:
+<a href="/wiki/Meredith-1182">David Loring</a> <a href="/index.php?title=Special:PrivateMessage&who=11563753&ref=12348484" rel="nofollow"><img src="/images/icons/mail.gif" border="0" width="15" height="11" alt="private message" title="Send Message" /></a> [<a href="/index.php?title=Special:PrivateMessage&who=11563753&ref=12348484" rel="nofollow">send private message</a>] and <a href="/wiki/Chenery-97">Karen Chenery</a> <a href="/index.php?title=Special:PrivateMessage&who=11619342&ref=12348484" rel="nofollow"><img src="/images/icons/mail.gif" border="0" width="15" height="11" alt="private message" title="Send Message" /></a> [<a href="/index.php?title=Special:PrivateMessage&who=11619342&ref=12348484" rel="nofollow">send private message</a>]</div>
+
+<div class="SMALL" style="background-color:#e1efbb;"><time itemprop="modifiedDate" datetime="2016-05-31">Last modified 31 May 2016.</time> <span class='HISTORY-DATE'>31 May 2016</span>
+<div><span class='HISTORY-ITEM'>15:51: <a href="http://www.wikitree.com/wiki/Cragg-321" title="Cragg-321">Cathy (Cragg) Davis</a> <a href="http://www.wikitree.com/index.php?title=Cragg-289&amp;diff=35487058&amp;oldid=35487051" title="Cragg-289" rel="nofollow"> edited  the data </a>  for <a href="http://www.wikitree.com/wiki/Cragg-289" title="Cragg-289">Charles Cragg</a>. <span class='USERCOMMENT'>(added daughter to list of children, birthdates to 1901 census)</span> <span class='THANKYOU'>[<a href="http://www.wikitree.com/index.php?title=Special:Thanks&amp;action=thank&amp;rc_id=39963745" title="Special:Thanks">Thank  Cathy for this</a>]</span></span>
+</div></div>
+<div class="SMALL" style="background-color:#eee;">This page has been accessed 176 times.</div>
+<div class="g-plusone" data-annotation="inline" data-width="300" data-href="http://www.wikitree.com/wiki/Cragg-289"></div>
+
+<p>Categories: <span dir='ltr'><a href="/wiki/Category:Knutsford%2C_Cheshire" title="Category:Knutsford, Cheshire">Knutsford, Cheshire</a></span>.</p>	<p><br />
+</p>
+<div style="margin:1px" align="center">
+<table class="noborder" style="border-collapse:collapse; margin-bottom:0">
+<tr>
+<td><a href="/wiki/Image:Michelle_s_template_images.png" class="image" title="England"><img alt="England" src="/photo.php/thumb/d/dc/Michelle_s_template_images.png/48px-Michelle_s_template_images.png" width="48" height="50" border="0" /></a></td>
+<td>Charles  Cragg  came from <a href="/wiki/Category:Knutsford%2C_Cheshire" title="Category:Knutsford, Cheshire">Knutsford, Cheshire, England </a></td>
+</tr>
+<tr>
+<td colspan="2" align="center">If you are interested in this profile,<br />please check out the <a href="/wiki/Project:United_Kingdom" title="Project:United Kingdom">United Kingdom Project</a>!</td>
+</tr>
+</table>
+</div>
+<div style="clear:both;"></div>
+<p><br />
+</p><p><br />
+</p>
+<table id="toc" class="toc" summary="Contents"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2"><a href="#1828.2F9_Birth"><span class="tocnumber">1.1</span> <span class="toctext">1828/9 Birth</span></a></li>
+<li class="toclevel-2"><a href="#1851_Census"><span class="tocnumber">1.2</span> <span class="toctext">1851 Census</span></a></li>
+<li class="toclevel-2"><a href="#1859_Marriage"><span class="tocnumber">1.3</span> <span class="toctext">1859 Marriage</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Children_of_Charles_and_Eliza"><span class="tocnumber">1.3.1</span> <span class="toctext">Children of Charles and Eliza</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#1861_Census"><span class="tocnumber">1.4</span> <span class="toctext">1861 Census</span></a></li>
+<li class="toclevel-2"><a href="#1871_Census"><span class="tocnumber">1.5</span> <span class="toctext">1871 Census</span></a></li>
+<li class="toclevel-2"><a href="#1871_Death_of_1st_Wife"><span class="tocnumber">1.6</span> <span class="toctext">1871 Death of 1st Wife</span></a></li>
+<li class="toclevel-2"><a href="#1873_Marriage"><span class="tocnumber">1.7</span> <span class="toctext">1873 Marriage</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Children_of_Charles_and_Jane"><span class="tocnumber">1.7.1</span> <span class="toctext">Children of Charles and Jane</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#1881_Census"><span class="tocnumber">1.8</span> <span class="toctext">1881 Census</span></a></li>
+<li class="toclevel-2"><a href="#1901_Census"><span class="tocnumber">1.9</span> <span class="toctext">1901 Census</span></a></li>
+<li class="toclevel-2"><a href="#1910_Death"><span class="tocnumber">1.10</span> <span class="toctext">1910 Death</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1"><a href="#Sources"><span class="tocnumber">2</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1"><a href="#Import_Notes"><span class="tocnumber">3</span> <span class="toctext">Import Notes</span></a></li>
+</ul>
+</td></tr></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+<a name="Biography"></a><h2> <span class="mw-headline"> Biography </span></h2>
+<dl><dd> <a href="http://www.wikitree.com/wiki/Space:Historical_and_Unsupported_profiles" class="external text" title="http://www.wikitree.com/wiki/Space:Historical_and_Unsupported_profiles" rel="nofollow">This is an Historical (Extracted) profile</a>
+</dd></dl>
+<a name="1828.2F9_Birth"></a><h3> <span class="mw-headline">1828/9 Birth</span></h3>
+<dl><dd> Charles was born about late 1828 or early 1829 and baptised on the 31st May 1829<sup id="_ref-0" class="reference"><a href="#_note-0" title="">[1]</a></sup>
+</dd></dl>
+<dl><dd><table>
+
+<tr>
+<td> Event Type </td><td> Christening
+</td></tr>
+<tr>
+<td> Event Date </td><td> 31 May 1829
+</td></tr>
+<tr>
+<td> Event Place </td><td> St John the Baptist, Knutsford, Cheshire, England
+</td></tr>
+<tr>
+<td> Gender </td><td> Male
+</td></tr>
+<tr>
+<td> Father's Name </td><td> Peter Cragg
+</td></tr>
+<tr>
+<td> Mother's Name </td><td> Mary Cragg
+</td></tr></table></dd></dl>
+<a name="1851_Census"></a><h3> <span class="mw-headline">1851 Census</span></h3>
+<dl><dd> On the night of the census 1851 Charles was at home with his parents, Peter and Mary Cragg and 3 siblings in Nissouri East, Oxford County, Canada West, Canada<sup id="_ref-1" class="reference"><a href="#_note-1" title="">[2]</a></sup>
+</dd></dl>
+<dl><dd><table>
+
+<tr>
+<td> Name </td><td> Occupation </td><td> Place of Birth </td><td> Religion </td><td> Age </td><td> Sex </td><td> Status
+</td></tr>
+<tr>
+<td> <b>Peter</b>  </td><td> <b>Farmer</b>  </td><td> <b>England</b>  </td><td> <b>Unitarian</b>  </td><td> <b>49</b>  </td><td> <b>M</b>  </td><td> <b>M</b>
+</td></tr>
+<tr>
+<td>Mary  </td><td>  </td><td> England  </td><td> Unitarian  </td><td> 52  </td><td> F  </td><td> M
+</td></tr>
+<tr>
+<td>Mary A </td><td> </td><td>  England </td><td>Unitarian </td><td> 21 </td><td> F </td><td>
+</td></tr>
+<tr>
+<td>Henry </td><td> </td><td>  England </td><td> Unitarian </td><td> 27 </td><td> M </td><td>
+</td></tr>
+<tr>
+<td>Thomas </td><td> </td><td> England </td><td> Unitarian </td><td> 26 </td><td> M </td><td>
+</td></tr>
+<tr>
+<td>Charles </td><td> </td><td> England </td><td> Unitarian </td><td> 23 </td><td> M
+</td></tr></table></dd></dl>
+<table style="margin-left:auto;margin-right:auto;">
+<tr>
+<td style="text-align:center;"><a href="/wiki/Image:Cragg-289.jpg" class="image" title="Cragg-289.jpg"><img alt="" src="/photo.php/thumb/5/52/Cragg-289.jpg/300px-Cragg-289.jpg" width="300" height="290" border="0" /></a>
+</td></tr>
+<tr>
+<td style="text-align:center;font-size:90%;padding-bottom:1em;">Cragg - Canadian 1851 Census
+</td></tr></table>
+<a name="1859_Marriage"></a><h3> <span class="mw-headline">1859 Marriage</span></h3>
+<dl><dd> Charles married Eliza Jane Moran on the 17th of  May, 1859<sup id="_ref-2" class="reference"><a href="#_note-2" title="">[3]</a></sup>. She is the daughter of Edward Moran and Elizabeth.
+<dl><dd> <i>The marriage registration shows his year of birth as 1833 and place Milford. This can safely be ignored as there is no such place as Milford in Cheshire, nor has been in the past, and no birth record for a Charles Crag born in 1833 exists online.</i>
+</dd></dl>
+</dd></dl>
+<a name="Children_of_Charles_and_Eliza"></a><h4> <span class="mw-headline">Children of Charles and Eliza</span></h4>
+<dl><dd> <a href="/wiki/Cragg-337" title="Cragg-337">Mary Eliza Cragg</a> b. 1862
+</dd><dd> <a href="/wiki/Cragg-322" title="Cragg-322">Lucy Irene (Cragg) MacDonald</a> b. 1864
+</dd><dd> <a href="/wiki/Cragg-323" title="Cragg-323">Henry Herbert Cragg</a> b. 1866
+</dd><dd> <a href="/wiki/Cragg-324" title="Cragg-324">Charles James Cragg</a> b. 1868
+</dd><dd> <a href="/wiki/Cragg-325" title="Cragg-325">William Cragg</a> b. 1870
+</dd><dd> <a href="/wiki/Cragg-326" title="Cragg-326">Harriet Cragg</a> b. 1871
+</dd></dl>
+<a name="1861_Census"></a><h3> <span class="mw-headline">1861 Census</span></h3>
+<dl><dd> The night of the 1861 census in Ingersoll, Oxford, Canada West (Ontario), Canada<sup id="_ref-3" class="reference"><a href="#_note-3" title="">[4]</a></sup> finds Charles at home with Eliza Jane his wife. 
+</dd></dl>
+<dl><dd><table>
+
+<tr>
+<td> Name </td><td> Occupation </td><td> Place of Birth </td><td> Religion </td><td> Age </td><td> Sex </td><td> Status
+</td></tr>
+<tr>
+<td> <b>Charles</b>  </td><td> <b>Saddler</b>  </td><td> <b>England</b>  </td><td> <b>Church of England</b>  </td><td> <b>29</b>  </td><td> <b>M</b>  </td><td> <b>M</b>
+</td></tr>
+<tr>
+<td> Eliza Jane  </td><td>  </td><td> U Canada  </td><td> Church of England  </td><td> 20  </td><td> F  </td><td> M
+</td></tr></table></dd></dl>
+<a name="1871_Census"></a><h3> <span class="mw-headline">1871 Census</span></h3>
+<dl><dd> The night of the 1871 Census in Ingersoll, Oxford, Ontario, Canada<sup id="_ref-4" class="reference"><a href="#_note-4" title="">[5]</a></sup> finds Charles at home with his wife and family and Madina Moran, daughter of Edward Moran and sister of Eliza J.
+</dd></dl>
+<dl><dd><table>
+
+<tr>
+<td> Name </td><td> Age </td><td> Occupation </td><td> Birth Place </td><td> Status
+</td></tr>
+<tr>
+<td> Charles  </td><td> 40  </td><td> Harness Maker  </td><td> England  </td><td> M
+</td></tr>
+<tr>
+<td> <b>Eliza J.</b>  </td><td> <b>30</b>  </td><td>  </td><td> <b>Ontario</b>  </td><td> <b>M</b>
+</td></tr>
+<tr>
+<td> Mary E.  </td><td> 8  </td><td>  </td><td> Ontario  </td><td> S
+</td></tr>
+<tr>
+<td> Lucy E.  </td><td> 6  </td><td>  </td><td> Ontario  </td><td> S
+</td></tr>
+<tr>
+<td> Henry H.  </td><td> 4  </td><td>  </td><td> Ontario  </td><td> S
+</td></tr>
+<tr>
+<td> Charles J.  </td><td> 3  </td><td>  </td><td> Ontario  </td><td> S
+</td></tr>
+<tr>
+<td> Harriett  </td><td> 1 mon. </td><td> </td><td> Ontario  </td><td> S (Born in March)
+</td></tr>
+<tr>
+<td> Madina Moran </td><td> 16 </td><td> </td><td> Ontario </td><td> S
+</td></tr></table></dd></dl>
+<a name="1871_Death_of_1st_Wife"></a><h3> <span class="mw-headline">1871 Death of 1st Wife</span></h3>
+<dl><dd> Charles's first wife <a href="/wiki/Moran-2097" title="Moran-2097">Eliza Jane</a> nee Moran passed away on the 15th of July, 1871 at Barnett Street, Ingersoll. (See reference on her page)
+</dd></dl>
+<a name="1873_Marriage"></a><h3> <span class="mw-headline">1873 Marriage</span></h3>
+<dl><dd> Charles married Jane Morran on the 31st of July, 1873<sup id="_ref-5" class="reference"><a href="#_note-5" title="">[6]</a></sup>. She is the daughter of William Morran (or Moran) and Catherine.
+</dd></dl>
+<a name="Children_of_Charles_and_Jane"></a><h4> <span class="mw-headline">Children of Charles and Jane</span></h4>
+<dl><dd> <a href="/wiki/Cragg-327" title="Cragg-327">William Edward Cragg</a> b. 1879
+</dd><dd> <a href="/wiki/Cragg-328" title="Cragg-328">Arthur Cecil Cragg</a> b. 1881
+</dd></dl>
+<a name="1881_Census"></a><h3> <span class="mw-headline">1881 Census</span></h3>
+<dl><dd> The 1881 census records Charles and Jane Cragg at home with four children.   <sup id="_ref-6" class="reference"><a href="#_note-6" title="">[7]</a></sup>
+</dd></dl>
+<dl><dd><table>
+
+<tr>
+<td> Surname  </td><td> Christian Name  </td><td> Sex  </td><td> Age  </td><td> Birthplace  </td><td> Origin  </td><td> Occupation  </td><td> Status  </td><td> Page
+</td></tr>
+<tr>
+<td> Cragg  </td><td> Charles  </td><td> M  </td><td> 52  </td><td> England  </td><td> English  </td><td> Harness maker  </td><td> M  </td><td> 45
+</td></tr>
+<tr>
+<td> Cragg </td><td> Jane </td><td> F </td><td> 39 </td><td> Ireland </td><td> Irish </td><td> </td><td> M </td><td> 45
+</td></tr>
+<tr>
+<td> Cragg </td><td> Lucy Irene </td><td> F </td><td> 17 </td><td> Ontario </td><td> English </td><td> </td><td> </td><td> 45
+</td></tr>
+<tr>
+<td> Cragg </td><td> Henry H </td><td> M </td><td> 15 </td><td> Ontario </td><td> English </td><td> Harness maker </td><td> </td><td> 45
+</td></tr>
+<tr>
+<td> Cragg </td><td> Chas James </td><td> M </td><td> 13 </td><td> Ontario </td><td> English </td><td> </td><td> </td><td> 45
+</td></tr>
+<tr>
+<td> Cragg </td><td> William E </td><td> M </td><td> 3 </td><td> Ontario </td><td> English </td><td> </td><td> </td><td> 45
+</td></tr></table></dd></dl>
+<a name="1901_Census"></a><h3> <span class="mw-headline">1901 Census</span></h3>
+<dl><dd> On the night of the 1901 census Charles was at home at Oxford (south/sud), Ontario, Canada, age 72, with his wife and his two sons by her.<sup id="_ref-7" class="reference"><a href="#_note-7" title="">[8]</a></sup><sup id="_ref-8" class="reference"><a href="#_note-8" title="">[9]</a></sup>
+</dd></dl>
+<dl><dd><table>
+
+<tr>
+<td> Household </td><td> Role </td><td> Gender </td><td> Age </td><td> Birthday</td><td>Birthplace</td><td>Emigration
+</td></tr>
+<tr>
+<td> Charles Cragg </td><td> Head </td><td> M </td><td> 72 </td><td> May 7 1828</td><td>England</td><td>1850
+</td></tr>
+<tr>
+<td> Jane Cragg </td><td> Wife </td><td> F </td><td> 62 </td><td> Nov 1 1838</td><td>Ireland</td><td>1850</td><td>
+</td></tr>
+<tr>
+<td> Wm E Cragg </td><td> Son </td><td> M </td><td> 22 </td><td>May 30 1878</td><td> Ontario</td><td>
+</td></tr>
+<tr>
+<td> Arthur C Cragg </td><td> Son </td><td> M </td><td> 19 </td><td> July 28 1881</td><td>Ontario</td><td>
+</td></tr></table></dd></dl>
+<a name="1910_Death"></a><h3> <span class="mw-headline">1910 Death</span></h3>
+<dl><dd> Charles died on the 1st of June, 1910 at Ingersoll, Oxford, Ontario.<sup id="_ref-9" class="reference"><a href="#_note-9" title="">[10]</a></sup>
+</dd></dl>
+<a name="Sources"></a><h2> <span class="mw-headline"> Sources </span></h2>
+<ol class="references"><li id="_note-0"><a href="#_ref-0" title="">â†‘</a> "England, Cheshire Parish Registers, 1538-2000," database, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:F3JR-Z9N" class="external free" title="https://familysearch.org/ark:/61903/1:1:F3JR-Z9N" rel="nofollow">https://familysearch.org/ark:/61903/1:1:F3JR-Z9N</a>&nbsp;: accessed 10 April 2016), Charles Cragg, 31 May 1829, Christening; citing item 3 p 18, St John the Baptist, Knutsford, Cheshire, England, Record Office, Chester; FHL microfilm 2,045,883.</li>
+<li id="_note-1"><a href="#_ref-1" title="">â†‘</a> "Canada Census, 1851," database, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:MWTX-QM4" class="external free" title="https://familysearch.org/ark:/61903/1:1:MWTX-QM4" rel="nofollow">https://familysearch.org/ark:/61903/1:1:MWTX-QM4</a>&nbsp;: accessed 10 April 2016), Charles Cragg, Nissouri East, Oxford County, Canada West (Ontario), Canada; citing p. 47, line 14; Library and Archives Canada film number C_11745, Public Archives, Ontario.</li>
+<li id="_note-2"><a href="#_ref-2" title="">â†‘</a> "Canada Marriages, 1661-1949," database, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:F2G7-B4C" class="external free" title="https://familysearch.org/ark:/61903/1:1:F2G7-B4C" rel="nofollow">https://familysearch.org/ark:/61903/1:1:F2G7-B4C</a>&nbsp;: accessed 3 November 2015), Charles Cragg and Eliza Jane Moran, 17 May 1859; citing Oxford, Ontario, reference 2:3QFKQH6; FHL microfilm 1,030,062.</li>
+<li id="_note-3"><a href="#_ref-3" title="">â†‘</a> "Canada Census, 1861," database, (<a href="http://data2.collectionscanada.gc.ca/1861/jpg/4391949_00314.jpg" class="external free" title="http://data2.collectionscanada.gc.ca/1861/jpg/4391949_00314.jpg" rel="nofollow">http://data2.collectionscanada.gc.ca/1861/jpg/4391949_00314.jpg</a>: accessed 10 April 2016), Charles Cragg, Ingersoll Township, Oxford, Canada West (Ontario), Canada; Ennumeration District (ED) 2; citing p. 26, lines 27 and 28, Library and Archives of Canada, Ottawa.</li>
+<li id="_note-4"><a href="#_ref-4" title="">â†‘</a> "Canada Census, 1871," database, (<a href="http://data2.collectionscanada.ca/1871/jpg/4396330_00398.jpg" class="external free" title="http://data2.collectionscanada.ca/1871/jpg/4396330_00398.jpg" rel="nofollow">http://data2.collectionscanada.ca/1871/jpg/4396330_00398.jpg</a>&nbsp;: accessed 10 April 2016), Charles Cragg, Ingersoll Township, South Oxford, Ontario, Canada; Ennumeration District (ED) 13, Subd F, Div. 1, citing p. 47, lines 5 through 12, Library and Archives of Canada, Ottawa.</li>
+<li id="_note-5"><a href="#_ref-5" title="">â†‘</a> "Ontario Marriages, 1869-1927," database with images, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:FMF1-JHS" class="external free" title="https://familysearch.org/ark:/61903/1:1:FMF1-JHS" rel="nofollow">https://familysearch.org/ark:/61903/1:1:FMF1-JHS</a>&nbsp;: accessed 10 April 2016), Charles Cragg and Jane Morran, 31 Jul 1873; citing registration , Dereham, Oxford, Ontario, Canada, Archives of Ontario, Toronto; FHL microfilm 1,862,700.</li>
+<li id="_note-6"><a href="#_ref-6" title="">â†‘</a> "Canada Census, 1881," database, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:MVDF-QL9" class="external free" title="https://familysearch.org/ark:/61903/1:1:MVDF-QL9" rel="nofollow">https://familysearch.org/ark:/61903/1:1:MVDF-QL9</a>&nbsp;: accessed 11 April 2016), Charles Cragg, Ingersoll, Oxford South, Ontario, Canada; citing p. 45; Library and Archives Canada film number C-13267, Library and Archives Canada, Ottawa, Ontario; FHL microfilm 1,375,903.</li>
+<li id="_note-7"><a href="#_ref-7" title="">â†‘</a> "Canada Census, 1901," database, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:KHGM-JZL" class="external free" title="https://familysearch.org/ark:/61903/1:1:KHGM-JZL" rel="nofollow">https://familysearch.org/ark:/61903/1:1:KHGM-JZL</a>&nbsp;: accessed 10 April 2016), Charles Cragg, B, Oxford (south/sud), Ontario, Canada; citing p. 8, Library and Archives of Canada, Ottawa.</li>
+<li id="_note-8"><a href="#_ref-8" title="">â†‘</a> <a href="http://data2.collectionscanada.ca/1901/z/z002/jpg/z000093122.jpg" class="external free" title="http://data2.collectionscanada.ca/1901/z/z002/jpg/z000093122.jpg" rel="nofollow">http://data2.collectionscanada.ca/1901/z/z002/jpg/z000093122.jpg</a> </li>
+<li id="_note-9"><a href="#_ref-9" title="">â†‘</a> "Ontario Deaths, 1869-1937 and Overseas Deaths, 1939-1947," database with images, FamilySearch (<a href="https://familysearch.org/ark:/61903/1:1:JD5F-MJ2" class="external free" title="https://familysearch.org/ark:/61903/1:1:JD5F-MJ2" rel="nofollow">https://familysearch.org/ark:/61903/1:1:JD5F-MJ2</a>&nbsp;: accessed 10 April 2016), Charles Cragg, 01 Jun 1910; citing Ingersoll, Oxford, Ontario, yr 1910 cn 23396, Archives of Ontario, Toronto; FHL microfilm 1,854,628.</li></ol>
+<!-- 
+Pre-expand include size: 10778 bytes
+Post-expand include size: 1803 bytes
+Template argument size: 678 bytes
+Maximum: 2097152 bytes
+-->
+
+	<br /><br />
+
+	
+<p><a class="button small" href="/genealogy/Cragg-Family-Tree-289" title="View Family Tree">More: Family Tree &amp; Genealogy Tools</a></p>
+
+<br /><br />
+<div style="width:590px; margin-left: auto; margin-right: auto; border: 2px solid #a5d167;">
+	<div style="float:right; margin-right:5px;" class="small">Sponsored by <a href="http://www.myheritage.com?utm_source=partner_wikitree&utm_medium=partner&utm_campaign=wikitree_textlinks_dec15&utm_content=familytree_textlink&tr_device=c" target="_blank" rel="nofollow">MyHeritage</a></div>
+<iframe src="https://www.myheritage.com/FP/partner-widget.php?firstName=Charles&lastName=CRAGG&clientId=2322&partnerName=wikitree&widget=records&tr_device=c" frameborder="0" scrolling="no" width="590" height="340"></iframe>
+</div>
+
+<br /><br /><br /><br />
+
+	
+</div><!-- end 9 -->
+<div class="six columns">
+
+<span class="large"><strong>Search</strong></span><br />
+Searching for someone else? <ul class="STYLED"><li class="BULLET60"> <a href="/wiki/Cragg-289" target="_blank">Charles  Cragg</a>
+	</ul>
+<br /><form action="/wiki/Special:SearchPerson" method="POST">First: <input class="small" type=text name="wpFirst" size="10" value="Charles"> Last: <input class="small" type=text name="wpLast" size="10" value="Cragg"> <input class="small" type=submit name="wpSearch" value="Go"></form>
+
+<p>Do you have a GEDCOM? Login to have every name in your tree searched. It's free (like everything on WikiTree).</p><br />
+
+
+
+<div style="width:320px; margin-left: auto; margin-right: auto;">
+	<div style="float:right; margin-right:5px;" class="small">Sponsored by <a href="http://www.myheritage.com?utm_source=partner_wikitree&utm_medium=partner&utm_campaign=wikitree_textlinks_dec15&utm_content=familytree_textlink&tr_device=c" target="_blank" rel="nofollow">MyHeritage</a></div>
+<iframe src="https://www.myheritage.com/FP/partner-widget.php?firstName=Charles&lastName=CRAGG&clientId=2322&partnerName=wikitree&widget=minimal&tr_device=c" frameborder="0" scrolling="no" width="320" height="50"></iframe>
+</div>
+<br /><br />
+<span class="large"><strong>DNA</strong></span><br />
+					No known carriers of <a href="/treewidget/Cragg-289/890">Charles's Y-chromosome</a> or <a href="/treewidget/Cragg-289/89">his mother's mitochondrial DNA</a> have taken yDNA or mtDNA tests and no		close relatives have taken a <a href="http://www.kqzyfj.com/click-3382244-12374685-1445621191000" target="_blank">23andMe</a>, <a href="http://www.anrdoezrs.net/click-3382244-11420136" target="_blank">AncestryDNA</a>, or <a href="https://affiliate.familytreedna.com/idevaffiliate.php?id=600" target="_blank">Family Tree DNA "Family Finder"</a> test.		<p>Have you taken a DNA test for genealogy? If so, login to add it. If not, <a href="https://affiliate.familytreedna.com/idevaffiliate.php?id=600" target="_blank">see our friends at Family Tree DNA</a>.</p>
+	<br /><br />
+<span class="large"><strong>Images: 1</strong></span>
+	
+
+<div style="width:300px; margin:5px; margin-left: auto; margin-right: auto;">
+
+<a href="/photo/jpg/Cragg-289"><span class="large">Cragg - Canadian 1851 Census</span><br /><img src="/photo.php/thumb/5/52/Cragg-289.jpg/300px-Cragg-289.jpg" width="300" height="290" alt="Cragg - Canadian 1851 Census" border="0"></a>
+<br />
+
+	</div>
+<br />
+
+	
+<span class="large"><strong>Collaboration</strong></span>
+<ul class="STYLED">
+
+<li class="GREEN-ARROW">
+			<a href="https://www.wikitree.com/index.php?title=Special:Userlogin" rel="nofollow">Login</a> to edit this profile.
+			</li>
+
+<li class="GREEN-ARROW">Private Messages:
+			Contact the Profile Managers privately:
+<a href="/index.php?title=Special:PrivateMessage&who=11563753&ref=12348484" rel="nofollow">David Loring</a> and <a href="/index.php?title=Special:PrivateMessage&who=11619342&ref=12348484" rel="nofollow">Karen Chenery</a>. (Best when privacy is an issue.)
+			</li>
+<li class="GREEN-ARROW">Public Comments:
+	Login to post.
+		(Best for messages specifically directed to those editing this profile. Limit 20 per day.)
+	</li>
+
+<li class="GREEN-ARROW">Public Q&amp;A: These will appear above and in the <a href="/g2g/">Genealogist-to-Genealogist (G2G) Forum</a>. (Best for anything directed to the wider genealogy community.) <form action="/g2g/ask?cat=2" method="POST"><input type=hidden name="extra" value="Cragg-289"><input type=hidden name="tags" value="Cragg"><input type=submit class="small" value="Ask Question"></form></li>
+
+</ul>
+
+<a name="WT-comments"></a>
+
+<p>There are no public comments yet.</p>
+<br /></br />
+
+</div><!-- end 7 -->
+
+ <!-- end main PL conditional -->
+
+
+<!-- end if no person -->
+
+</div><!-- end content -->
+<div class="container">
+	<div class="sixteen columns">
+<p align="center"><a href="/indexes/person/C/">C</a> &nbsp;&gt;&nbsp; <a href="/genealogy/CRAGG">Cragg</a>  &nbsp;&gt;&nbsp; Charles  Cragg</p>
+	</div>
+</div><!-- end container -->
+<div id="footer">
+<div class="container">
+	<div class="ten columns">
+<p><a href="/" title="Go to the WikiTree Home Page">WIKITREE HOME</a> &nbsp; | &nbsp; <a href="/wiki/About_WikiTree" title="About WikiTree, the Community, and our Mission">ABOUT</a> &nbsp; | &nbsp; <a href="/blog/" title="WikiTree Blog">BLOG</a> &nbsp; | &nbsp; <a href="/g2g/" title="Genealogist-to-Genealogist Forum">FORUM</a> &nbsp; | &nbsp; <a href="/wiki/How_to_use_WikiTree" title="Help pages: How to use WikiTree">HELP</a> &nbsp; | &nbsp; <a href="/wiki/Special:SearchPerson" title="Search for a Person">SEARCH</a></p>
+<p>IMPORTANT PRIVACY NOTICE & DISCLAIMER: YOU HAVE A RESPONSIBILITY TO USE CAUTION WHEN DISTRIBUTING PRIVATE INFORMATION. WIKITREE PROTECTS MOST SENSITIVE INFORMATION BUT ONLY TO THE EXTENT STATED IN THE <a href="/about/terms.html"><u>TERMS OF SERVICE</u></a> AND <a href="/about/privacy.html"><u>PRIVACY POLICY</u></a>.</p>
+<p>&copy; 2008 - 2016 INTERESTING.COM, INC. CONTENT MAY BE COPYRIGHTED BY WIKITREE COMMUNITY MEMBERS.</p>
+	</div>
+	<div class="six columns social">
+<p align="center"><div id="fb-root"></div><div class="fb-share-button" data-href="http://www.wikitree.com" data-layout="button_count"></div>
+<a class="twitter-share-button" href="https://wikitree.com" data-size="medium"></a>
+<div class="g-plus" data-href="http://www.wikitree.com" data-action="share" data-annotation="bubble"></div></p>
+	</div>
+</div><!-- end container -->
+</div><!-- end footer -->
+</div><!-- end wrapper opened in header -->
+<!-- JS call to runBodyOnloadHook -->
+
+		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<script type="text/javascript" src="/skins/wikitree/JS/sharing.js"></script>
+<!-- script /skins/wikitree/jquery-scrollToTop.js -->
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+</body></html>

@@ -1,0 +1,1628 @@
+ElseIf IncomingCitation.Contains("Honduras") = True then
+    If IncomingCitation.Contains("Honduras Baptisms, 1730-1930") = True then
+    ElseIf IncomingCitation.Contains("Honduras Marriages, 1800-1910") = True then
+    ElseIf IncomingCitation.Contains("Honduras, Catholic Church Records, 1633-1978") = True then
+    ElseIf IncomingCitation.Contains("Honduras, Civil Registration, 1841-1968") = True then
+    End If
+Hungary Baptisms, 1734-1895
+Hungary Civil Registration, 1895-1980
+Hungary Funeral Notices, 1840-1990
+Hungary Reformed Church Christenings, 1624-1895
+Hungary, Catholic Church Records, 1636-1895
+Hungary, Jewish Vital Records Index, 1800-1945
+Iceland Baptisms, 1730-1905
+Iceland Marriages, 1770-1920
+Idaho Births and Christenings, 1856-1965
+Idaho Church Marriages, 1864-1976
+Idaho Death Certificates, 1911-1937
+Idaho Death Certificates, 1938-1961
+Idaho Deaths and Burials, 1907-1965
+Idaho Divorce Index, 1947-1963
+Idaho Marriage Index, 1947-1961
+Idaho Marriages, 1878-1898; 1903-1942
+Idaho, Birth Index, 1861-1911
+Idaho, Bonneville County Records, 1867-2012
+Idaho, Butte County Records, 1882-1970
+Idaho, Cassia County Records, 1879-1989
+Idaho, Clark County Records, 1884-1998
+Idaho, County Birth and Death Records, 1883-1929
+Idaho, County Marriages, 1864-1950
+Idaho, County Naturalizations, 1861-1974
+Idaho, Eastport, Arrival Manifests, 1924-1956
+Idaho, Elmore County Records, 1889-1972
+Idaho, Gem County Records, 1877-1962
+Idaho, Gooding County Records, 1879-1962
+Idaho, Lemhi County Records, 1868-1964
+Idaho, Lincoln County Records, 1886-1972
+Idaho, Minidoka County Records, 1913-1961
+Idaho, Southeast Counties Obituaries, 1864-2007
+Idaho, Southern Counties Obituaries, 1943-2013
+Idaho, Teton County Records, 1900-1988
+Idaho, Twin Falls County Records, 1906-1988
+Illinois Births and Christenings, 1824-1940
+Illinois Cemetery Transcriptions, 1853-2009
+Illinois Deaths and Stillbirths, 1916-1947
+Illinois Marriages, 1815-1935
+Illinois Probate Records, 1819-1988
+Illinois Soldier Burial Places, 1774-1974
+Illinois State Census, 1855
+Illinois State Census, 1865
+Illinois, Adams County, Card Index to Deaths, 1877-1990
+Illinois, Archdiocese of Chicago, Cemetery Records, 1864-1989
+Illinois, Chicago, Catholic Church Records, 1833-1925
+Illinois, Church Marriages, 1805-1985
+Illinois, Civil Marriages, 1833-1889
+Illinois, Cook County Birth Registers, 1871-1915
+Illinois, Cook County Deaths, 1878-1994
+Illinois, Cook County Marriages, 1871-1920
+Illinois, Cook County, Birth Certificates, 1871-1940
+Illinois, Cook County, Maywood, Maywood Herald Obituary Card Index, 1885-2002
+Illinois, Cook County, Obituaries, ca. 1970-1990
+Illinois, County Marriages, 1810-1940
+Illinois, County Naturalization Records, 1800-1962
+Illinois, DeKalb County Land Records, 1838-1927
+Illinois, Diocese of Belleville, Catholic Parish Records, 1729-1956
+Illinois, Lee County Records, 1830-1954
+Illinois, Macon County, Decatur Public Library Collections, 1879-2007
+Illinois, Mildred Hooper Obituary Collection, ca. 1959-1981
+Illinois, Non-Population Census Schedules, 1850-1880
+Illinois, Northern District (Eastern Division), Naturalization Index, 1926-1979
+Illinois, Northern District Naturalization Index, 1840-1950
+Illinois, Northern District Petitions for Naturalization, 1906-1994
+Illinois, Tazewell County, Obituary Card Index from the "Pekin Times", 1914-2007
+India Births and Baptisms, 1786-1947
+India Deaths and Burials, 1719-1948
+India Marriages, 1792-1948
+India, Archdiocese of Goa, Roman Catholic Priesthood Candidates, 1724-1996
+India, Bihar, Koilukh, Pandit Kirtinand Jha, Maithil Brahmin Genealogical Records, 1750-1990
+India, Gujarat Diocese Protestant Church Records, 1854-2012
+India, Hindu Pilgrimage Records, 1194-2015
+India, Jharkhand, B. Deoghar, Singh Darwaja, Pandit Dharam Rakshni Sabha, Marriage Records, 1958-2013
+India, Madras Diocese Protestant Church Records, 1743-1990
+India, Punjab, Moga Land Ownership Pedigrees, 1887-1958
+Indiana Births and Christenings, 1773-1933
+Indiana Death Index, 1882-1920
+Indiana Marriages, 1780-1992
+Indiana Marriages, 1811-2007
+Indiana Naturalization Records and Indexes, 1848-1992
+Indiana, Church Marriages, 1780-1993
+Indiana, Civil Marriages, 1828-1957
+Indiana, Daviess County, Washington Times Herald Obituaries, 1984-2012
+Indiana, Gary and East Chicago Crew Lists, 1945-1956
+Indiana, Ripley County, Osgood, Greendale Cemetery Records, 1861-2007
+Indonesia, Jawa Tengah, Banjarnegara, Naturalization Records, 1960-2012
+Indonesia, Jawa Tengah, Banyumas, Naturalization Records, 1954-2012
+Indonesia, Jawa Tengah, Boyolali, Naturalization and Citizenship Records, 1960-2011
+Indonesia, Jawa Tengah, Ciamis District Court Records, 1950-2014
+Indonesia, Jawa Tengah, Jepara, Court Records, 1960-2013
+Indonesia, Jawa Tengah, Kebumen, Naturalization Records, 1951-2013
+Indonesia, Jawa Tengah, Kudus, District Court Naturalization Records, 1958-2013
+Indonesia, Jawa Tengah, Mungkid, District Court Records, 1985-2013
+Indonesia, Jawa Tengah, Pati, Naturalization Records, 1960-2013
+Indonesia, Jawa Tengah, Pekalongan District Court Records, 1977-2003
+Indonesia, Jawa Tengah, Pemalang, District Court Records, 1961-2013
+Indonesia, Jawa Tengah, Purwodadi, Citizenship Records, 1960-2012
+Indonesia, Jawa Tengah, Purwokerto, Miscellaneous Government Records, 1950-2012
+Indonesia, Jawa Tengah, Rembang, District Court Naturalization Records, 1953-2013
+Indonesia, Jawa Tengah, Ungaran, District Court Naturalization Records, 1975-2014
+Indonesia, Jawa Tengah, Wonogiri, District Court Records, 1925-2013
+Indonesia, Jawa Tengah, Wonosobo, Naturalization Records, 1927-2011
+International Genealogical Index (IGI)
+Iowa Births and Christenings, 1830-1950
+Iowa Deaths and Burials, 1850-1990
+Iowa Marriages, 1809-1992
+Iowa Mortality Schedules, 1850-1880
+Iowa Non-Population Census Schedules, 1850-1880
+Iowa State Census, 1885
+Iowa State Census, 1895
+Iowa State Census, 1905
+Iowa State Census, 1915
+Iowa State Census, 1925
+Iowa, Armed Forces Grave Registrations, ca. 1835-1998
+Iowa, Church and Civil Marriages, 1837-1989
+Iowa, County Births, 1880-1935
+Iowa, County Death Records, 1880-1992
+Iowa, County Marriages, 1838-1934
+Iowa, Death Records, 1921-1940
+Iowa, Delayed Birth Records, 1850-1939
+Iowa, Fayette County Probate Records, 1851-1928
+Iowa, Grand Army of the Republic Membership Records, 1861-1949
+Iowa, Polk County Probate Records, 1914-1924
+Iowa, Poweshiek County Land Records, 1855-1934
+Iowa, Poweshiek County Probate, School, and Court Records, 1850-1954
+Ireland Births and Baptisms, 1620-1881
+Ireland Calendar of Wills and Administrations, 1858-1920
+Ireland Census Search Forms, 1841 and 1851
+Ireland Census, 1821
+Ireland Census, 1831
+Ireland Census, 1841
+Ireland Census, 1851
+Ireland Civil Registration Indexes, 1845-1958
+Ireland Civil Registration, 1845-1913
+Ireland Deaths, 1864-1870
+Ireland Marriages, 1619-1898
+Ireland Tithe Applotment Books, 1814-1855
+Ireland, Valuation Office Books, 1831-1856
+Isle of Man Births and Baptisms, 1607-1910
+Isle of Man Deaths and Burials, 1844-1918
+Isle of Man Marriages, 1606–1911
+Isle of Man Parish Registers, 1598-2009
+Italy Births and Baptisms, 1806-1900
+Italy Deaths and Burials, 1809-1900
+Italy Marriages, 1809-1900
+Italy, Agrigento, Agrigento, Civil Registration (Tribunale), 1866-1942
+Italy, Agrigento, Civil Registration (State Archive), 1820-1865
+Italy, Agrigento, Sciacca, Civil Registration (Tribunale), 1861-1929
+Italy, Ancona, Ancona, Civil Registration (Tribunale), 1862-1929
+Italy, Arezzo, Civil Registration (State Archive), 1314-1934
+Italy, Ascoli Piceno, Civil Registration (State Archive), 1740-1880, 1915-1919
+Italy, Asti, Civil Registration (State Archive), 1803-1814, 1911-1935
+Italy, Asti, Civil Registration (Tribunale), 1866-1910
+Italy, Avellino, Sant'Angelo dei Lombardi, Civil Registration (Tribunale), 1866-1910
+Italy, Bari, Bari, Civil Registration (Tribunale), 1866-1929
+Italy, Bari, Civil Registration (State Archive), 1809-1908
+Italy, Bari, Trani, Civil Registration (Tribunale), 1866-1910
+Italy, Benevento, Arcidiocesi di Benevento, Catholic Church Records, 1575-1908
+Italy, Benevento, Benevento, Civil Registration (Comune), 1861-1929
+Italy, Benevento, Civil Registration (State Archive), 1810-1942
+Italy, Bergamo, Civil Registration (State Archive), 1866-1901
+Italy, Biella, Borriana, Catholic Church Records, 1740-1938
+Italy, Bologna, Bologna, Civil Registration (Tribunale), 1866-1943
+Italy, Brescia, Civil Registration (State Archive), 1797-1815, 1866-1943
+Italy, Cagliari, Cagliari, Civil Registration (Tribunale), 1866-1929
+Italy, Caltanissetta, Caltanissetta, Civil Registration (Tribunale), 1866-1910
+Italy, Caltanissetta, Civil Registration (State Archive), 1820-1935
+Italy, Campobasso, Civil Registration (State Archive), 1809-1918
+Italy, Caserta, Gricignano d'Aversa, Civil Registration (Comune), 1809-1929
+Italy, Caserta, Sant'Arpino, Civil Registration (Comune), 1876-1980
+Italy, Caserta, Santa Maria Capua Vetere, Civil Registration (Tribunale), 1866-1929
+Italy, Catania, Arcidiocesi di Catania, Catholic Church Records, 1515-1941
+Italy, Catania, Caltagirone, Civil Registration (Tribunale), 1861-1941
+Italy, Catania, Catania, Civil Registration (Comune), 1820-1905
+Italy, Catania, Catania, Civil Registration (Tribunale), 1866-1929
+Italy, Catania, Diocesi di Acireale, Catholic Church Records, 1560-1950
+Italy, Catania, Diocesi di Caltagirone, Catholic Church Records, 1502-1942
+Italy, Catanzaro, Catanzaro, Civil Registration (Tribunale), 1866-1910
+Italy, Catanzaro, Civil Registration (State Archive), 1809-1865
+Italy, Chieti, Civil Registration (State Archive), 1809-1930
+Italy, Como, Civil Registration (State Archive), 1806-1815, 1850-1927
+Italy, Como, Como, Civil Registration (Tribunale), 1866-1929
+Italy, Cosenza, Castrovillari, Civil Registration (Tribunale), 1866-1910
+Italy, Cosenza, Paola, Civil Registration (Tribunale), 1866-1910
+Italy, Cosenza, Rossano, Civil Registration (Tribunale), 1866-1910
+Italy, Cremona, Civil Registration (State Archive), 1744-1942
+Italy, Cuneo, Alba, Civil Registration (Tribunale), 1866-1941
+Italy, Cuneo, Civil Registration (State Archive), 1795-1915
+Italy, Cuneo, Saluzzo, Civil Registration (Tribunale), 1866-1942
+Italy, Enna, Civil Registration (State Archive), 1866-1944
+Italy, Foggia, Lucera, Civil Registration (Tribunale), 1866-1910
+Italy, Forlì-Cesena, Forlì, Civil Registration (State Archive), 1800-1815, 1866-1930
+Italy, Frosinone, Cassino, Civil Registration (Comune), 1861-1930
+Italy, Frosinone, Settefrati, Civil Registration (Comune), 1866-1929
+Italy, Genova, Chiavari, Civil Registration (Tribunale), 1866-1941
+Italy, Genova, Civil Registration (State Archive), 1796-1812, 1838-1859, 1866-1899
+Italy, Genova, Genova, Civil Registration (Tribunale), 1866-1929
+Italy, Grosseto, Civil Registration (State Archive), 1866-1942
+Italy, Imperia, Civil Registration (State Archive), 1785-1904
+Italy, Imperia, San Remo, Civil Registration (State Archive), 1805-1910
+Italy, Imperia, Ventimiglia, Civil Registration (State Archive), 1806-1913
+Italy, L'Aquila, Camarda, Parrocchia di San Giovanni Battista, Catholic Church Records, 1606-1941
+Italy, L'Aquila, Civil Registration (State Archive), 1809-1865, 1911-1943
+Italy, L'Aquila, L'Aquila, Civil Registration (Tribunale), 1824-1910
+Italy, La Spezia, Catholic Church Records, 1838-1857
+Italy, La Spezia, Civil Registration (State Archive), 1780-1865
+Italy, Lecco, Lecco, Civil Registration (Tribunale), 1866-1929
+Italy, Lucca, Civil Registration (State Archive), 1807-1814
+Italy, Lucca, Lucca, Civil Registration (Tribunale), 1866-1929
+Italy, Macerata, Civil Registration (State Archive), 1808-1814
+Italy, Macerata, Macerata, Civil Registration (Tribunale), 1866-1929
+Italy, Mantova, Brede, Parrocchia di Santa Margherita vergine e martire, Catholic Church Records, 1568-1910
+Italy, Mantova, Civil Registration (State Archive), 1496-1906
+Italy, Mantova, Mantova, Censuses (Comune), 1750-1900
+Italy, Mantova, Mantova, Civil Registration (Comune), 1714-1910
+Italy, Mantova, Mantova, Jewish Records, 1770-1899
+Italy, Massa e Carrara, Massa, Civil Registration (Tribunale), 1866-1929
+Italy, Matera, Matera, Civil Registration (Tribunale), 1866-1929
+Italy, Messina, Civil Registration (State Archive), 1820-1865
+Italy, Messina, Messina, Civil Registration (Comune), 1866-1910
+Italy, Messina, Messina, Civil Registration (Tribunale), 1866-1939
+Italy, Messina, Mistretta, Civil Registration (Tribunale), 1866-1942
+Italy, Messina, Naso, Civil Registration (Comune), 1820-1922
+Italy, Messina, Patti, Civil Registration (Tribunale), 1823-1941
+Italy, Modena, Civil Registration (State Archive), 1806-1942
+Italy, Napoli, Acerra, Civil Registration (Comune), 1809-1929
+Italy, Napoli, Barano d'Ischia, Civil Registration (Comune), 1809-1929
+Italy, Napoli, Barano d'Ischia, Parrocchia di San Sebastiano Martire, Catholic Church Records, 1671-1929
+Italy, Napoli, Casoria, Civil Registration (Comune), 1809-1929
+Italy, Napoli, Castellammare di Stabia, Civil Registration (Comune), 1809-1936
+Italy, Napoli, Civil Registration (State Archive), 1809-1865
+Italy, Napoli, Fontana, Parrocchia di Santa Maria della Mercede - La Sacra, Catholic Church Records, 1659-1929
+Italy, Napoli, Forio, Civil Registration (Comune), 1809-1915
+Italy, Napoli, Grumo Nevano, Civil Registration (Comune), 1809-1929
+Italy, Napoli, Ischia, Civil Registration (Comune), 1809-1929
+Italy, Napoli, Lacco Ameno, Civil Registration (Comune), 1813-1910
+Italy, Napoli, Lacco Ameno, Parrocchia di SS. Annunziata in Santa Maria delle Grazie, Catholic Church Records, 1630-1929
+Italy, Napoli, Marano di Napoli, Civil Registration (Comune), 1839-1929
+Italy, Napoli, Melito di Napoli, Civil Registration (Comune), 1809-1929
+Italy, Napoli, Monte di Procida, Civil Registration (Comune), 1817-1929
+Italy, Napoli, Mugnano, Civil Registration (Comune), 1810-1929
+Italy, Napoli, Panza, Parrocchia di San Leonardo Abate, Catholic Church Records, 1670-1929
+Italy, Napoli, Pomigliano d'Arco, Civil Registration (Comune), 1809-1929
+Italy, Napoli, Pomigliano d'Arco, Military Conscriptions (Comune), 1898-1929
+Italy, Napoli, Portici, Civil Registration (Comune), 1809-1929
+Italy, Napoli, San Giorgio a Cremano, Civil Registration (Comune), 1809-1929
+Italy, Napoli, Sant'Angelo, Parrocchia di San Michele Arcangelo, Catholic Church Records, 1905-1929
+Italy, Napoli, Sant'Antimo, Civil Registration (Comune), 1809-1929
+Italy, Napoli, Serrara Fontana, Civil Registration (Comune), 1809-1929
+Italy, Napoli, Serrara, Parrocchia di Santa Maria del Carmine, Catholic Church Records, 1641-1929
+Italy, Napoli, Testaccio, Parrocchia di San Giorgio Martire, Catholic Church Records, 1633-1930
+Italy, Napoli, Torre Annunziata, Civil Registration (Comune), 1809-1899
+Italy, Napoli, Torre Annunziata, Civil Registration (Tribunale), 1900-1911
+Italy, Nuoro, Nuoro, Civil Registration (Tribunale), 1866-1915
+Italy, Olbia-Tempio, Tempio Pausania, Civil Registration (Tribunale), 1866-1910
+Italy, Oristano, Oristano, Civil Registration (Tribunale), 1866-1940
+Italy, Padova, Civil Registration (State Archive), 1621-1914
+Italy, Padova, Padova, Civil Registration (Tribunale), 1871-1929
+Italy, Palermo, Diocesi di Monreale, Catholic Church Records, 1531-1998
+Italy, Palermo, Palermo, Civil Registration (Tribunale), 1866-1910
+Italy, Palermo, Termini Imerese, Civil Registration (Tribunale), 1862-1910
+Italy, Pavia, Pavia, Civil Registration (Tribunale), 1806-1812, 1866-1935
+Italy, Pavia, Voghera, Civil Registration (Tribunale), 1866-1929
+Italy, Perugia, Perugia, Civil Registration (Tribunale), 1861-1929
+Italy, Pesaro e Urbino, Fano, Civil Registration (State Archive), 1808-1815, 1841-1865, 1890-1908
+Italy, Pesaro e Urbino, Pesaro, Civil Registration (State Archive), 1808-1813, 1861-1865
+Italy, Pesaro e Urbino, Urbino, Civil Registration (State Archive), 1866-1942
+Italy, Pesaro e Urbino, Urbino, Civil Registration (Tribunale), 1866-1910
+Italy, Pescara, Civil Registration (State Archive), 1809-1929
+Italy, Pescara, Pescara, Civil Registration (Tribunale), 1865-1910
+Italy, Pisa, Pisa, Civil Registration (Tribunale), 1866-1935
+Italy, Pistoia, Pistoia, Civil Registration (Tribunale), 1866-1937
+Italy, Pola and Trieste, Catholic Church Records, 1593-1941
+Italy, Pordenone, Pordenone, Civil Registration (Tribunale), 1871-1911
+Italy, Potenza, Civil Registration (State Archive), 1697-1923
+Italy, Potenza, Lagonegro, Civil Registration (Tribunale), 1866-1910
+Italy, Potenza, Melfi, Civil Registration (Tribunale), 1861-1929
+Italy, Potenza, Potenza, Civil Registration (Tribunale), 1866-1910
+Italy, Prato, Civil Registration (State Archive), 1866-1923
+Italy, Ragusa, Civil Registration (State Archive), 1900-1940
+Italy, Ragusa, Modica, Civil Registration (Tribunale), 1866-1942
+Italy, Ravenna, Ravenna, Civil Registration (Tribunale), 1866-1929
+Italy, Reggio Calabria, Civil Registration (State Archive), 1784-1943
+Italy, Rieti, Civil Registration (State Archive), 1840-1945
+Italy, Roma, Civil Registration (State Archive), 1863-1930
+Italy, Rovigo, Rovigo, Civil Registration (Tribunale), 1871-1937
+Italy, Salerno, Padula, Civil Registration (Comune), 1809-1940
+Italy, Salerno, Vallo della Lucania, Civil Registration (Tribunale), 1866-1929
+Italy, Savona, Civil Registration (State Archive), 1806-1813, 1838-1936
+Italy, Siena, Montepulciano, Civil Registration (Tribunale), 1866-1929
+Italy, Siracusa, Siracusa, Civil Registration (Tribunale), 1900-1942
+Italy, Siracusa, Sortino, Parrocchia di San Giovanni Apostolo ed Evangelista, Catholic Church Records, 1562-1937
+Italy, Sondrio, Sondrio, Civil Registration (Tribunale), 1866-1929
+Italy, Taranto, Civil Registration (State Archive), 1809-1926
+Italy, Teramo, Teramo, Civil Registration (Tribunale), 1866-1940
+Italy, Torino, Civil Registration (State Archive), 1802-1813
+Italy, Torino, Ivrea, Civil Registration (Tribunale), 1865-1937
+Italy, Torino, Torino, Civil Registration (Comune), 1750-1865
+Italy, Torino, Torino, Civil Registration (Tribunale), 1866-1899
+Italy, Torino, Torino, Military Conscriptions (Comune), 1790-1886
+Italy, Toscana, Civil Registration (State Archive), 1804-1874
+Italy, Trapani, Civil Registration (State Archive), 1906-1928
+Italy, Trapani, Poggioreale, Civil Registration (Comune), 1836-1929
+Italy, Trento, Diocesi di Trento, Catholic Church Records, 1548-1937
+Italy, Treviso, Civil Registration (State Archive), 1806-1815
+Italy, Treviso, Treviso, Civil Registration (Tribunale), 1871-1941
+Italy, Trieste, Trieste, Civil Registration (Tribunale), 1924-1939
+Italy, Udine, Civil Registration (State Archive), 1806-1815, 1871-1911
+Italy, Venezia, Civil Registration (State Archive), 1806-1817
+Italy, Venezia, Venezia, Civil Registration (Tribunale), 1871-1930
+Italy, Vicenza, Casoni, Parocchia di San Rocco, Catholic Church Records, 1597-1941
+Italy, Viterbo, Civil Registration (State Archive), 1870-1943
+Italy, Waldensian Evangelical Church Records, 1679-1969
+Jamaica Births and Baptisms, 1752-1920
+Jamaica, Church of England Parish Register Transcripts, 1664-1880
+Jamaica, Civil Registration, 1880-1999
+Japan Census Records, 1661-1875
+Japan Genealogies, 850-2012
+Japan Passenger Lists, 1893-1941
+Japan Village Records, 709-1982
+Kansas Births and Christenings, 1818-1936
+Kansas County Birth Records, 1885-1911
+Kansas County Marriages, 1855-1911
+Kansas Deaths and Burials, 1885-1930
+Kansas Marriages, 1840-1935
+Kansas State Census, 1865
+Kansas State Census, 1875
+Kansas State Census, 1885
+Kansas State Census, 1895
+Kansas, Marriages, 1811-1911
+Kentucky Births and Christenings, 1839-1960
+Kentucky Civil War Service Records of Confederate Soldiers, 1861-1865
+Kentucky Civil War Service Records of Union Soldiers, 1861-1865
+Kentucky Confederate Pension Applications, 1912-1950
+Kentucky Death Records, 1911-1962
+Kentucky Deaths and Burials, 1843-1970
+Kentucky Marriages, 1785-1979
+Kentucky Probate Records, 1727-1990
+Kentucky, Church Marriages, 1824-1995
+Kentucky, County Marriages, 1797-1954
+Kentucky, Freedmen's Bureau Field Office Records, 1865-1872
+Kentucky, Vital Record Indexes, 1911-1999
+Korea Civil Service Examinations and Records of Officials and Employees, 1390-1900
+Korea Collection of Genealogies, 1200-2014
+Korea, Encyclopedias and Dictionaries, 1500-2000
+Korea, Local History, 655-1935
+Korea, School Records, 1958
+Korea, Social Life and Customs
+Lesotho, Evangelical Church Records, 1874-1983
+Liberia, Marriage Records, 1941-1974
+Liberia, Monrovia, Census, 1843
+Liechtenstein Births and Baptisms, 1650-1875
+Louisiana Births and Christenings, 1811-1830; 1854-1934
+Louisiana Civil War Service Records of Confederate Soldiers, 1861-1865
+Louisiana Civil War Service Records of Union Soldiers, 1861-1865
+Louisiana Confederate Pensions, 1898-1950
+Louisiana Deaths, 1850-1875, 1894-1960
+Louisiana First Registration Draft Cards, compiled 1940-1945
+Louisiana Marriages, 1816-1906
+Louisiana Naturalization Records, 1831-1906
+Louisiana State Penitentiary Records, 1866-1963
+Louisiana War of 1812 Pension Lists
+Louisiana World War I Service Records, 1917-1920
+Louisiana, Eastern District Naturalization Petitions, 1838-1861
+Louisiana, Freedmen's Bureau Field Office Records, 1865-1872
+Louisiana, New Orleans Passenger Lists, 1820-1945
+Louisiana, Orleans Court Records, 1822-1880
+Louisiana, Orleans Parish Estate Files, 1804-1846
+Louisiana, Orleans Parish Second District Judicial Court Case Files, 1846-1880
+Louisiana, Orleans Parish Vital Records, 1905-1913, 1955-1963
+Louisiana, Orleans Parish Will Books, 1805-1920
+Louisiana, Parish Marriages, 1837-1957
+Luxembourg Births and Baptisms, 1662-1840
+Luxembourg Census Records, 1843-1900
+Luxembourg Church Records, 1601-1948
+Luxembourg Deaths and Burials, 1702-1798
+Luxembourg Marriages, 1700-1810                                     
+Luxembourg Notarial Records, 1621-1821
+Luxembourg, Civil Registration, 1796-1941
+Maine & Massachusetts, Case Files of Deceased and Deserted Seamen, 1837-1965
+Maine Births and Christenings, 1739-1900
+Maine Death Index, 1960-1996
+Maine Deaths and Burials, 1841-1910
+Maine Marriages, 1771-1907
+Maine Revolutionary War Bounty Land Applications, 1835-1838
+Maine Vital Records, 1670-1921
+Maine, Androscoggin County, Probate Estate Files, 1854-1918
+Maine, Aroostook County Deed Books, 1865-1900
+Maine, Aroostook County, Probate Records, 1837-2007
+Maine, Bath, Seamen's Proofs of Citizenship, 1833-1868
+Maine, Civil War Enlistment Papers, 1862-1865
+Maine, County Naturalization Records, 1800-1990
+Maine, County Probate Records, 1760-1979
+Maine, Crew List Arriving at Eastport, 1949-1958
+Maine, Crew Lists Arriving at Robbinston, 1947-1954
+Maine, Faylene Hutton Cemetery Collection, ca. 1780-1990
+Maine, J. Gary Nichols Cemetery Collection, ca. 1780-1999
+Maine, Kennebec County Probate Estate Files, 1779-1915
+Maine, Knox County Cemetery Records, ca. 1800-2007
+Maine, Knox County, Probate Estate Files, 1861-1915
+Maine, Marriage Index, 1892-1966, 1977-1996
+Maine, Nathan Hale Cemetery Collection, ca. 1780-1980
+Maine, Oxford County, Probate Estate Files, 1805-1915
+Maine, Piscataquis County, Deed Books, 1838-1902
+Maine, Somerset County, Probate Estate Files, 1809-1915
+Maine, State Archive Collections, 1718-1957
+Maine, United States Naturalization Records, 1918-1991
+Maine, Veterans Cemetery Records, 1676-1918
+Maine, Washington County Courthouse Records, 1785-1950
+Maine, World War I Draft Registration Index, 1917-1919
+Maine, York County, Probate Estate Files, 1690-1917
+Manitoba Census Indexes, 1831-1870
+Manitoba Church Records, 1800-1959
+Manitoba Probate Records, 1871-1930
+Maryland Births and Christenings, 1650-1995
+Maryland County Marriages, 1658-1940
+Maryland Deaths and Burials, 1877-1992
+Maryland Marriages, 1666-1970
+Maryland Naturalization Indexes, 1797-1951
+Maryland Naturalization Petitions, 1906-1931
+Maryland Probate Estate and Guardianship Files, 1796-1940
+Maryland Register of Wills Records, 1629-1999
+Maryland and Delaware, Freedmen's Bureau Field Office Records, 1865-1872
+Maryland, Baltimore Passenger Lists Index, 1820-1897
+Maryland, Baltimore Passenger Lists, 1820-1948
+Maryland, Baltimore, Passenger and Crew Lists of Vessels and Airplanes, 1954-1957
+Maryland, Church Records, 1668-1995
+Maryland, Civil War Service Records of Confederate Soldiers, 1861-1865
+Maryland, Civil War Service Records of Union Soldiers, 1861-1865
+Maryland, Piney Point Crew Lists, 1950-1956
+Massachusetts Births and Christenings, 1639-1915
+Massachusetts Births, 1841-1915
+Massachusetts Death Index, 1970-2003
+Massachusetts Deaths and Burials, 1795-1910
+Massachusetts Deaths, 1841-1915
+Massachusetts Land Records, 1620-1986
+Massachusetts Marriages, 1695-1910
+Massachusetts Marriages, 1841-1915
+Massachusetts Naturalization Index, 1906-1966
+Massachusetts Revolutionary War Bounty Land Applications, 1805-1845
+Massachusetts State Census, 1855
+Massachusetts State Census, 1865
+Massachusetts State Vital Records, 1841-1920
+Massachusetts Town Records, ca. 1638-1961
+Massachusetts, Boston Crew Lists, 1917-1943
+Massachusetts, Boston Passenger Lists Index, 1899-1940
+Massachusetts, Boston Passenger Lists, 1820-1891
+Massachusetts, Boston Passenger Lists, 1891-1943
+Massachusetts, Boston Tax Records, 1822-1918
+Massachusetts, Boston, Crew Lists, 1811-1921
+Massachusetts, Delayed and Corrected Vital Records, 1753-1900
+Massachusetts, Federal Census Mortality Schedule, 1870
+Massachusetts, Federal Census Mortality Schedule, 1880
+Massachusetts, Index to Boston Passenger Lists, 1848-1891
+Massachusetts, Plymouth County, Probate Estate Files, 1686-1915
+Massachusetts, Plymouth County, Probate Records, 1633-1967
+Massachusetts, Revolutionary War, Index Cards to Muster Rolls, 1775-1783
+Massachusetts, Salem and Beverly Crew Lists and Shipping Articles, 1797-1934
+Massachusetts, Springfield Vital Records, 1638-1887
+Massachusetts, Town Clerk, Vital and Town Records, 1626-2001
+Massachusetts, Worcester County, Probate Files, 1731-1925
+Mexico Baptisms, 1560-1950
+Mexico Deaths, 1680-1940
+Mexico Marriages, 1570-1950
+Mexico National Census, 1930
+Mexico, Aguascalientes, Catholic Church Records, 1620-1962
+Mexico, Aguascalientes, Civil Registration, 1859-1961
+Mexico, Archdiocese of Guadalajara, Miscellaneous Marriage Records, 1539-1939
+Mexico, Baja California and Baja California Sur, Catholic Church Records, 1750-1984
+Mexico, Baja California and Baja California Sur, Civil Registration, 1860-2004
+Mexico, Campeche, Catholic Church Records, 1638-1944
+Mexico, Campeche, Civil Registration, 1860-1926
+Mexico, Chiapas, Catholic Church Records, 1557-1978
+Mexico, Chiapas, Civil Registration, 1861-1990
+Mexico, Chihuahua, Catholic Church Records, 1632-1958
+Mexico, Chihuahua, Civil Registration, 1861-1997
+Mexico, Coahuila, Catholic Church Records, 1627-1978
+Mexico, Coahuila, Civil Registration, 1861-1998
+Mexico, Colima, Catholic Church Records, 1707-1969
+Mexico, Colima, Civil Registration, 1860-1997
+Mexico, Distrito Federal, Catholic Church Records, 1514-1970
+Mexico, Distrito Federal, Civil Registration, 1832-2005
+Mexico, Durango, Catholic Church Records, 1604-1985
+Mexico, Durango, Civil Registration, 1861-1995
+Mexico, Guanajuato, Catholic Church Records, 1519-1984
+Mexico, Guanajuato, Civil Registration, 1862-1930
+Mexico, Guerrero, Catholic Church Records, 1576-1979
+Mexico, Guerrero, Civil Registration, 1860-1996
+Mexico, Hidalgo, Catholic Church Records, 1546-1971
+Mexico, Hidalgo, Civil Registration, 1861-1967
+Mexico, Jalisco, Catholic Church Records, 1590-1979
+Mexico, Jalisco, Civil Registration, 1857-2000
+Mexico, Michoacán, Catholic Church Records, 1555-1996
+Mexico, Michoacán, Civil Registration, 1859-1940
+Mexico, Morelos, Catholic Church Records, 1598-1994
+Mexico, Morelos, Civil Registration, 1861-1920
+Mexico, México, Catholic Church Records, 1567-1970
+Mexico, México, Civil Registration, 1861-1941
+Mexico, Nayarit, Catholic Church Records, 1596-1967
+Mexico, Nayarit, Civil Registration, 1868-2001
+Mexico, Nuevo León, Catholic Church Records, 1667-1981
+Mexico, Nuevo León, Civil Registration, 1859-1962
+Mexico, Oaxaca, Catholic Church Records, 1559-1988
+Mexico, Oaxaca, Civil Registration, 1861-2002
+Mexico, Puebla, Catholic Church Records, 1545-1977
+Mexico, Puebla, Civil Registration, 1861-1930
+Mexico, Querétaro, Catholic Church Records, 1590-1970
+Mexico, Querétaro, Civil Registration, 1864-2005
+Mexico, Quintana Roo, Civil Registration, 1866-1902
+Mexico, San Luis Potosí, Catholic Church Records, 1586-1977
+Mexico, San Luis Potosí, Civil Registration, 1859-2000
+Mexico, San Luis Potosí, Miscellaneous Records, 1570-1882
+Mexico, Sinaloa, Catholic Church Records, 1671-1968
+Mexico, Sonora, Catholic Church Records, 1657-1994
+Mexico, Sonora, Civil Registration, 1861-1995
+Mexico, Tabasco, Catholic Church Records, 1803-1970
+Mexico, Tamaulipas, Catholic Church Records, 1703-1964
+Mexico, Tamaulipas, Civil Registration, 1800-2002
+Mexico, Tlaxcala, Catholic Church Records, 1576-1994
+Mexico, Tlaxcala, Civil Registration, 1867-1950
+Mexico, Veracruz, Catholic Church Records, 1590-1978
+Mexico, Veracruz, Civil Registration, 1821-1949
+Mexico, Yucatán, Catholic Church Records, 1543-1977
+Mexico, Yucatán, Civil Registration, 1860-2005
+Mexico, Zacatecas, Catholic Church Records, 1605-1980
+Mexico, Zacatecas, Civil Registration, 1860-2000
+Michigan Births and Christenings, 1775-1995
+Michigan Births, 1867-1902
+Michigan Church Marriages, 1865-1931
+Michigan Civil Marriages, 1834-1974
+Michigan Death Certificates, 1921-1952
+Michigan Death Index, 1971-1996
+Michigan Deaths and Burials, 1800-1995
+Michigan Deaths, 1867-1897
+Michigan Marriages, 1822-1995
+Michigan Marriages, 1868-1925
+Michigan Obituaries, 1820-2006
+Michigan Probate Records, 1797-1973
+Michigan State Census, 1894
+Michigan, County Marriages Index, 1820-1937
+Michigan, County Marriages, 1820-1940
+Michigan, Crew Lists for various ports, 1929-1966
+Michigan, Detroit Manifests of Arrivals at the Port of Detroit, 1906-1954
+Michigan, Eastern District, Naturalization Index, 1907-1995
+Michigan, South Haven Crew Lists, 1957-1959
+Micronesia, Pohnpei, Civil Registration, 1948-2009
+Micronesia, Pohnpei, Court Records, 1951-2010
+Micronesia, Pohnpei, Land Records, 1971-2007
+Minnesota Birth Index, 1935-2002
+Minnesota Births and Christenings, 1840-1980
+Minnesota Death Index, 1908-2002
+Minnesota Death Records, 1866-1916
+Minnesota Deaths and Burials, 1835-1990
+Minnesota Divorce Index, 1970-1995
+Minnesota Marriage Index, 1958-2001
+Minnesota Marriages, 1849-1950         
+Minnesota Naturalization Card Index, 1930-1988
+Minnesota Passenger and Crew Lists, 1912-1956
+Minnesota State Census, 1865
+Minnesota State Census, 1875
+Minnesota State Census, 1885
+Minnesota State Census, 1895
+Minnesota State Census, 1905
+Minnesota Territorial Census, 1857
+Minnesota Will Records, 1849-1985
+Minnesota, Baudette, Warroad, and International Falls Passenger Lists, 1910-1923
+Minnesota, Clay County Land and Property Records, 1872-1947
+Minnesota, Clay County, School Census Records, 1909-1962
+Minnesota, Clay and Steele County Obituaries, 1865-2006
+Minnesota, County Birth Records, 1863-1983
+Minnesota, County Deaths, 1850-2001
+Minnesota, County Marriages, 1860-1949
+Minnesota, Duluth and Wisconsin, Superior Crew Lists, 1922-1958
+Minnesota, Grand Army of the Republic Membership Records, 1869-1940
+Minnesota, Itasca County Land Records, 1872-1930
+Minnesota, Obituaries 1865-2006
+Minnesota, Roseau County Land Records, 1892-1930
+Minnesota, Stevens County Genealogical Society Records, 1876-2006
+Mississippi Enumeration of Educable Children, 1850-1892; 1908-1957
+Mississippi Marriages, 1800-1911
+Mississippi Probate Records, 1781-1930
+Mississippi, Civil War Service Records of Confederate Soldiers, 1861-1865
+Mississippi, Civil War Service Records of Union Soldiers, 1861-1865
+Mississippi, Confederate Records, 1889-1942
+Mississippi, Confederate Veterans and Widows Pension Applications, 1900-1974
+Mississippi, Freedmen's Bureau Field Office Records, 1865-1872
+Mississippi, Freedmen's Department (Pre-Bureau Records), 1863-1866
+Mississippi, State Archives, Various Records, 1820-1951
+Mississippi, Tippah County Family Histories
+Mississippi, Tippah County Marriages, 1858-1979
+Mississippi, Tippah County Records, 1836-1923
+Missouri Births and Christenings, 1827-1935
+Missouri Deaths and Burials, 1867-1976
+Missouri Deaths, 1883-1930
+Missouri Marriages, 1750-1920
+Missouri Probate Records, 1750-1998
+Missouri State and Territorial Census Records, 1732-1933
+Missouri, Andrew and Cole County Probate Records, 1826-1945
+Missouri, Civil Marriages, 1820-1874
+Missouri, Civil War Service Records of Confederate Soldiers, 1861-1865
+Missouri, Civil War Service Records of Union Soldiers, 1861-1865
+Missouri, Cole County Circuit Court Case Files, 1820-1927
+Missouri, Confederate Pension Applications and Soldiers Home Applications, 1911-1938
+Missouri, County Marriage, Naturalization, and Court Records, 1800-1991
+Missouri, County Naturalization Records, 1883-1927
+Missouri, Freedmen's Bureau Field Office Records, 1865-1872
+Missouri, Jackson County Voter Registration Records, 1928-1956
+Missouri, Pre-WWII Adjutant General Enlistment Contracts, 1900-1941
+Missouri, Reports of Separation Notices, 1941-1946
+Moldova Church Books, 1811-1936
+Moldova Poll Tax Census (Revision Lists) and Census Lists 1796-1917
+Montana Death Index, 1860-2007
+Montana Manifests of Immigrant Arrivals and Departures, 1923-1956
+Montana Marriages, 1889-1947
+Montana Naturalization Records, 1868-1999
+Montana, Beaverhead County Records, 1862-2009
+Montana, Big Horn County Records, 1884-2011
+Montana, Cascade County Records, 1880-2009
+Montana, Chouteau County Records,1876-2011
+Montana, County Births and Deaths, 1840-2004
+Montana, County Marriages, 1865-1950
+Montana, County Naturalizations, 1856-1979
+Montana, Flathead County Records, 1871-1981
+Montana, Granite County Records, 1865-2009
+Montana, Judith Basin County Records, 1887-2012
+Montana, Lake County Records, 1857-2010
+Montana, Meagher County Records, 1866-2012
+Montana, Mineral County Obituaries, 1870-2010
+Montana, Pondera County Records, 1910-2012
+Montana, Rosebud County Records, 1878-2011
+Montana, Sanders County Records, 1866-2010
+Montana, Sweet Grass County Records, 1887-2011
+Montana, Teton County Records, 1881-2012
+Montana, Toole County Records, 1913-1960
+Montana, Yellowstone County Records, 1881-2011
+Mormon Migration Database, 1840-1932
+Namibia, Dutch Reformed Church Records, 1956-1984
+Nebraska Civil War Service Records of Union Soldiers, 1861-1865
+Nebraska Marriages, 1855-1995
+Nebraska State Census, 1885
+Nebraska, Box Butte County Marriages, 1887-2015
+Nebraska, Broken Bow Homestead Records, 1890-1908
+Netherlands Army Service Records, 1807-1929
+Netherlands Births and Baptisms, 1564-1910
+Netherlands Census and Population Registers, 1574-1940
+Netherlands Deaths and Burials, 1668-1945
+Netherlands Marriages, 1565-1892
+Netherlands Passenger Lists Holland-America Line, 1900-1974
+Netherlands, Archival Indexes, Miscellaneous Records
+Netherlands, Bibliothèque Wallonne, Card Indexes, ca. 1500-1858
+Netherlands, Drenthe Province, Church Records, 1580-1911
+Netherlands, Drenthe Province, Civil Registration, 1811-1942
+Netherlands, Friesland Province, Church Records, 1543-1911
+Netherlands, Friesland Province, Civil Registration, 1811-1950
+Netherlands, Gelderland Province Civil Registration, 1800-1952
+Netherlands, Gelderland Province, Church Records, 1405-1966
+Netherlands, Groningen Province, Church Records, 1595-1864
+Netherlands, Groningen Province, Civil Registration, 1811-1940
+Netherlands, Limburg Parish Register Transcripts, 1562-1822
+Netherlands, Limburg Province, Certificates of Nationality, 1860-1913
+Netherlands, Limburg Province, Church Records, 1542-1910
+Netherlands, Limburg Province, Civil Registration, 1792-1963
+Netherlands, Noord-Brabant Province Population Registers, 1820-1930
+Netherlands, Noord-Brabant Province, Civil Registration, 1811-1942
+Netherlands, Noord-Brabant, Church Records, 1473-1965
+Netherlands, Noord-Holland Province, Church Records, 1523-1948
+Netherlands, Noord-Holland, Civil Registration, 1811-1950
+Netherlands, Overijssel Province, Church Records, 1542-1893
+Netherlands, Overijssel Province, Civil Registration, 1811-1960
+Netherlands, Utrecht Province, Church Records, 1542-1955
+Netherlands, Utrecht Province, Civil Registration, 1811-1950
+Netherlands, Zeeland Province, Church Records, 1527-1907
+Netherlands, Zeeland Province, Civil Registration, 1796-1940
+Netherlands, Zuid-Holland Province, Church Records, 1076-1916
+Netherlands, Zuid-Holland Province, Civil Registration, 1679-1942
+Netherlands, Zuid-Holland, Leiden, Notarial Records, 1591-1806
+Nevada County Birth and Death Records, 1871-1992
+Nevada County Marriages, 1862-1993
+Nevada Marriage Index, 1956-2005
+Nevada, Civil War Service Records of Union Soldiers, 1861-1865
+New Brunswick Births and Baptisms, 1819-1899
+New Brunswick Census, 1861
+New Brunswick Death Certificates, 1920-1934
+New Brunswick Death Certificates, 1935-1938
+New Brunswick Late Registration of Births, 1810-1899
+New Brunswick Marriage Registers, 1789-1889
+New Brunswick Provincial Deaths, 1815-1938
+New Brunswick Provincial Marriages 1789-1950
+New Brunswick Provincial Returns of Marriages and Late Registrations, 1920-1950
+New Brunswick Provincial Returns of Marriages, 1887-1919
+New Brunswick, County Deed Registry Books, 1780-1930
+New Brunswick, County Registers of Births, ca. 1812-1919
+New Brunswick, Provincial Returns of Births and Late Registrations, 1810-1906
+New Brunswick, Provincial Returns of Deaths, 1815-1919
+New Brunswick, Saint John, Saint John, Burial Permits, 1889-1919
+New Hampshire Revolutionary War Records, 1675-1835
+New Hampshire Birth Certificates, 1901-1915
+New Hampshire Birth Records, Early to 1900
+New Hampshire Births and Christenings, 1714-1904
+New Hampshire Death Certificates, 1938-1959
+New Hampshire Death Records, 1654-1947
+New Hampshire Deaths and Burials, 1784-1949
+New Hampshire Marriage Certificates, 1948-1959
+New Hampshire Marriage Records, 1637-1947
+New Hampshire Marriages, 1720-1920
+New Hampshire Naturalization and Probate Records, 1643-1948
+New Hampshire, Cheshire County, Probate Estate Files, 1886-1900
+New Hampshire, Civil War Service and Pension Records, 1861-1866
+New Hampshire, County Naturalization Records, 1771-2001
+New Hampshire, County Probate Estate Files, 1769-1936
+New Hampshire, County Probate Records, 1660-1973
+New Hampshire, Hillsborough County, Manchester, Cemetery Records, 1800-2007
+New Hampshire, Town Clerk, Vital and Town Records, 1636-1947
+New Hampshire, United States Naturalization Records, 1906-1993
+New Hampshire, Vital and Town Records Index, 1656-1938
+New Jersey Births and Christenings, 1660-1980
+New Jersey Deaths and Burials, 1720-1988
+New Jersey Marriages, 1678-1985
+New Jersey Probate Records, 1678-1980
+New Jersey State Census, 1855
+New Jersey State Census, 1865
+New Jersey State Census, 1885
+New Jersey State Census, 1895
+New Jersey State Census, 1905
+New Jersey State Census, 1915
+New Jersey, Births, 1670-1980
+New Jersey, Calvary United Methodist Church Records, 1821-2003
+New Jersey, Church Records, 1675-1970
+New Jersey, County Marriages, 1682-1956
+New Jersey, County Naturalization Records, 1749-1986
+New Jersey, Deaths, 1670-1988
+New Jersey, Marriages, 1670-1980
+New Jersey, Middlesex County Probate Records, 1830-1921
+New Mexico Births and Christenings, 1726-1918
+New Mexico Civil War Service Records of Union Soldiers, 1861-1865
+New Mexico Deaths and Burials, 1788-1798; 1838-1955
+New Mexico Deaths, 1889-1945
+New Mexico Marriages, 1751-1918
+New Mexico Naturalization Records, 1882-1983
+New Mexico Territorial Census, 1885
+New Mexico, County Death Records, 1907-1952
+New Mexico, County Marriages, 1885-1954
+New York Births and Christenings, 1640-1962
+New York Book Indexes to Passenger Lists, 1906-1942
+New York Deaths and Burials, 1795-1952
+New York Land Records, 1630-1975
+New York Marriages, 1686-1980
+New York Naturalization Index (Soundex), 1792-1906
+New York Passenger Arrival Lists (Ellis Island), 1891-1924
+New York Passenger Arrival Lists (Ellis Island), 1892-1924
+New York Passenger Lists, 1820-1891
+New York Probate Records, 1629-1971
+New York Records of the State National Guard, 1906-1954
+New York State Census, 1855
+New York State Census, 1865
+New York State Census, 1875
+New York State Census, 1892
+New York State Census, 1905
+New York State Census, 1915
+New York State Census, 1925
+New York State Health Department, Genealogical Research Death Index, 1957-1963
+New York, Bronx Probate Estate Files, 1914-1931
+New York, Buffalo, St. Paul's Episcopal Church Records, 1812-1970
+New York, Church and Civil Marriages, 1704-1995
+New York, Civil War Service Records of Union Soldiers, 1861-1865
+New York, County Marriages, 1847-1848; 1908-1936
+New York, County Naturalization Records, 1791-1980
+New York, Eastern District Naturalization Petitions, Index, 1865-1957
+New York, Frank S. Rowland Church Register, 1889-1917
+New York, Kings County Estate Files, 1866-1923
+New York, New York City Births, 1846-1909
+New York, New York City Marriage Licenses Index, 1950-1995
+New York, New York City Marriage Records, 1829-1940
+New York, New York City Municipal Deaths, 1795-1949
+New York, New York City, Church of the Transfiguration Records, 1847-1938
+New York, New York City, Police Census, 1890
+New York, New York City, Saint Peter's Lutheran Church Records, 1862-1955
+New York, New York Passenger and Crew Lists, 1909, 1925-1957
+New York, New York, Index to Alien Crewmen Who Were Discharged or Who Deserted, 1917-1957
+New York, New York, Index to Passenger Lists, 1820-1846
+New York, New York, Index to Vessels, 1897-1956
+New York, New York, Soundex to Passenger and Crew Lists, 1887-1921
+New York, Northern Arrival Manifests, 1902-1956
+New York, Ogdensburg Passenger and Crew Lists, 1948-1972
+New York, Orange County Probate Records, 1787-1938
+New York, Queens County Probate Records, 1785-1950
+New York, Rouses Point and Waddington Crew Lists, 1954-1956
+New York, Southern District Index to Petitions for Naturalization, 1824-1941
+New York, Southern District Naturalization Index, 1917-1950
+New York, Southern District, U.S District Court Naturalization Records, 1824-1946
+New York, Western District, Naturalization Index, 1907-1966
+New York, Yates County, Swann Vital Records Collection, 1723-2009
+New Zealand, Archives New Zealand, Passenger Lists, 1839-1973
+New Zealand, Archives New Zealand, Probate Records, 1843-1998
+New Zealand, Auckland, Albertland Index, 1862-1962
+New Zealand, Auckland, Port Albert, Membership Lists and Minutes from the Church of Christ, 1875-1926
+New Zealand, Auckland, Waikumete Cemetery Records, 1886-1948
+New Zealand, Central Otago, Cemetery Gravestones, 1861-2009
+New Zealand, Civil Records Indexes, 1800-1896
+New Zealand, Obituaries, 1844-1963
+Newfoundland Census, 1921
+Newfoundland Census, 1935
+Newfoundland Census, 1945
+Newfoundland Church Records, 1793-1945
+Newfoundland Vital Records, 1840-1949
+Newfoundland Vital Statistics, 1753-1893
+Nicaragua Civil Registration, 1809-2013
+Nicaragua, Diocese of Managua, Catholic Church Records, 1740-1960
+North Carolina Birth Index, 1800-2000
+North Carolina Births and Christenings, 1866-1964
+North Carolina Deaths and Burials, 1898-1994
+North Carolina Deaths, 1906-1930
+North Carolina Deaths, 1931-1994
+North Carolina Estate Files, 1663-1979
+North Carolina Marriages, 1759-1979
+North Carolina Probate Records, 1735-1970
+North Carolina Revolutionary Pay Vouchers, 1779-1782
+North Carolina, Civil Action Court Papers, 1712-1970
+North Carolina, Civil Marriages, 1763-1868
+North Carolina, Civil War Service Records of Confederate Soldiers, 1861-1865
+North Carolina, Civil War Service Records of Union Soldiers, 1861-1865
+North Carolina, Confederate Soldiers and Widows Pension Applications, 1885-1953
+North Carolina, County Marriages, 1762-1979
+North Carolina, County Records, 1833-1970
+North Carolina, Davidson County Vital Records, 1867-1984
+North Carolina, Discharge and Statement of Service Records, 1940-1948
+North Carolina, Freedmen's Bureau Assistant Commissioner Records, 1862-1870
+North Carolina, Freedmen's Bureau Field Office Records, 1863-1872
+North Carolina, State Supreme Court Case Files, 1800-1909
+North Carolina, Wilmington and Morehead City Passenger and Crew Lists, 1908-1958
+North Carolina, World War I Service Cards, 1917-1919
+North Dakota Census, 1915
+North Dakota Census, 1925
+North Dakota Manifests of Immigrant Arrivals, 1910-1952
+North Dakota, County Marriages, 1882-1925
+Norway Baptisms, 1634-1927
+Norway Burials, 1666-1927
+Norway Census, 1875
+Norway Marriages, 1660-1926
+Norway, Probate Index Cards, 1640-1903
+Nova Scotia Births and Baptisms, 1702-1896
+Nova Scotia Births, 1864-1877
+Nova Scotia Census, 1861
+Nova Scotia Church Records, 1720-2001
+Nova Scotia Deaths, 1864-1877
+Nova Scotia Deaths, 1890-1955
+Nova Scotia Deaths, 1956-1957
+Nova Scotia Delayed Births, 1837-1904
+Nova Scotia Marriages, 1711-1909
+Nova Scotia Marriages, 1864-1918
+Nova Scotia Marriages, 1907-1932
+Nova Scotia Probate Records, 1760-1993
+Nova Scotia Vital Records, 1763-1957
+Nova Scotia, Antigonish Catholic Diocese, 1823-1905
+Nova Scotia, Halifax County, Deed Indexes, 1749-1958
+Nova Scotia, Queens County, Notes of Thomas Brenton Smith, 1700-1950
+ObitsUtah Obituary Index
+Ohio Births and Christenings, 1821-1962
+Ohio Death Index, 1908-1932, 1938-1944, and 1958-2007
+Ohio Deaths and Burials, 1854-1997
+Ohio Deaths, 1908-1953
+Ohio Marriages, 1800-1958
+Ohio Probate Records, 1789-1996
+Ohio Soldier Home Records, 1888-1919
+Ohio Tax Records, 1800-1850
+Ohio, Bloomfield Township, Brownwood Cemetery Records, 1824-2012
+Ohio, Cleveland Cemetery Interment Records, 1824-2001
+Ohio, Cleveland, Trinity Lutheran Church Records, 1853-2013
+Ohio, County Births, 1841-2003
+Ohio, County Death Records, 1840-2001
+Ohio, County Marriages, 1789-2013
+Ohio, County Naturalization Records, 1800-1977
+Ohio, Crawford County Church Records, 1853-2007
+Ohio, Crawford County Obituaries, 1860-2004
+Ohio, Cuyahoga County Probate Files, 1813-1932
+Ohio, Cuyahoga County Records, 1880-1950
+Ohio, Diocese of Toledo, Catholic Parish Records, 1796-2004
+Ohio, Geauga County Records, 1860-1970
+Ohio, Grace Episcopal Church Records, 1880-1980
+Ohio, Hamilton County Records, 1791-1994
+Ohio, Jefferson County Court Records, 1797-1947
+Ohio, Licking County, Hartford Township Records, 1881-1962
+Ohio, Marriages, 1800-1942
+Ohio, Montgomery County, Probate Estate Files, 1850-1900
+Ohio, Northern District, Eastern Division, Naturalization Index, 1855-1967
+Ohio, Passenger and Crew Lists arriving at Ashtabula and Conneaut, 1952-1974
+Ohio, Scioto County Records, 1885-1887
+Ohio, Southern District Naturalization Index, 1852-1991
+Ohio, Stark County Coroner's Records, 1890-2002
+Ohio, Stark County Court Records, 1809-1917
+Ohio, Stark County Probate Records, 1886-1921
+Ohio, Summit County, Coroner Inquests, Hospital and Cemetery Records, 1882-1949
+Ohio, Summit County, Veteran Burial Cards, 1700-1941
+Ohio, Trumbull County Records, 1795-2010
+Ohio, Washington County Court Records, 1810-1930
+Oklahoma Applications for Allotment, Five Civilized Tribes, 1899-1907
+Oklahoma Applications for Enrollment to the Five Civilized Tribes, 1898-1914
+Oklahoma Marriages, 1870-1930
+Oklahoma Probate Records, 1887-2008
+Oklahoma, Church Marriages, 1852-1948
+Oklahoma, County Marriages, 1890-1995
+Oklahoma, School Records, 1895-1936
+Ontario Births and Baptisms, 1779-1899
+Ontario Births, 1869-1912
+Ontario Census, 1861
+Ontario Deaths, 1869-1937 and Overseas Deaths, 1939-1947
+Ontario Marriages, 1800-1910
+Ontario Marriages, 1869-1927
+Ontario, County Marriage Registers, 1858-1869
+Ontario, District Marriage Registers, 1801-1858
+Ontario, Roman Catholic Church Records, 1760-1923
+Ontario, Toronto Trust Cemeteries, 1826-1989
+Oregon Births and Christenings, 1868-1929
+Oregon Births, 1860-1952
+Oregon Death Index, 1903-1998
+Oregon Deaths and Burials, 1903-1947
+Oregon Deaths, 1877-1952
+Oregon Marriage Records, 1849-1952
+Oregon Marriages, 1853-1935
+Oregon, Baker County Records, 1862-1950
+Oregon, Benton County Records, 1856-1984
+Oregon, Civil War Service Records of Union Soldiers, 1861-1865
+Oregon, Columbia County Records, 1854-1958
+Oregon, County Marriages, 1851-1975
+Oregon, Deschutes County Records, 1871-1985
+Oregon, Douglas County Records, 1850-1983
+Oregon, Grand Army of the Republic Membership Records, 1870-1930
+Oregon, Grant County Records, 1851-1992
+Oregon, Harney County Records, 1870-1991
+Oregon, Marion County Records, 1849-1976
+Oregon, Polk County Records, 1857-1972
+Oregon, Portland, Index and Register of Vessels, 1949-1955
+Oregon, Tillamook County Records, 1854-1967
+Oregon, Wasco County Records, 1854-1960
+Oregon, Yamhill County Records, 1857-1963
+Panama Baptisms, 1750-1938
+Panama Deaths, 1840-1930
+Panama Marriages, 1800-1950
+Panama, Catholic Church Records, 1707-1973
+Paraguay Baptisms, 1800-1930
+Paraguay Marriages, 1800-1900
+Paraguay Miscellaneous Records, 1509-1977
+Paraguay, Asunción, Cemetery Records, 1842-2011
+Paraguay, Catholic Church Records, 1754-2015
+Pennsylvania Births and Christenings, 1709-1950
+Pennsylvania Civil Marriages, 1677-1950
+Pennsylvania Landing Reports of Aliens, 1798-1828
+Pennsylvania Marriages, 1709-1940
+Pennsylvania Obituaries, 1977-2010
+Pennsylvania Obituary and Marriage Collection, 1947-2010
+Pennsylvania Probate Records, 1683-1994
+Pennsylvania, Church Marriages, 1682-1976
+Pennsylvania, County Marriages, 1885-1950
+Pennsylvania, Crew Lists arriving at Erie, 1952-1957
+Pennsylvania, Eastern District Naturalization Indexes, 1795-1952
+Pennsylvania, Eastern District Petitions for Naturalization, 1795-1931
+Pennsylvania, Grand Army of the Republic Membership Records, 1865-1936
+Pennsylvania, Historical Society of Pennsylvania Card Catalog, 1553-2015
+Pennsylvania, Philadelphia Case Files of Chinese Immigrants, 1900-1923
+Pennsylvania, Philadelphia City Births, 1860-1906
+Pennsylvania, Philadelphia City Death Certificates, 1803-1915
+Pennsylvania, Philadelphia Marriage Indexes, 1885-1951
+Pennsylvania, Philadelphia Passenger List Index Cards, 1883-1948
+Pennsylvania, Philadelphia Passenger Lists Index, 1800-1906
+Pennsylvania, Philadelphia Passenger Lists, 1800-1882
+Pennsylvania, Philadelphia Passenger Lists, 1883-1945
+Pennsylvania, Philadelphia, Seamen's Proofs of Citizenship, 1791-1861
+Pennsylvania, Pittsburgh City Deaths, 1870-1905
+Peru Baptisms, 1556-1930
+Peru Deaths, 1750-1930
+Peru Marriages, 1600-1940
+Peru, Amazonas, Civil Registration, 1939-1998
+Peru, Arequipa, Civil Registration, 1860-1976
+Peru, Cajamarca, Civil Registration, 1938-1996
+Peru, Callao, Civil Registration, 1874-1996
+Peru, Catholic Church Records, 1603-1992
+Peru, Cusco, Civil Registration, 1889-1997
+Peru, Diocese of Huacho, Catholic Church Records, 1560-1952
+Peru, Huánuco, Civil Registration, 1889-1997
+Peru, Junín, Civil Registration, 1881-2005
+Peru, La Libertad, Civil Registration, 1903-1998
+Peru, Lambayeque, Civil Registration, 1873-1998
+Peru, Lima, Civil Registration, 1874-1996
+Peru, Moquegua, Civil Registration, 1850-1996
+Peru, Municipal Census, 1831-1866
+Peru, Puno, Civil Registration, 1890-2005
+Peru, San Martín, Civil Registration, 1850-1999
+Peru, Tacna, Civil Registration, 1850-1998
+Peru, Áncash, Civil Registration, 1888-2005
+Philippines Births and Baptisms, 1642-1994
+Philippines Civil Registration (Archives Division), 1902-1945
+Philippines Civil Registration (Local), 1888-1986
+Philippines Civil Registration (National), 1945-1984
+Philippines Civil Registration (Spanish Period), 1706-1911
+Philippines Court Records, 1838-1936
+Philippines Deaths and Burials, 1726-1957
+Philippines Marriages, 1723-1957
+Philippines, Biliran, Diocese of Naval Parish Registers, 1818-1978
+Philippines, Camarines Sur, Roman Catholic Archdiocese of Caceres, Parish Registers, 1716-1977
+Philippines, Eastern Samar, Roman Catholic Diocese of Borongan, Parish Registers, 1842-1984
+Philippines, La Union, Diocese of San Fernando de La Union, 1801-1984
+Philippines, Lingayen-Dagupan Catholic Archdiocese Parish Registers, 1615-1982
+Philippines, Manila, Civil Registration, 1899-1984
+Philippines, Negros Occidental, Roman Catholic Diocese of Bacolod, Parish Registers, 1755-1976
+Philippines, Northern Samar, Roman Catholic Diocese of Catarman, Church Records, 1860-1983
+Philippines, Pangasinan, Civil Registration, 1945-1981
+Poland, Czestochowa Roman Catholic Church Books, 1226-1950
+Poland, Evangelical Church Books, 1700-2005
+Poland, Gliwice Roman Catholic Church Books, 1599-1976
+Poland, Lublin Roman Catholic Church Books, 1784-1964
+Poland, Radom Roman Catholic Church Books, 1587-1966
+Poland, Tarnow Roman Catholic Diocese Church Books, 1612-1900
+Portugal Baptisms, 1570-1910
+Portugal Deaths, 1640-1910
+Portugal Marriages, 1670-1910
+Portugal Passport Registers and Application Files, 1800-1946
+Portugal, Aveiro, Catholic Church Records, 1550-1911
+Portugal, Aveiro, Passport Registers, 1882-1965
+Portugal, Aveiro, Testaments, 1900-1936
+Portugal, Beja, Catholic Church Records, 1550-1913
+Portugal, Beja, Civil Registration and Miscellaneous Records, 1609-1950
+Portugal, Braga, Catholic Church Records, 1530-1911
+Portugal, Braga, Priest Application Files (Genere et Moribus), 1596-1911
+Portugal, Bragança, Catholic Church Records, 1541-1985
+Portugal, Castelo Branco, Catholic Church Records, 1714-1911
+Portugal, Coimbra, Catholic Church Records, 1459-1911
+Portugal, Coimbra, Civil Registration, 1893-1980
+Portugal, Coimbra, Passport Registers and Application Files, 1835-1938
+Portugal, Coimbra, Testaments, 1801-1935
+Portugal, Faro, Catholic Church Records, 1587-1880
+Portugal, Guarda, Catholic Church Records, 1459-1911
+Portugal, Lamego, Diocesan Records, 1529-1963
+Portugal, Leiria, Catholic Church Records, 1534-1911
+Portugal, Leiria, Passport Registers, 1861-1901
+Portugal, Portalegre, Catholic Church Records, 1859-1911
+Portugal, Portalegre, Civil Registration and Miscellaneous Records, 1816-1935
+Portugal, Porto, Catholic Church Records, 1535-1949
+Portugal, Santarém, Catholic Church Records, 1544-1911
+Portugal, Setúbal, Catholic Church Records, 1555-1911
+Portugal, Setúbal, Civil Registration and Miscellaneous Records, 1649-1936
+Portugal, Viana do Castelo, Catholic Church Records, 1537-1911
+Portugal, Viana do Castelo, Miscellaneous Records, 1636-1962
+Portugal, Vila Real, Catholic Church Records, 1533-1941
+Portugal, Vila Real, Diocesan Records, 1575-1992
+Portugal, Viseu, Catholic Church Records, 1523-1989
+Portugal, Évora, Catholic Church Records, 1533-1912
+Portugal, Évora, Civil Registration and Miscellaneous Records, 1554-1938
+Prince Edward Island Baptism Card Index, 1721-1885
+Prince Edward Island Census, 1861
+Prince Edward Island Church Records, 1777-1985
+Prince Edward Island Death Card Index, 1721-1905
+Prince Edward Island Marriage Registers, 1832-1888
+Puerto Rico Records of Foreign Residents, 1815-1845
+Puerto Rico, Catholic Church Records, 1645-1969
+Puerto Rico, Civil Registration, 1805-2001
+Quebec Births and Baptisms, 1662-1898
+Quebec Census, 1861
+Quebec Index to Civil Copy of Church Records, 1642-1902
+Quebec Notarial Records, 1800-1920
+Quebec, Catholic Parish Registers, 1621-1979
+Quebec, Non-Catholic Parish Registers, 1763-1967
+Quebec, Quebec Federation of Genealogical Societies, Family Origins, 1621-1865
+Quebec, Quebec Judicial District, Guardianships, 1639-1930
+Rhode Island Births and Christenings, 1600-1914
+Rhode Island Deaths and Burials, 1802-1950
+Rhode Island Marriages, 1724-1916
+Rhode Island Naturalization Records 1907-1991
+Rhode Island State Census, 1885
+Rhode Island State Census, 1905
+Rhode Island State Census, 1915
+Rhode Island State Census, 1925
+Rhode Island State Census, 1935
+Rhode Island Town Marriages Index, 1639-1916
+Rhode Island, Davisville, Melville, Newport, and Quonset Point, Airplane Passenger and Crew Lists, 1955-1957
+Rhode Island, District Court Naturalization Indexes, 1906-1991
+Rhode Island, Town Clerk, Vital and Town Records, 1630-1945
+Rhode Island, Vital records, 1846-1898, 1901-1953
+Russia Births and Baptisms, 1755-1917
+Russia Deaths and Burials, 1815-1917
+Russia Marriages, 1793-1919
+Russia, Lutheran Church Book Duplicates, 1833-1885
+Russia, Nizhni Novgorod Poll Tax Census (Revision Lists), 1782-1858
+Russia, Samara Church Books, 1779-1923
+Russia, Samara Civil Registers, 1918-1922
+Russia, Simbirsk Poll Tax Census (Revision Lists), 1782-1858
+Russia, Simbirsk, Church Books, 1768-1939
+Russia, Tatarstan Church Books, 1721-1939
+Russia, Tatarstan Confession Lists, 1775-1932
+Russia, Tatarstan Poll Tax Census (Revision Lists), 1719-1859
+Russia, Tula Poll Tax Census (Revision Lists), 1758-1895
+Russia, Tver Church Books, 1722-1918
+Russia, Tver Confession Lists, 1728-1913
+Russia, Tver Poll Tax Census (Revision lists), 1744-1874
+Samoa Baptisms, 1863-1940
+Samoa Burials, 1895-1970
+Saskatchewan Cemetery Transcripts, ca. 1850-1994
+Saskatchewan Probate Estate Files, 1887-1931
+Saskatchewan Provincial Records, 1879-1987
+Saskatchewan, Catholic Church Records, 1846-1957
+Saskatchewan, Judicial District Court Records, 1891-1954
+Scotland Births and Baptisms, 1564-1950
+Scotland Census, 1841
+Scotland Census, 1851
+Scotland Census, 1861
+Scotland Census, 1871
+Scotland Census, 1881
+Scotland Census, 1891
+Scotland Church Records and Kirk Session Records, 1658-1919
+Scotland Marriages, 1561-1910
+Slovakia Census, 1869
+Slovakia Church and Synagogue Books, 1592-1910
+Slovenia, Ljubljana, Funeral Accounts, 1937-1970
+Slovenia, Prekmurje and Medimurje, Civil Registers, 1895-1918
+South Africa, Cape Province, Civil Deaths, 1895-1972
+South Africa, Cape Province, Kimberley, Probate Records of the Supreme Court, 1871-1937
+South Africa, Cape Province, Western Cape Archives Records, 1792-1992
+South Africa, Church of the Province of South Africa, Parish Registers, 1801-2004
+South Africa, Dutch Reformed Church Records (Stellenbosch Archive), 1690-2011
+South Africa, Dutch Reformed Church Registers (Cape Town Archives), 1660-1970
+South Africa, Eastern Cape, Estate Files, 1962-2004
+South Africa, Free State Dutch Reformed Church Records, 1848-1956
+South Africa, Methodist Parish Registers, 1822-1996
+South Africa, Natal Province, Civil Marriages, 1845-1955
+South Africa, Netherdutch Reformed Church Registers (Pretoria Archive), 1838-1991
+South Africa, Orange Free State, Estate Files, 1951-2006
+South Africa, Reformed Church Records, 1856-1988
+South Africa, Transvaal, Estate Files, 1950-1993
+South Africa, Transvaal, Probate Records from the Master of the Supreme Court, 1869-1958
+South Africa, Western Cape, Estate Files, 1974
+South Carolina Births and Christenings, 1681-1935
+South Carolina Civil War Service Records of Confederate Soldiers, 1861-1865
+South Carolina Deaths, 1915-1965
+South Carolina Marriages, 1709-1913
+South Carolina Probate Records, Bound Volumes, 1671-1977
+South Carolina Probate Records, Files and Loose Papers, 1732-1964
+South Carolina, Charleston U.S. Citizens Passenger Lists, 1919-1948
+South Carolina, Confederate Home Records, 1909-1958
+South Carolina, Darlington County Records, 1798-1928
+South Carolina, Delayed Birth Certificates, 1766-1900
+South Carolina, Freedmen's Bureau Field Office Records, 1865-1872
+South Carolina, Georgetown, Passenger Lists, 1904-1942
+South Dakota State Census, 1905
+South Dakota State Census, 1915
+South Dakota State Census, 1925
+South Dakota State Census, 1935
+South Dakota State Census, 1945
+South Dakota, County Naturalization Records, 1865-1972
+South Dakota, Department of Health, Index to Births 1843-1914 and Marriages 1950-2016
+South Dakota, Grand Army of the Republic Membership Records, 1861-1941
+South Dakota, Minnehaha County, Probate Case Records, 1873-1935
+South Dakota, Pennington County Probate Case Files, 1880-1937
+South Dakota, School Records, 1879-1970
+Spain Baptisms, 1502-1940
+Spain Deaths, 1600-1920
+Spain Marriages, 1565-1950
+Spain Records of Widows and Orphans of Spanish Officers, 1826-1960
+Spain, Cantabria, Passports, 1785-1863
+Spain, Catastro de Ensenada, 1749-1756
+Spain, Catholic Church Records, 1307-1985
+Spain, Consular Records of Emigrants, 1808-1960
+Spain, Cádiz, Testaments, 1531-1920
+Spain, Diocese of Albacete, Catholic Church Records, 1504-1979
+Spain, Diocese of Cartagena, Catholic Church Records, 1503-1969
+Spain, Diocese of Lugo, Catholic Parish Records, 1550-1966
+Spain, Diocese of Santander, Catholic Church Records, 1538-1985
+Spain, Diocese of Segovia, Catholic Church Records, 1533-1987
+Spain, Diocese of Ávila, Catholic Church Records, 1502-1975
+Spain, Province of Alicante, Municipal Records, 1762-1921
+Spain, Province of Almería, Municipal Records, 1587-1900
+Spain, Province of Asturias, Municipal Records, 1470-1897
+Spain, Province of Badajoz, Municipal Records, 1519-1641
+Spain, Province of Barcelona, Municipal Records, 1387-1986
+Spain, Province of Castellón, Municipal Records, 1732-1952
+Spain, Province of Ciudad Real, Municipal Records, 1519-1527
+Spain, Province of Cádiz, Civil Registration, 1870-1960
+Spain, Province of Cádiz, Municipal Records, 1784-1956
+Spain, Province of Cádiz, Passports, 1810-1866
+Spain, Province of Córdoba, Municipal Records, 1509-1947
+Spain, Province of Gerona, Municipal Records, 1566-1956
+Spain, Province of Granada, Catholic Pre-Marriage Investigation Files, 1556-1899
+Spain, Province of Granada, Miscellaneous Records, 1592-1900
+Spain, Province of Granada, Municipal Records, 1607-1955
+Spain, Province of Huelva, Municipal Records, 1760-1950
+Spain, Province of Jaén, Municipal Records, 1519-1941
+Spain, Province of La Coruña, Municipal Records, 1648-1941
+Spain, Province of León, Municipal Records, 1642-1897
+Spain, Province of Lugo, Municipal Records, 1703-1950
+Spain, Province of Lérida, Municipal Records, 1319-1959
+Spain, Province of Murcia, Municipal Records, 1500-1924
+Spain, Province of Málaga, Municipal Records, 1760-1956
+Spain, Province of Segovia, Municipal Records, 1718-1920
+Spain, Province of Sevilla, Municipal Records, 1293-1966
+Spain, Province of Tarragona, Municipal Records, 1430-1943
+Spain, Province of Teruel, Catholic Church Records, 1565-2013
+Spain, Province of Valencia, Miscellaneous Records, 1251-1950
+Spain, Province of Valencia, Municipal Records, 1611-1935
+Spain, Soldier Personal Service Files, 1835-1940
+Sri Lanka, Colombo District, Dutch Reformed Church Records, 1677-1990
+Sweden Baptisms, 1611-1920
+Sweden Burials, 1649-1920
+Sweden Marriages, 1630-1920
+Sweden, Blekinge Church Records, 1612-1916; index 1646-1860
+Sweden, Gotland Church Records, 1582-1940; index 1655-1860
+Sweden, Gävleborg Church Records, 1616-1908; index 1671-1860
+Sweden, Göteborg och Bohus Church Records, 1577-1932; index 1659-1860
+Sweden, Halland Church Records, 1615-1904; index 1615-1860
+Sweden, Household Examination Books, 1880 - 1920
+Sweden, Jämtland Church Records, 1582-1928; index 1642-1860
+Sweden, Jönköping Church Records, 1581-1935; index 1633-1860
+Sweden, Kalmar Church Records, 1577-1907; index 1625-1860
+Sweden, Kopparberg Church Records, 1604-1900; index 1628-1860
+Sweden, Kristianstad Church Records, 1585-1910; index 1646-1860
+Sweden, Kronoberg Church Records, 1589-1921; index 1612-1860
+Sweden, Malmöhus Church Records, 1541-1918; index 1646-1860
+Sweden, Norrbotten Church Records, 1612-1923; index 1658-1860
+Sweden, Skaraborg Church Records, 1612-1921; index 1625-1860
+Sweden, Stockholm Church Records, 1556-1939, index 1634-1860
+Sweden, Stockholm City Archives, Index to Church Records, 1546-1927
+Sweden, Södermanland Church Records, 1604-1900; index 1640-1860
+Sweden, Uppsala Church Records, 1308-1901; index 1613-1860
+Sweden, Värmland Church Records, 1509-1925; index 1640-1860
+Sweden, Västerbotten Church Records, 1619-1896; index, 1688-1860
+Sweden, Västernorrland Church Records, 1501-1940; index 1650-1860
+Sweden, Västmanland Church Records, 1538-1901; index 1622-1860
+Sweden, Älvsborg Church Records, 1642-1897; index 1681-1860
+Sweden, Örebro Church Records, 1613-1918; index 1635-1860
+Sweden, Östergötland Church Records, 1555-1911; index 1616-1860
+Switzerland Baptisms, 1491-1940
+Switzerland Burials, 1613-1875
+Switzerland Marriages, 1532-1910 
+Switzerland, Basel City, Local Citizenship Requests, 1348-1798
+Switzerland, Bern, Civil Registration, 1792-1876
+Switzerland, Church Book Extracts, 1550-1875
+Switzerland, Church Records, 1277-1992
+Switzerland, Fribourg, Census, 1811
+Switzerland, Fribourg, Census, 1818
+Switzerland, Fribourg, Census, 1831
+Switzerland, Fribourg, Census, 1834
+Switzerland, Fribourg, Census, 1836
+Switzerland, Fribourg, Census, 1839
+Switzerland, Fribourg, Census, 1842
+Switzerland, Fribourg, Census, 1845
+Switzerland, Fribourg, Census, 1850
+Switzerland, Fribourg, Census, 1860
+Switzerland, Fribourg, Census, 1870
+Switzerland, Fribourg, Census, 1880
+Switzerland, Schaffhausen, Directories, Emigration, and Genealogies, 1460-1952
+Switzerland, Vaud Terrier Records, 1234-1798
+Tennessee Births and Christenings, 1828-1939
+Tennessee Church Marriages, 1810-1965
+Tennessee Civil Marriages, 1838-1888
+Tennessee Death Records, 1914-1963
+Tennessee Deaths and Burials, 1874-1955
+Tennessee Marriages, 1796-1950
+Tennessee Probate Court Books, 1795-1927
+Tennessee Probate Court Files, 1795-1955
+Tennessee State Marriage Index, 1780-2002
+Tennessee, Birth Records (ER Series), 1908-1912
+Tennessee, Civil War Service Records of Confederate Soldiers, 1861-1865
+Tennessee, Civil War Service Records of Union Soldiers, 1861-1865
+Tennessee, Cocke County Records, 1860-1930
+Tennessee, Confederate Pension Applications, Soldiers and Widows, 1891-1965
+Tennessee, County Marriages, 1790-1950
+Tennessee, Freedmen's Bureau Field Office Records, 1865-1872
+Tennessee, Putnam County Marriages, 1930-1961
+Tennessee, Putnam County Records, 1842-1955
+Tennessee, White County Records, 1809-1975
+Texas Birth Certificates, 1903-1935
+Texas Birth Index, 1903-1997
+Texas Births and Christenings, 1840-1981
+Texas Death Index, 1903-2000
+Texas Death Index, 1964-1998
+Texas Deaths and Burials, 1903-1973
+Texas Deaths, 1890-1976
+Texas Deaths, 1977-1986
+Texas Divorce Index, 1968-2010
+Texas Marriages, 1837-1973
+Texas Marriages, 1966-2010
+Texas Naturalization Records, 1906-1989
+Texas Probate Records, 1800-1990
+Texas and Arizona Arrivals, 1903-1910
+Texas, Bexar County, San Antonio Cemetery Records, 1893-2007
+Texas, Brownsville Passenger and Crew List of Airplanes, 1943-1964
+Texas, Church Marriages, 1839-1982
+Texas, Church Marriages, 1845-1957
+Texas, Civil War Service Records of Confederate Soldiers, 1861-1865
+Texas, Civil War Service Records of Union Soldiers, 1861-1865
+Texas, Coleman County Records, 1849-2008
+Texas, Comanche County Records, 1858-1955
+Texas, Concho County Records, 1849-2008
+Texas, County Marriage Index, 1837-1977
+Texas, County Marriage Records, 1837-1965
+Texas, County Tax Rolls, 1837-1910
+Texas, Daughters of the Republic of Texas, Membership Applications, 1892-2010
+Texas, Eagle Pass Arrival Manifests and Indexes, 1905-1954
+Texas, Eastland County Records, 1868-1949
+Texas, El Paso Alien Arrivals, 1924-1952
+Texas, El Paso Manifests of Arrivals at the Port of El Paso, 1905-1927
+Texas, Freedmen's Bureau Field Office Records, 1865-1870
+Texas, Gonzales County, Death records, 1863-1970
+Texas, Gonzalez de la Garza Genealogy Collection
+Texas, Houston Arrival Manifests of Airplanes, 1946-1954
+Texas, Houston, Historic Hollywood Cemetery Records, 1895-2008
+Texas, Indexes and Manifests of Arrivals at the Port of Del Rio, 1906-1953
+Texas, Laredo Arrival Manifests, 1903-1955
+Texas, Laredo Index of Arrivals, 1903-1929
+Texas, Manifests of Aliens Granted Temporary Admission at El Paso, ca. July 1924-1954
+Texas, Matagorda County, School Census Records, 1923-1946
+Texas, Mills County Clerk Records, 1841-1985
+Texas, Nolan County, Civil Court Minutes and Case Files, 1881-1938
+Texas, San Antonio, Alien Arrivals, May 1944-March 1952
+Texas, Swisher County Records, 1879-2012
+Texas, World War I Records, 1917-1920
+Ukraine Births and Baptisms, 1784-1879
+Ukraine, Donetsk Church Books, 1809-1928
+Ukraine, Kiev Confession Lists, 1799-1911
+Ukraine, Kyiv Orthodox Consistory Church Book Duplicates, 1734-1920
+Ukraine, Odessa Census Records 1897
+Ukraine, Sumy Civil Registers, 1918-1922
+Ukraine, Western Ukraine Catholic Church Book Duplicates, 1600-1937
+Ukraine, Zaporizhia Poll Tax Census (Revision Lists), 1811-1858
+United Kingdom, Chelsea Pensioners' Service Records, 1760-1913
+United Kingdom, Maritime Births, Marriages, and Deaths, 1787-1933
+United Kingdom, Merchant Navy Seamen Records, 1835-1941
+United Kingdom, Militia Service Records, 1806-1915
+United Kingdom, Royal Hospital Chelsea: Discharge Documents of Pensioners 1760-1887 (WO 122)
+United Kingdom, World War I Service Records, 1914-1920
+United Kingdom, World War I Women's Army Auxiliary Corps Records, 1917-1920
+United States American Prisoners of War During the Korean War, 1950-1953
+United States Births and Christenings, 1867-1931
+United States Border Crossings from Canada to United States, 1895-1956
+United States Border Crossings from Mexico to United States, 1903-1957
+United States Bureau of Land Management Tract Books, 1800-c. 1955
+United States Casualties of Army Personnel, Dependents and Civilian Employees, 1961-1981
+United States Casualties of the Vietnam War, 1956-1998
+United States Census (Mortality Schedule), 1850
+United States Census (Slave Schedule), 1850
+United States Census of Merchant Seamen, 1930
+United States Census of Union Veterans and Widows of the Civil War, 1890
+United States Census, 1790
+United States Census, 1800
+United States Census, 1810
+United States Census, 1820
+United States Census, 1830
+United States Census, 1840
+United States Census, 1850
+United States Census, 1860
+United States Census, 1870
+United States Census, 1880
+United States Census, 1890
+United States Census, 1900
+United States Census, 1910
+United States Census, 1920
+United States Census, 1930
+United States Census, 1940
+United States Civil War Confederate Applications for Pardons, 1865-1867
+United States Civil War Confederate Papers of Citizens or Businesses, 1861-1865
+United States Civil War Records of Confederate Nonregiment Soldiers, 1861-1865
+United States Civil War Service Records of Confederate Soldiers, 1861-1865
+United States Civil War Service Records of Union Colored Troops, 1863-1865
+United States Civil War Service Records of Union Soldiers, 1864-1866
+United States Civil War Soldiers Index, 1861-1865
+United States Civil War Unfiled Papers of Confederate Soldiers, 1861-1865
+United States Civil War Widows and Other Dependents Pension Files, 1861-1934
+United States Civil War and Later Pension Index, 1861-1917
+United States Confederate Navy and Marine Service Records, 1861-1865
+United States Confederate Officers Card Index, 1861-1865
+United States Deaths and Burials, 1867-1961
+United States Deceased Physician File (AMA), 1864-1968
+United States Enumeration District Maps for the Twelfth through the Sixteenth US Censuses, 1900-1940
+United States Famine Irish Passenger Index, 1846-1851
+United States Freedmen's Bureau, Records of Freedmen, 1865-1872
+United States General Index to Pension Files, 1861-1934
+United States Germans to America Index, 1850-1897
+United States Headstone Applications for U.S. Military Veterans, 1925-1949
+United States Index to Alien Case Files, 1940-2003
+United States Index to General Correspondence of the Pension Office, 1889-1904
+United States Index to Indian Wars Pension Files, 1892-1926
+United States Index to Naturalizations of World War I Soldiers, 1918
+United States Index to Passenger Arrivals, Atlantic and Gulf Ports, 1820-1874
+United States Index to Service Records, War with Spain, 1898
+United States Internal Revenue Assessment Lists, 1862-1874
+United States Italians to America Index, 1855-1900
+United States Japanese Americans Relocated During World War II, 1942-1946
+United States Korean War Battle Deaths, 1950-1957
+United States Korean War Dead and Army Wounded, 1950-1953
+United States Korean War Repatriated Prisoners of War, 1950-1954
+United States Marriages, 1733-1990
+United States Mexican War Index and Service Records, 1846-1848
+United States Mexican War Pension Index, 1887-1926
+United States Military Personnel who Died During the Vietnam War, 1956-2003
+United States Mormon Battalion Pension Applications, 1846-1923
+United States Muster Rolls of the Marine Corps, 1798-1937
+United States National Homes for Disabled Volunteer Soldiers, 1866-1938
+United States National Register of Scientific and Technical Personnel Files, 1954-1970
+United States Naval Enlistment Rendezvous, 1855-1891
+United States Navy Widows' Certificates, 1861-1910
+United States Old War Pension Index, 1815-1926
+United States Passport Applications, 1795-1925
+United States Public Records, 1970-2009
+United States Records of Confederate Prisoners of War, 1861-1865
+United States Records of Headstones of Deceased Union Veterans, 1879-1903
+United States Register of Confederates and Civilians Who Died in the North,1861-1865
+United States Registers of Enlistments in the U.S. Army, 1798-1914
+United States Remarried Widows Index to Pension Applications, 1887-1942
+United States Revolutionary War Compiled Service Records, 1775-1783
+United States Revolutionary War Pension Payment Ledgers, 1818-1872
+United States Revolutionary War Pension and Bounty Land Warrant Applications, 1800-1900
+United States Revolutionary War Rolls, 1775-1783
+United States Revolutionary War, Virginia Pension Application Files, 1830-1875
+United States Rosters of Revolutionary War Soldiers and Sailors, 1775-1783
+United States Russians to America Index, 1834-1897
+United States Social Security Death Index
+United States Union Provost Marshal Files of Individual Civilians, 1861-1866
+United States Union Provost Marshal Files of Two or More Civilians, 1861-1866
+United States Veterans Administration Pension Payment Cards, 1907-1933
+United States War of 1812 Index to Pension Application Files, 1812-1910
+United States War of 1812 Index to Service Records, 1812-1815
+United States World War I Draft Registration Cards, 1917-1918
+United States World War II Army Enlistment Records, 1938-1946
+United States World War II Draft Registration Cards, 1942
+United States World War II Draft Registration Cards, 1942
+United States World War II Prisoners of War of the Japanese, 1941-1945
+United States, Burial Registers for Military Posts, Camps, and Stations,1768-1921
+United States, Cancelled, Relinquished, or Rejected Land Entry Case Files, 1861-1932
+United States, Freedman's Bank Records, 1865-1874
+United States, Freedmen's Branch Records, 1872-1878
+United States, Freedmen's Bureau Claim Records,1865-1872
+United States, Freedmen's Bureau Hospital and Medical Records, 1865-1872
+United States, Freedmen's Bureau Labor Contracts, Indenture and Apprenticeship Records, 1865-1872
+United States, Freedmen's Bureau Marriages, 1861-1872
+United States, Freedmen's Bureau Ration Records,1865-1872
+United States, Freedmen's Bureau Records of Persons and Articles Hired, 1865-1872
+United States, Freedmen's Bureau, Freedmen's Court Records, 1865-1872
+United States, Freedmen's Bureau, Land and Property Records, 1865-1872
+United States, Freedmen's Bureau, Records of Freedmen's Complaints, 1865-1872
+United States, Freedmen's Bureau, Records of the Assistant Commissioner, 1865-1872
+United States, Freedmen's Bureau, Records of the Commissioner, 1865-1872
+United States, Freedmen's Bureau, Records of the Superintendent of Education and of the Division of Education, 1865-1872
+United States, GenealogyBank Obituaries, 1980-2014
+United States, Homestead Final Certificates, 1863-1909
+United States, New England Passenger and Crew Lists, 1911-1954
+United States, New England Petitions for Naturalization Index, 1791-1906
+United States, New England Seamen's Identification Cards, 1918-1940
+United States, New England, Petitions for Naturalization, 1787-1906
+United States, Obituaries, American Historical Society of Germans from Russia, 1899-2012
+United States, Panama Canal Zone, Employment Records and Sailing lists, 1905-1937
+United States, Panama Canal Zone, Index to the Gorgas Hospital Mortuary Registers, 1906-1991
+United States, World War II Prisoners of War, 1941-1945
+United States, YMCA World War I Service Cards, 1917-1919
+Uruguay Baptisms, 1750-1900
+Uruguay Civil Registration, 1879-1930
+Uruguay Marriages, 1840-1900
+Utah Applications Indian War Service Medals, 1905-1912
+Utah Births and Christenings, 1892-1941
+Utah Death Certificates, 1904-1964
+Utah Deaths and Burials, 1888-1946
+Utah Marriages, 1887-1935
+Utah Mormon Pioneer Overland Travel Database, 1847-1868
+Utah Naturalization Records, 1906-1930
+Utah Probate Records, 1851-1961
+Utah, Birth Certificates, 1903-1914
+Utah, Box Elder County Records, 1856-1960
+Utah, Cache County Records, 1861-1955
+Utah, Civil War Service Records of Union Soldiers, 1861-1865
+Utah, County Marriages, 1887-1940
+Utah, Davis County Records, 1869-1953
+Utah, Eureka and Payson, Births and Deaths, 1898-1903
+Utah, FamilySearch, Early Church Information File, 1830-1900
+Utah, George Edward Anderson Photo Collection, 1860-1928
+Utah, Grand Army of the Republic Membership Records, 1879-1934
+Utah, Indian War Service Affidavits, 1909-1917
+Utah, Juab County Records, 1847-1948
+Utah, LDS Mission Calls and Recommendations, 1877-1918
+Utah, Missionary Department Missionary Registers, 1860-1937
+Utah, Obituaries from Utah Newspapers, 1850-2005
+Utah, Pioneers and Prominent Men of Utah, 1847-1868
+Utah, Salt Lake City Cemetery Records, 1847-1976
+Utah, Salt Lake County Birth Records, 1890-1915
+Utah, Salt Lake County Death Records, 1849-1949
+Utah, State Archives Records, 1848-2001
+Utah, Territorial Case Files of the U.S. District Courts, 1870-1896
+Utah, Territorial Militia Records, 1849-1877
+Utah, Tooele County Records, 1855-1956
+Utah, Tremonton and Garland Obituaries, 1959-2013
+Utah, Uintah County Land and Property Records, 1888-2004
+Utah, Uintah County Marriage Records, 1888-1939
+Utah, Uintah County Naturalization and Citizenship Records, 1888-1929
+Utah, Utah County Records, 1850-1962
+Utah, Veterans with Federal Service Buried in Utah, Territorial to 1966
+Utah, Weber County Marriages, 1887-1941
+Venezuela Civil Registration, 1873-2003
+Venezuela, Archdiocese of Mérida, Catholic Church Records, 1654-2013
+Venezuela, Archdiocese of Valencia, Catholic Church Records, 1760, 1905-2013
+Venezuela, Catholic Church Records, 1577-1995
+Venezuela, Diocese of San Cristóbal, Catholic Church Records, 1601-1962
+Vermont Births and Christenings, 1765-1908
+Vermont Deaths and Burials, 1871-1965
+Vermont Land Records, Early to 1900
+Vermont Marriages, 1791-1974
+Vermont Naturalization Records, 1908-1987
+Vermont Probate Files, 1800-1921
+Vermont Vital Records, 1760-1954
+Vermont Vital Records, 1760-2008
+Vermont, Addison County and District Probate Files, 1845-1915
+Vermont, Bennington County, Manchester District Estate Files, 1779-1935
+Vermont, Enrolled Militia Records, 1861-1867
+Vermont, Franklin County Probate Records, 1796-1921
+Vermont, Orange County, Bradford District Estate Files, 1780-1915
+Vermont, Orange County, Randolph District Probate Records, 1790-1935
+Vermont, St. Albans Canadian Border Crossings, 1895-1954
+Vermont, Town Clerk, Vital and Town Records, 1732-2005
+Vermont, Town Records, 1850-2005
+Vermont, Washington County, Probate Estate Files, 1862-1915
+Vermont, Windham County, Westminster District, Probate Records, 1781-1921
+Virgin Islands US, Church Records, 1765-2010
+Virginia Births and Christenings, 1584-1917
+Virginia Deaths and Burials, 1853-1912
+Virginia Marriages, 1785-1940
+Virginia Naturalization Petitions, 1906-1929
+Virginia, African-American Funeral Programs, 1935-2009
+Virginia, Alexandria Passenger and Crew Lists of Vessels, 1946-1957
+Virginia, Civil War Service Records of Confederate Soldiers, 1861-1865
+Virginia, Civil War Service Records of Union Soldiers, 1861-1865
+Virginia, Danville City Cemetery Records, 1833-2006
+Virginia, Fluvanna County Colbert Funeral Home Records, 1929-1976
+Virginia, Freedmen's Bureau Field Office Records, 1865-1872
+Virginia, Historical Society Papers, 1607-2007
+Virginia, Isle of Wight County Records, 1634-1951
+Virginia, Orange County Marriage Records, 1757-1938
+Virginia, Richmond City Birth Index, 1870-1912
+Virginia, Surry County Marriage Records, 1735-1950
+Virginia, Winchester, Evening Star Obituaries, 1899-1909
+Wales Births and Baptisms, 1541-1907
+Wales Court and Miscellaneous Records, 1542-1911
+Wales Deaths and Burials, 1586-1885
+Wales Marriages, 1541-1900
+Wales Probate Abstracts, 1544-1858
+Wales, Anglesey, Parish Registers, 1538-1912
+Wales, Brecknockshire, Parish Registers, 1538-1912
+Wales, Caernarvonshire, Parish Registers, 1538-1912
+Wales, Cardiganshire, Parish Registers, 1538-1912
+Wales, Carmarthenshire, Parish Registers, 1538-1912
+Wales, Denbighshire, Parish Registers, 1538-1912
+Wales, Flintshire, Parish Registers, 1538-1912
+Wales, Glamorgan Parish Registers, 1558-1900
+Wales, Glamorgan, Parish Register Marriages, 1837-1922
+Wales, Glamorgan, West Glamorgan, Electoral Registers, 1839-1925
+Wales, Glamorganshire, Parish Registers, 1538-1912
+Wales, Merionethshire, Parish Registers, 1538-1912
+Wales, Monmouthshire, Parish Registers, 1538-1912
+Wales, Montgomeryshire, Parish Registers, 1538-1912
+Wales, Pembrokeshire, Parish Registers, 1538-1912
+Wales, Radnorshire, Parish Registers, 1538-1912
+Washington Birth Records, 1869-1950
+Washington Death Certificates, 1907-1960
+Washington Death Index, 1965-2014
+Washington Divorce Index, 1969-2014
+Washington Postmaster Indexes, Prior to 1965
+Washington, Applications for Enrollment and Adoption of Washington Indians, 1911-1919
+Washington, County Deaths, 1891-1907
+Washington, County Divorce Records, 1852-1950
+Washington, County Land Records, 1850-1954
+Washington, County Marriages, 1855-2008
+Washington, County Naturalization Records, 1850-1982
+Washington, County Probate Case Files, 1832-1950
+Washington, County Probate Records, 1853-1929
+Washington, County Records, 1803-2010
+Washington, Cowlitz County Civil Court Dockets, 1876-1951
+Washington, King County Probate Records, 1854-1927
+Washington, Pierce County Marriage Returns, 1891-1938
+Washington, Seattle, Passenger Lists, 1890-1957
+Washington, Seattle, Passenger and Crew Lists of Airplanes, 1947-1954
+Washington, Soldier Home Records, 1891-1945
+Washington, Western District, Naturalization Records, 1853-1957
+West Virginia Births and Christenings, 1853-1928
+West Virginia Births, 1853-1930
+West Virginia Civil War Service Records of Union Soldiers, 1861-1865
+West Virginia Deaths and Burials, 1854-1932
+West Virginia Deaths, 1804-1999
+West Virginia Marriages, 1780-1970
+West Virginia Marriages, 1854-1932
+West Virginia Naturalization Records, 1814-1991
+West Virginia Will Books, 1756-1971
+West Virginia, Berkeley County, Church Marriages, 1819-1889
+Wisconsin Birth Index, 1820-1907
+Wisconsin Births and Christenings, 1826-1926
+Wisconsin Death Index, 1820-1907
+Wisconsin Death Index, 1959-1997
+Wisconsin Deaths and Burials, 1835-1968
+Wisconsin Divorce Index, 1965-1984
+Wisconsin Marriage Index, 1973-1997
+Wisconsin Marriages, 1836-1930
+Wisconsin Probate Estate Files, 1848-1948
+Wisconsin State Census, 1855
+Wisconsin State Census, 1865
+Wisconsin State Census, 1875
+Wisconsin State Census, 1885
+Wisconsin State Census, 1895
+Wisconsin State Census, 1905
+Wisconsin, Calumet County, New Holstein Public Library Records, 1900-2001
+Wisconsin, County Marriages, 1836-1911
+Wisconsin, County Naturalization Records, 1807-1992
+Wisconsin, Crew Lists of Ship Arrivals, 1925-1956
+Wisconsin, Crew Lists of Vessels Arriving at Manitowoc, 1925-1956
+Wisconsin, Dane County Naturalization Records, 1887-1945
+Wisconsin, Death Records, 1867-1907
+Wisconsin, Fond du Lac Public Library Records, 1848-1980
+Wisconsin, Milwaukee Naturalization Index, 1848-1990
+Wisconsin, Milwaukee Passenger and Crew Lists, 1922-1963
+Wisconsin, Milwaukee Petitions for Naturalization, 1848-1991
+Wisconsin, Outagamie County Records, 1825-1980
+Wisconsin, Shawano and Oconto Counties, Indexes and Records, 1850-2007
+World Miscellaneous Births and Baptisms, 1534-1983
+World Miscellaneous Deaths and Burials, 1767-1950
+World Miscellaneous Marriages, 1662-1945
+Wyoming Marriages, 1869-1923
+Wyoming Marriages, 1877-1920
+Wyoming, Star Valley Independent Obituaries, 1901-2015
+Zimbabwe Death Registers, 1890-1977; Index to Death Register, 1892-1977
+Zimbabwe Death notices, 1904-1976

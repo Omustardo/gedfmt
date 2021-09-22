@@ -1,0 +1,91 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WikiTreeBioFormatterDesktop
+</name>
+</assembly>
+<members>
+<member name="P:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources.admin_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources.arrow_down_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources.ChromeSavePage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources.clip1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources.clip1_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources.close_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources.Database_Active">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources.FirefoxSavePage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources.IESavePage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources.save_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources.trash_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:WikiTree_Bio_Formatter_Desktop.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:WikiTree_Bio_Formatter_Desktop.WTBRoutines.FormatDateString(System.String,System.Int32,System.Int32)">
+	<summary>
+ Routine to format a date
+ </summary>
+	<param name="IncomingDate">An Asian formatted date</param>
+	<param name="FormatIndex">The index number of the combo box</param>
+	<param name="StyleIndex">The index number of the combo box</param>
+	<returns>Returns a formatted date string as a string value</returns>
+	<remarks>The incoming date is always in Asian format</remarks>
+</member><member name="M:WikiTree_Bio_Formatter_Desktop.WTBRoutines.DownloadDataFile(System.String,System.String)">
+	<summary>
+ Only used when accessing Open profiles directly
+ </summary>
+	<param name="FileURL">The full URL of the profile</param>
+	<param name="FileTarget">Where to store the downloaded file</param>
+	<returns>True or False indicating Success or Failure</returns>
+	<remarks></remarks>
+</member><member name="M:WikiTree_Bio_Formatter_Desktop.WTPageReader.GetPageData">
+	<summary>
+ Used to load a previously saved edit mode page into the builder
+ </summary>
+	<returns>True or False indicating Success or Failure</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

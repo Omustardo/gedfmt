@@ -1,0 +1,176 @@
+﻿<span class="large"><b>Edit Data</b></span><br />
+Bold fields are required. Enter "Unknown" or "Anonymous" in <a href="/wiki/Name_Fields#Names_for_Living_People" target="_Help">rare cases</a> where it's necessary. Click any <a href="/wiki/Name_Fields" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Explanation of Name Fields"></a> icon for an <a href="/wiki/Name_Fields" target="_Help">help on proper usage</a>.
+
+<table width="100%" border="0">
+
+<tr>
+	<td align="left" valign="top" width="25%"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> Prefix:</td>
+	<td width="50%">
+		<input class="small" type="text" id="mPrefix" name="mPrefix" tabindex="1" value="" size="10" maxlength="10" /><a href="/wiki/Name_Fields#Prefix" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="E.g. Mr., Sir, Sgt. Click here for explanation of Prefix"></a>
+<span class="small">
+		<label><input type="radio" name="mStatus_Prefix" value="guess"  />uncertain</label>
+		<label><input type="radio" name="mStatus_Prefix" value="certain"  />certain</label></span>
+	</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> <b>Proper First Name</b>:</td>
+	<td><a name="first-name"></a>
+		<input class="small" type="text" id="mFirstName" name="mFirstName" tabindex="2" value="William" size="20" onChange="anonNotBlank(this, 'mFirstNameAnonNote')" /><a href="/wiki/Name_Fields#Proper_First_Name" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Explanation of Proper First Name"></a>
+<span class="SMALL">
+		<label><input type="radio" name="mStatus_FirstName" value="guess"  />uncertain</label>
+		<label><input type="radio" name="mStatus_FirstName" value="certain"  />certain</label></span>
+		<div id='mFirstNameAnonNote' class="anonNote">
+Only use Anonymous in <a href="/wiki/Name_Fields#Names_for_Living_People" target="_Help">rare cases</a> of a living or recently-deceased person for whom WikiTree's <a href="/wiki/Privacy" target="_Help">privacy controls</a> are insufficient. You can make the Proper First Name and Preferred First Name the same, or use Unknown if the first name is unknown.
+</div>
+	</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> <b>Preferred Name</b>:</td>
+	<td>
+		<input class="small" type="text" id="mRealName" name="mRealName" tabindex="3" value="William" size="20" onChange="anonNotBlank(this,'mRealNameAnonNote')" /><a href="/wiki/Name_Fields#Preferred_First_Name" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Explanation of Preferred First Name"></a>
+<span class="SMALL">
+		<label><input type="radio" name="mStatus_RealName" value="guess"  />uncertain</label>
+		<label><input type="radio" name="mStatus_RealName" value="certain"  />certain</label></span>
+		<div id='mRealNameAnonNote' class="anonNote">
+Only use Anonymous in <a href="/wiki/Name_Fields#Names_for_Living_People" target="_Help">rare cases</a> of a living or recently-deceased person for whom WikiTree's <a href="/wiki/Privacy" target="_Help">privacy controls</a> are insufficient. You can make the Proper First Name and Preferred First Name the same, or use Unknown if the first name is unknown.
+</div>
+</tr>
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> Other Nicknames:</td>
+	<td>
+		<input class="small" type="text" id="mNicknames" name="mNicknames" tabindex="4" value="" size="20" /><a href="/wiki/Name_Fields#Other_Nicknames" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Explanation of Other Nicknames"></a>
+<span class="SMALL">
+		<label><input type="radio" name="mStatus_Nicknames" value="guess"  />uncertain</label>
+		<label><input type="radio" name="mStatus_Nicknames" value="certain"  />certain</label></span>
+</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> Middle Name:</td>
+	<td><a name="middle-name"></a>
+		<input class="small" type="text" id="mMiddleName" name="mMiddleName" tabindex="5" value="" size="20" /><a href="/wiki/Name_Fields#Middle_Name" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Explanation of Middle Name"></a>
+<span class="SMALL">
+		<label><input type="radio" name="mStatus_MiddleName" value="guess"  />uncertain</label>
+		<label><input type="radio" name="mStatus_MiddleName" value="certain"  />certain</label><br />
+		<label><input type="radio" name="mStatus_MiddleName" value="blank"  />no middle name</label></span>
+</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> <b>Last Name at Birth</b>:</td>
+	<td><a name="last-name"></a>
+	Sparrow <a href="/wiki/Name_Fields#Last_Name_at_Birth" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Explanation of Last Name at Birth"></a> [<a href="/index.php?title=Special:ChangeLNAB&u=12591827" class="SMALL">edit</a>]<br />
+	</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> <b>Current Last Name</b>:</td>
+   <td><input class="small" type="text" id="mLastNameCurrent" name="mLastNameCurrent" tabindex="6" value="Sparrow" size="20" onChange="anonNotBlank(this,'mLNCAnonNote')" /><a href="/wiki/Name_Fields#Current_Last_Name" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Explanation of Current Last Name"></a>
+<span class="SMALL">
+		<label><input type="radio" name="mStatus_LastNameCurrent" value="guess"  />uncertain</label>
+		<label><input type="radio" name="mStatus_LastNameCurrent" value="certain"  />certain</label></span>
+		<div id='mLNCAnonNote' class="anonNote">
+Only use Anonymous in <a href="/wiki/Name_Fields#Names_for_Living_People" target="_Help">rare cases</a> of a living or recently-deceased person for whom WikiTree's <a href="/wiki/Privacy" target="_Help">privacy controls</a> are insufficient. You can make the Current Last Name and Last Name at Birth the same, or use Unknown if the last name is unknown.
+</div>
+</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> Other Last Name(s):</td>
+   <td><input class="small" type="text" id="mLastNameOther" name="mLastNameOther" tabindex="7" value="" size="20" /><a href="/wiki/Name_Fields#Other_Last_Names" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Explanation of Other Last Names"></a>
+<span class="SMALL">
+		<label><input type="radio" name="mStatus_LastNameOther" value="guess"  />uncertain</label>
+		<label><input type="radio" name="mStatus_LastNameOther" value="certain"  />certain</label></span>
+</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> Suffix:</td>
+	<td>
+		<input class="small" type="text" id="mSuffix" name="mSuffix" tabindex="8" value="" size="10" maxlength="10" /><a href="/wiki/Name_Fields#Suffix" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="E.g. Jr., III, M.D. Click here for explanation of Suffix"></a>
+<span class="SMALL">
+		<label><input type="radio" name="mStatus_Suffix" value="guess"  />uncertain</label>
+		<label><input type="radio" name="mStatus_Suffix" value="certain"  />certain</label></span>
+</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> Birth Date:</td>
+   <td><a name="birth-date"></a>
+		<input class="small" type="text" id="mBirthDate" name="mBirthDate" tabindex="9" value="1712" size="20" /><a href="/wiki/Date_Fields" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="E.g. 2012, Dec. 2012, December 12, 2012. Click here for date field help."></a><br />
+<span class="SMALL">
+		<label><input type="radio" name="mStatus_BirthDate" value="guess"  />about/uncertain</label>
+		<label><input type="radio" name="mStatus_BirthDate" value="certain"  />exact/certain</label><br />
+		<label><input type="radio" name="mStatus_BirthDate" value="before"  />before this date</label>
+		<label><input type="radio" name="mStatus_BirthDate" value="after"  />after this date</label>
+		<label><input type="radio" name="mStatus_BirthDate" value="blank"  />blank for extra privacy</label></span>
+	</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> Birth Place:</td>
+    <td><a name="birth-place"></a>
+       <input class="small" type="text" id="mBirthLocation" name="mBirthLocation" tabindex="10" value="" size="20" /><a href="/wiki/Location_Fields" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Location Field Help"></a>
+<span class="SMALL">
+		<label><input type="radio" name="mStatus_BirthLocation" value="guess"  />uncertain</label>
+		<label><input type="radio" name="mStatus_BirthLocation" value="certain"  />certain</label><br />
+		<label><input type="radio" name="mStatus_BirthLocation" value="blank"  />blank for extra privacy</label></span>
+</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> Death Date: </td>
+   <td><a name="death-date"></a>
+		<input class="small" type="text" id="mDeathDate" name="mDeathDate" tabindex="11" value="" size="20" /><a href="/wiki/Date_Fields" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="E.g. 2012, Dec. 2012, December 12, 2012. Click here for date field help."></a><br />
+<span class="SMALL">
+		<label><input type="radio" name="mStatus_DeathDate" value="guess"  />about/uncertain but non-living</label>
+		<label><input type="radio" name="mStatus_DeathDate" value="certain"  />exact/certain</label><br />
+		<label><input type="radio" name="mStatus_DeathDate" value="before"  />before this date</label>
+		<label><input type="radio" name="mStatus_DeathDate" value="after"  />after this date</label>
+		<label><input type="radio" name="mStatus_DeathDate" value="blank"  />still living</label></span>
+</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> Death Place:</td>
+    <td><a name="death-place"></a>
+       <input class="small" type="text" id="mDeathLocation" name="mDeathLocation" tabindex="12" value="" size="20" /><a href="/wiki/Location_Fields" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Location Field Help"></a>
+<span class="SMALL">
+		<label><input type="radio" name="mStatus_DeathLocation" value="guess"  />uncertain</label>
+		<label><input type="radio" name="mStatus_DeathLocation" value="certain"  />certain</label><br />
+		<label><input type="radio" name="mStatus_DeathLocation" value="blank"  />intentionally blank because still living</label></span>
+</td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> Gender:</td>
+   <td><a name="gender"></a>
+      <select tabindex="13" class="small" name="mGender">
+         <option value=""></option>
+         <option value="Male" selected="selected">Male</option>
+         <option value="Female">Female</option>
+      </select>
+   </td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> E-Mail Address:</td>
+    <td><a name="e-mail"></a>
+	 <!-- this is someone else, who's passive -->
+	<input class="small" type="text" name="mEmail" tabindex="15" value="" size="35" onChange="emailWarning(this,0)">
+	<br />When you add/replace an e-mail address for a living family member they will be invited to join. E-mail addresses aren't used for spam.
+			<br /><span class="SMALL">[<a href="/wiki/Invitations">invite someone other than William</a>]</span>
+
+	<div id='inv_comment' class='inv_comment_off'>Comments on invitation:<br />
+		<textarea name="comments" rows="5" cols="40"></textarea>
+	</div>
+
+	    </td>
+</tr>
+
+</table>
+
+	</div>
+	<div class="six columns omega">

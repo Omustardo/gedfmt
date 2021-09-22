@@ -1,0 +1,27 @@
+﻿<span class="large"><b>Edit Photo Settings</b></span>
+<table width="100%" border="0">
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> Primary Photo:</td>
+
+    <td>
+	<a href="/index.php?title=Special:UploadPhoto&amp;person_id=12591827"><img src="http://www.wikitree.com/images/icons/male.gif" width="75" height="100" border="0" alt="upload photo of William Sparrow"></a>
+<div class="SMALL">
+[none]<br />
+[<a href="/index.php?title=Special:UploadPhoto&amp;person_id=12591827" target="_blank">add image</a>]
+</div>
+	    </td>
+</tr>
+
+<tr>
+	<td align="left" valign="top"><a href="/wiki/Privacy#Public_information" target="_Privacy"><img src="/images/icons/dot50.gif" width="10" height="12" alt="Public information" border="0" /></a> <a href="/wiki/Background_Images" target="_Help">Background Image</a>:</td>
+    <td>
+	<input class="small" type="text" name="wpAddBackground" size="15" /><a href="/wiki/Background_Images" target="_Help"><img src="/images/icons/help.gif" border="0" width="11" height="11" alt="Help" title="Click here for background image help."></a>
+	    </td>
+</tr>
+</table>
+
+	</div>
+	<div class="clearfix"></div>
+
+

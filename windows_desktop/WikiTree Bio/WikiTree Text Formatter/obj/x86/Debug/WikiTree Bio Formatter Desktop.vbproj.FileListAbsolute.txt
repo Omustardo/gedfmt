@@ -1,0 +1,20 @@
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\bin\x86\Debug\WikiTree Bio Formatter Desktop.exe
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\bin\x86\Debug\WikiTreeAPIWrapper.dll
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\bin\x86\Debug\fastJSON.dll
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\bin\x86\Debug\WikiTreeAPIWrapper.pdb
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\bin\x86\Debug\WikiTreeAPIWrapper.xml
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\obj\x86\Debug\WikiTree Bio Formatter Desktop.vbprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\obj\x86\Debug\WikiTree_Bio_Formatter_Desktop.AboutDonations.resources
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\obj\x86\Debug\WikiTree_Bio_Formatter_Desktop.PasteBox.resources
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\obj\x86\Debug\WikiTree_Bio_Formatter_Desktop.SelectProfile.resources
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\obj\x86\Debug\WikiTree_Bio_Formatter_Desktop.ProfileSetupDialog.resources
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\obj\x86\Debug\WikiTree_Bio_Formatter_Desktop.WBFMain.resources
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\obj\x86\Debug\WikiTree_Bio_Formatter_Desktop.Resources.resources
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\obj\x86\Debug\WikiTree Bio Formatter Desktop.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\obj\x86\Debug\WikiTree Bio Formatter Desktop.exe
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\obj\x86\Debug\WikiTree Bio Formatter Desktop.xml
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\obj\x86\Debug\WikiTree Bio Formatter Desktop.pdb
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\bin\x86\Debug\WikiTree Bio Formatter Desktop.exe.config
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\bin\x86\Debug\WikiTree Bio Formatter Desktop.pdb
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\bin\x86\Debug\WikiTree Bio Formatter Desktop.xml
+C:\Users\David\Documents\Projects\WikiTree Bio\WikiTree Bio Formatter Desktop\obj\x86\Debug\WikiTree_Bio_Formatter_Desktop.FUnderConstruction.resources
