@@ -4,6 +4,7 @@
  -->
 <html>
 <head>
+<title>gedfmt</title>
 <style>
     .textbox {
         border:1px solid black;
@@ -15,18 +16,27 @@
         white-space: pre-wrap;
         overflow:scroll;
     }
+    .format_button {
+        background: rgba(76, 175, 80, 0.6);
+        padding: 20px;
+        position:fixed;
+        top: 20px;
+        left: 40px;
+    }
     .clipboard_button {
+        background: rgba(76, 175, 80, 0.6);
         padding: 20px;
         position:fixed;
         top: 20px;
         right: 40px;
     }
-	.format_button {
-        padding: 20px;
-        position:fixed;
-        top: 20px;
-        left: 40px;
-	}
+    .helpbox {
+        background: rgba(76, 175, 80, 1.0);
+        padding: 0px;
+        position:absolute;
+        top: 0px;
+        left: 0px;
+    }
 </style>
 </head>
 
@@ -74,6 +84,7 @@
 </script>
 
 <body>
+<div class="helpbox" id="helpbox"> <a href="https://github.com/Omustardo/gedfmt/tree/main/server/docs"> Instructions </a> </div>
 <div id='container'>
     <!--
      TODO: It would be nice to support oninput="format()" for instantly formatted results. It is probably too much

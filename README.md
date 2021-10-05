@@ -5,6 +5,9 @@ The gedfmt project supports text formatting related to genealogy 'gedcom' files.
 The initial drive for the project was to get more reasonably formatted output from
 WikiTree.com's gedcom import tool, to reduce manual toil when adding many profiles.
 
+If you aren't interested in the code and just want to use something that works, go to 
+http://gedfmt.com. There are also a user instructions at https://github.com/Omustardo/gedfmt/tree/main/server/docs.
+
 ## Directories
 
 ### windows_desktop
