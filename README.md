@@ -6,7 +6,7 @@ The initial drive for the project was to get more reasonably formatted output fr
 WikiTree.com's gedcom import tool, to reduce manual toil when adding many profiles.
 
 If you aren't interested in the code and just want to use something that works, go to 
-http://gedfmt.com. There are also a user instructions at https://github.com/Omustardo/gedfmt/tree/main/server/docs.
+http://gedfmt.com. There are also a user instructions at https://github.com/Omustardo/gedfmt/blob/main/server/docs/user_documentation.md.
 
 ## Directories
 
