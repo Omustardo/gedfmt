@@ -18,24 +18,27 @@
     }
     .format_button {
         background: rgba(76, 175, 80, 0.6);
+        position: fixed;
         padding: 20px;
-        position:fixed;
-        top: 20px;
-        left: 40px;
+        top: 35px;
+        right: 55%;
     }
     .clipboard_button {
         background: rgba(76, 175, 80, 0.6);
+        position: fixed;
         padding: 20px;
-        position:fixed;
-        top: 20px;
-        right: 40px;
+        top: 35px;
+        right: 3%;
     }
     .helpbox {
         background: rgba(76, 175, 80, 1.0);
         padding: 0px;
-        position:absolute;
+        position: absolute;
         top: 0px;
-        left: 0px;
+        right: 0px;
+        font-size: x-large;
+        border: solid;
+        border-width: medium;
     }
 </style>
 </head>
@@ -84,8 +87,9 @@
 </script>
 
 <body>
-<div class="helpbox" id="helpbox"> <a href="https://github.com/Omustardo/gedfmt/blob/main/server/docs/user_documentation.md"> Instructions </a> </div>
+
 <div id='container'>
+    <div class="helpbox" id="helpbox"> <a href="https://github.com/Omustardo/gedfmt/blob/main/server/docs/user_documentation.md"> Instructions </a> </div>
     <!--
      TODO: It would be nice to support oninput="format()" for instantly formatted results. It is probably too much
            server load (if this were to ever have many users) since each keypress would send all of the text and
