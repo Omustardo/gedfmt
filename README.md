@@ -1,12 +1,20 @@
 # gedfmt
 
 The gedfmt project supports text formatting related to genealogy 'gedcom' files.
+There are three different tools. A Windows desktop application, a command-line
+program, and a server to support formatting through a website.
 
 The initial drive for the project was to get more reasonably formatted output from
 WikiTree.com's gedcom import tool, to reduce manual toil when adding many profiles.
 
-If you aren't interested in the code and just want to use something that works, go to 
-http://gedfmt.com. There are also a user instructions at https://github.com/Omustardo/gedfmt/blob/main/server/docs/user_documentation.md.
+As of November 2021, the goal is to set up a website to do the same sort of text formatting.
+The plan is to use http://gedfmt.com but it is not yet available. If you are
+technically inclined, you can run the server to use it locally.
+
+## Alternatives
+
+* https://www.wikitree.com/wiki/Space:WikiTree_AGC
+  This is a Chrome extension with a very similar goal.
 
 ## Directories
 
@@ -36,3 +44,5 @@ It will generate a file named `path/to/file_fmt.txt` (note the _fmt before the e
 
 Server is a Golang executable that exposes an HTTP interface for formatting content.
 It also serves a very minimal webpage.
+
+There are also a user instructions at https://github.com/Omustardo/gedfmt/blob/main/server/docs/user_documentation.md.
