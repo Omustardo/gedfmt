@@ -2,7 +2,13 @@
 
 This tool helps to format WikiTree profiles that are imported through `.gedcom` files.
 
-As of October 2021, it is available at http://gedfmt.com. Note that using the "https" prefix will not work.
+As of November 2021, it requires being run locally in order to access it. This is unfortunately
+a bit technical. It requires opening a command prompt / terminal, running the server executable,
+and then opening the URL (http://localhost:29254/).
+
+I plan to eventually host it at http://gedfmt.com but have not gotten to it yet. If that is too
+complicated, try out an alternative like https://www.wikitree.com/wiki/Space:WikiTree_AGC or
+the desktop application at https://github.com/Omustardo/gedfmt/releases/tag/desktop.
 
 ## Video Instructions
 
